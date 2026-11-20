@@ -1,0 +1,11 @@
+store_id,city,region
+S01,Delhi,North
+S02,Jaipur,North
+S03,Bengaluru,South
+S04,Chennai,South
+S05,Kolkata,East
+S06,Patna,East
+S07,Mumbai,West
+S08,Ahmedabad,West
+S09,Indore,Central
+S10,Bhopal,Central

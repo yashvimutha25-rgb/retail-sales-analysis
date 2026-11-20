@@ -1,0 +1,1546 @@
+﻿Order_ID,Order_Date,Customer_ID,Product,Category,City,Region,Quantity,Unit_Price,Discount,Payment_Mode
+ORD-10001,01/01/2025,C0081,Cooking Oil 5L,Groceries,Bhopal,Central,3,899,0.0,UPI
+ORD-10002,2025-01-01,C0315,Cooking Oil 5L,Groceries ,Chennai,South,1,899,0.0,UPI
+ORD-10003,01-Jan-25,C0182,Dry Fruits Box,Groceries,BENGALURU,south,5,1199,0.0,UPI
+ORD-10004,2025-01-01,C0319,Tea Pack ,Groceries,Indore,Central,2,450,5%,UPI
+ORD-10005,"Jan 01, 2025",C0274,Bluetooth Speaker ,electronics,Kolkata,East,1,1999,0.0,upi
+ORD-10006,"Jan 02, 2025",C0129,Office Chair,FURNITURE,Bhopal,CENTRAL,1,5499,0.1,UPI
+ORD-10007,03-Jan-25,C0093,Cooking Oil 5L,Groceries,Jaipur,North,5,899,0.05,Card
+ORD-10008,2025-01-03,C0083,Basmati Rice 5kg,Groceries ,Jaipur, North ,2,649,0.05,Card
+ORD-10009,03/01/2025,C0159,Basmati Rice 5kg,Groceries,Mumbai ,W,4,649,0.0,Card
+ORD-10010,"Jan 04, 2025",C0055,Tea Pack,Groceries,Chennai,S,3,450,0.0,Cash
+ORD-10011,04-Jan-25,C0116,Laptop,Electronics,patna,E,1,42999,0.05,UPI
+ORD-10012,2025-01-05,C0187,Dry Fruits Box,Groceries,Bengaluru ,South,1,1199,0.05,Net Banking
+ORD-10013,05/01/2025,C0112,Dry Fruits Box,GROCERIES,Ahmedabad,WEST,5,,0.0,UPI
+ORD-10014,2025-01-06,C0029,Tea Pack ,groceries,Delhi, North ,4,450,0.0,Cash
+ORD-10015,06-Jan-25,C0120,Denim Jeans,Clothing,Chennai,south,1,1599,0.1,Card
+ORD-10016,06-Jan-25,C0019,Tea Pack,Groceries,Patna,EAST,1,450,0.0,Card
+ORD-10017,06-Jan-25,C0109,Mixer Grinder,Home & Kitchen,Kolkata,East,1,3299,5%,Card
+ORD-10018,06-Jan-25,C0110,Denim Jeans,Clothing,Kolkata,East,3,1599,0.1,Net Banking
+ORD-10019,"Jan 06, 2025",C0114,Bluetooth Speaker,Electronics ,Delhi,North,1,1999,0.0,Card
+ORD-10020,2025-01-07,C0165,Power Bank,Electronics,ahmedabad,West,2,1299,0.05,Card
+ORD-10021,07-Jan-25,C0134,Air Fryer,Home & Kitchen,Indore,Central,1,"₹5,999",5%,UPI
+ORD-10022,07-Jan-25,C0321,Mixer Grinder,Home & Kitchen,Delhi,North,1,3299,0.05,Credit Card
+ORD-10023,2025-01-07,C0154,Basmati Rice 5kg,Groceries,KOLKATA,East,4,649,0.05,UPI
+ORD-10024,2025-01-07,C0145,Cooking Oil 5L,Groceries,AHMEDABAD,WEST,5,,0.0,UPI
+ORD-10025,"Jan 07, 2025",C0248,Power Bank ,Electronics,Chennai,South,2,1299,0.05,UPI
+ORD-10026,2025-01-08,,Power Bank,electronics,Mumbai,West,1,1299,0.05,UPI
+ORD-10027,08/01/2025,C0274,Men's Jacket,Clothing ,Ahmedabad,West,2,2799,0.2,Card
+ORD-10028,08/01/2025,C0273,Mixer Grinder,Home & Kitchen,Delhi,north,1,3299,0.15,UPI
+ORD-10029,"Jan 08, 2025",C0242,Dry Fruits Box,GROCERIES,Kolkata,EAST,3,1199,0.0,Card
+ORD-10030,08/01/2025,C0170,Smartphone,Electronics,Ahmedabad,west,1,14999,0.05,Cash
+ORD-10031,"Jan 08, 2025",C0211,Dry Fruits Box,Groceries,CHENNAI, South ,2,1199,0.05,UPI
+ORD-10032,2025-01-09,C0250,Study Table ,furniture,Delhi,North,1,4299,0.2,Net Banking
+ORD-10033,"Jan 09, 2025",C0349,Smartphone,Electronics,Jaipur, North ,1,14999,0.05,Card
+ORD-10034,"Jan 10, 2025",C0280,Mixer Grinder,Home & Kitchen,Patna,EAST,1,3299,0.05,Cash
+ORD-10035,11/01/2025,C0040,Power Bank,Electronics,Bengaluru,South,1,1299,5%,Card
+ORD-10036,11/01/2025,C0017,Power Bank,Electronics,jaipur,NORTH,1,1299,0.05,UPI
+ORD-10037,12/01/2025,C0249,Men's Jacket ,Clothing,bengaluru,South,2,2799,0.3,Card
+ORD-10038,13-Jan-25,C0208,Men's Jacket,Clothing,ahmedabad, West ,3,2799,0.2,Card
+ORD-10039,13-Jan-25,C0305,Tea Pack,Groceries,Jaipur ,North,5,450,0.0,Net Banking
+ORD-10040,13/01/2025,C0291,Study Table ,Furniture,Bhopal,Central,1,4299,0.1,Cash
+ORD-10041,14/01/2025,C0120,Air Fryer,Home & Kitchen,Indore ,Central,1,5999,0.0,Card
+ORD-10042,"Jan 14, 2025",C0196,Cookware Set,home & kitchen,Mumbai ,WEST,1,2699,0.1,UPI
+ORD-10043,14-Jan-25,C0323,Dry Fruits Box ,Groceries,Patna,East,2,1199,0.05,UPI
+ORD-10044,15-Jan-25,C0192,Men's Jacket,Clothing,Delhi,North,1,2799,0.1,UPI
+ORD-10045,15-Jan-25,C0080,Sofa Set,furniture,Ahmedabad,West,1,18999,0.15,UPI
+ORD-10046,16-Jan-25,C0029,Air Fryer,Home & Kitchen ,Ahmedabad ,West,1,5999,0.0,UPI
+ORD-10047,16-Jan-25,C0226,Tea Pack,Groceries,Mumbai,West,5,450,0.05,UPI
+ORD-10048,"Jan 17, 2025",C0171,Bookshelf,Furniture,Patna,East,1,3799,0.1,UPI
+ORD-10049,17-Jan-25,C0196,Dry Fruits Box,Groceries,Mumbai,West,5,1199,5%,Cash
+ORD-10050,17/01/2025,C0079,Basmati Rice 5kg,GROCERIES,Delhi,North,5,649,0.05,UPI
+ORD-10051,17/01/2025,C0069,Study Table,Furniture ,chennai,SOUTH,1,4299,0.2,UPI
+ORD-10052,"Jan 18, 2025",,Denim Jeans ,CLOTHING,PATNA,east,1,1599,0.2,upi
+ORD-10053,"Jan 18, 2025",C0073,Water Purifier,Home & Kitchen,patna,East,2,8999,5%,Credit Card
+ORD-10054,18-Jan-25,C0098,Women's Kurta,Clothing,Jaipur,North,3,1199,0.2,Card
+ORD-10055,18/01/2025,C0296,Denim Jeans,Clothing,ahmedabad,West,2,1599,0.3,upi
+ORD-10056,19-Jan-25,C0326,Air Fryer,Home & Kitchen,JAIPUR,,1,5999,0.05,UPI
+ORD-10057,20-Jan-25,C0125,Mixer Grinder,Home & Kitchen,chennai,South,1,3299,0.1,UPI
+ORD-10058,2025-01-20,C0176,Women's Kurta,Clothing,Jaipur, North ,1,1199,0.1,UPI
+ORD-10059,2025-01-20,C0247,Mixer Grinder,Home & Kitchen ,Ahmedabad,West,1,3299,0.1,UPI
+ORD-10060,21/01/2025,C0083,Basmati Rice 5kg,Groceries,Mumbai,W,2,649,0.0,Card
+ORD-10009,03/01/2025,C0159,Basmati Rice 5kg,Groceries,Mumbai ,W,4,649,0.0,Card
+ORD-10061,"Jan 21, 2025",C0315,denim jeans,Clothing,Jaipur,NORTH,2,,0.1,Cash
+ORD-10062,"Jan 21, 2025",C0081,Tea Pack,Groceries,Ahmedabad, West ,1,450,0.0,upi
+ORD-10063,21-Jan-25,C0031,Power Bank,Electronics,Mumbai,West,1,1299,0.0,Net Banking
+ORD-10064,"Jan 22, 2025",C0307,wireless earbuds,ELECTRONICS,Bhopal,Central,1,2499,0.0,upi
+ORD-10065,"Jan 23, 2025",C0019,Study Table,Furniture,Bengaluru,south,2,4299,0.1,UPI
+ORD-10066,"Jan 23, 2025",C0099,Men's Jacket,CLOTHING,Ahmedabad,West,1,2799,10%,Card
+ORD-10067,"Jan 23, 2025",C0136,Office Chair,Furniture,Patna,East,1,5499,0.15,Credit Card
+ORD-10068,2025-01-23,C0210,Smart Watch,Electronics,Bhopal,Central,2,4999,0.05,Cash
+ORD-10069,23/01/2025,C0048,Study Table,Furniture,Mumbai,West,1,4299,0.15,Cash
+ORD-10070,23-Jan-25,C0333,Tea Pack,Groceries,Ahmedabad,West,4,450,0%,Card
+ORD-10071,24/01/2025,C0085,Sports Shoes,Clothing,Chennai,South,3,2299,0.1,Card
+ORD-10072,24-Jan-25,C0127,Cookware Set ,Home & Kitchen,Bhopal,C,2,2699,0.1,UPI
+ORD-10073,24/01/2025,C0063,Sports Shoes,Clothing ,Bangalore, South ,2,,0.1,Cash
+ORD-10074,"Jan 25, 2025",C0275,Dry Fruits Box,Groceries,Delhi,North,5,1199,0.0,upi
+ORD-10075,25-Jan-25,C0027,Wireless Earbuds,Electronics,Patna,East,2,2499,0.05,upi
+ORD-10076,2025-01-25,C0190,basmati rice 5kg,Groceries,Ahmedabad,West,2,649,0.0,UPI
+ORD-10077,2025-01-25,C0077,Study Table,Furniture,BHOPAL,central,2,,0.1,UPI
+ORD-10078,27/01/2025,C0210,Dry Fruits Box,Groceries,Bhopal ,Central,2,1199,0%,Cash
+ORD-10079,2025-01-27,C0091,Cooking Oil 5L,Groceries,Ahmedabad,West,5,899,0%,Cash
+ORD-10080,2025-01-27,C0299,water purifier,Home & Kitchen,Jaipur ,North,1,8999,10%,UPI
+ORD-10081,27/01/2025,C0221,Air Fryer,HOME & KITCHEN,Ahmedabad ,west,2,"₹5,999",0.05,UPI
+ORD-10082,28-Jan-25,C0107,Bluetooth Speaker,electronics,Indore,Central,2,1999,0.0,Card
+ORD-10083,28/01/2025,C0083,Men's Jacket,Clothing,Jaipur,North,3,2799,20%,Cash
+ORD-10084,"Jan 29, 2025",C0145,Basmati Rice 5kg,Groceries ,Mumbai,WEST,5,649,0.0,Card
+ORD-10085,"Jan 30, 2025",C0345,Dry Fruits Box,GROCERIES,Bhopal, Central ,5,1199,0.0,Cash
+ORD-10086,31-Jan-25,C0170,Dry Fruits Box,Groceries ,Mumbai,West,2,1199,0.0,UPI
+ORD-10087,"Jan 31, 2025",C0048,Study Table,Furniture ,Bengaluru,South,1,4299,0.2,UPI
+ORD-10088,2025-02-01,C0093,Women's Kurta,Clothing,Indore ,Central,3,1199,0.3,NetBanking
+ORD-10089,2025-02-01,C0103,Cooking Oil 5L,Groceries,Bengaluru,SOUTH,2,899,0.05,Cash
+ORD-10090,01-Feb-25,C0065,Denim Jeans,Clothing,Delhi ,North,2,1599,0.1,Cash
+ORD-10091,"Feb 02, 2025",C0210,Basmati Rice 5kg,groceries,BENGALURU,South,4,649,0.0,UPI
+ORD-10092,02-Feb-25,C0236,Tea Pack,Groceries,Jaipur,North,2,450,0.0,UPI
+ORD-10093,2025-02-02,C0252,Women's Kurta,Clothing,Chennai,South,1,1199,0.3,Card
+ORD-10094,02-Feb-25,,Cookware Set,home & kitchen,Jaipur,north,1,2699,0.05,Credit Card
+ORD-10095,03/02/2025,,Sports Shoes,CLOTHING,Indore,Central,2,2299,0.2,Card
+ORD-10096,2025-02-03,C0247,Women's Kurta,Clothing,Bengaluru,South,1,1199,0.2,UPI
+ORD-10097,2025-02-03,C0031,Cookware Set,Home & Kitchen,Delhi,North,1,2699,0%,Net Banking
+ORD-10098,"Feb 03, 2025",C0312,air fryer,Home & Kitchen,Ahmedabad,West,1,5999,0.05,UPI
+ORD-10099,2025-02-03,C0248,Basmati Rice 5kg,groceries,Chennai,South,5,649,0.0,Net Banking
+ORD-10100,03/02/2025,C0195,Study Table ,Furniture,Delhi,North,2,4299,0.15,upi
+ORD-10101,"Feb 03, 2025",,Smartphone,Electronics,delhi,North,1,14999,0.05,UPI
+ORD-10102,03/02/2025,C0339,Study Table,Furniture,Patna, East ,1,4299,0.1,Card
+ORD-10103,"Feb 03, 2025",C0281,Dry Fruits Box,groceries,Ahmedabad,west,5,1199,0.05,UPI
+ORD-10104,04/02/2025,C0256,Smart Watch,Electronics ,Chennai ,South,1,4999,0.1,Cash
+ORD-10105,2025-02-04,C0250,Men's Jacket,Clothing,Mumbai,W,1,2799,0.2,UPI
+ORD-10106,04-Feb-25,,Water Purifier,home & kitchen,Delhi,north,2,8999,0.0,upi
+ORD-10107,05/02/2025,C0231,Dry Fruits Box,Groceries,Jaipur, North ,4,1199,0.0,Card
+ORD-10108,05/02/2025,C0255,Power Bank,Electronics,Bhopal,Central,2,1299,0.05,Credit Card
+ORD-10109,05-Feb-25,C0015,Office Chair,furniture,MUMBAI, West ,2,5499,0.2,UPI
+ORD-10110,"Feb 06, 2025",C0128,Study Table,Furniture,Indore,Central,1,"₹4,299",0.15,UPI
+ORD-10111,06-Feb-25,C0173,Office Chair,Furniture,Bengaluru, South ,2,"₹5,499",15%,Credit Card
+ORD-10112,06/02/2025,C0124,Dry Fruits Box,Groceries,Bengaluru, South ,1,1199,0.0,UPI
+ORD-10113,2025-02-06,C0333,Denim Jeans,Clothing,Patna,E,3,1599,0.3,UPI
+ORD-10114,2025-02-06,C0320,Mixer Grinder,HOME & KITCHEN,Bengaluru,south,2,3299,0.15,UPI
+ORD-10115,"Feb 06, 2025",C0229,Cooking Oil 5L,Groceries,Ahmedabad,West,4,899,0.0,UPI
+ORD-10116,06-Feb-25,C0342,Wireless Earbuds,Electronics,Chennai,South,1,2499,0.1,Cash
+ORD-10117,07/02/2025,C0177,Smartphone ,Electronics,Bengaluru,South,1,14999,0.05,Net Banking
+ORD-10118,07-Feb-25,C0223,Cooking Oil 5L,Groceries,Chennai,South,1,899,0.0,Card
+ORD-10119,"Feb 07, 2025",C0306,Bluetooth Speaker,electronics,Ahmedabad ,West,1,,0.0,Card
+ORD-10120,"Feb 08, 2025",C0325,Cooking Oil 5L,Groceries,Indore,C,3,₹899,0.0,Net Banking
+ORD-10121,"Feb 08, 2025",C0210,Basmati Rice 5kg,Groceries,Bengaluru,South,,649,0.0,Cash
+ORD-10122,2025-02-08,C0181,Study Table,Furniture,Mumbai,W,1,4299,0.15,Credit Card
+ORD-10123,2025-02-09,C0093,Women's Kurta,Clothing,Patna ,East,2,1199,0.2,Cash
+ORD-10124,09/02/2025,C0302,Basmati Rice 5kg,Groceries,Bhopal,Central,4,649,0.0,UPI
+ORD-10125,09/02/2025,C0021,Cooking Oil 5L,Groceries,Jaipur,North,4,899,0.0,Cash
+ORD-10126,09-Feb-25,C0330,Smart Watch,ELECTRONICS,Bengaluru,South,2,4999,0.05,UPI
+ORD-10127,2025-02-09,C0172,Wireless Earbuds,ELECTRONICS,Patna ,East,2,2499,0.0,UPI
+ORD-10128,09/02/2025,C0099,Wireless Earbuds,electronics,Ahmedabad,West,1,2499,0%,UPI
+ORD-10129,10/02/2025,C0090,Mixer Grinder ,Home & Kitchen,Ahmedabad,West,1,3299,0.0,Cash
+ORD-10130,2025-02-11,C0299,Bookshelf,Furniture,Kolkata,East,2,3799,15%,Card
+ORD-10131,11-Feb-25,C0032,cookware set,Home & Kitchen,bhopal,,2,2699,0%,Card
+ORD-10132,2025-02-12,C0181,Bluetooth Speaker,Electronics ,Jaipur,NORTH,2,1999,0.05,Card
+ORD-10133,12/02/2025,C0260,Sports Shoes ,Clothing,Indore, Central ,3,2299,0.2,Card
+ORD-10134,2025-02-12,C0129,Sports Shoes,Clothing,Mumbai,WEST,3,2299,0.1,Card
+ORD-10135,12/02/2025,C0337,Smartphone,Electronics,Mumbai, West ,1,14999,0.0,UPI
+ORD-10136,2025-02-13,C0169,Dry Fruits Box,Groceries,Indore,C,4,"₹1,199",0.05,UPI
+ORD-10137,13/02/2025,C0265,Tea Pack,Groceries,BENGALURU,S,5,450,0.0,Cash
+ORD-10138,13-Feb-25,C0002,Cooking Oil 5L,Groceries ,Ahmedabad,West,2,899,0.0,UPI
+ORD-10139,13-Feb-25,C0197,Cooking Oil 5L,Groceries,Bengaluru,South,5,899,0.0,NetBanking
+ORD-10140,13-Feb-25,C0232,Cooking Oil 5L,groceries,Ahmedabad,West,4,899,0.05,UPI
+ORD-10141,"Feb 14, 2025",C0167,Power Bank,electronics,Bengaluru, South ,1,1299,0.05,UPI
+ORD-10142,2025-02-14,C0061,Water Purifier,Home & Kitchen,BHOPAL,central,1,8999,0.05,Card
+ORD-10143,"Feb 14, 2025",C0146,Bookshelf,FURNITURE,Patna,East,1,3799,0.15,UPI
+ORD-10144,15-Feb-25,C0212,bookshelf,furniture,Ahmedabad,West,1,3799,0.2,NetBanking
+ORD-10145,15/02/2025,C0058,Men's Jacket,Clothing,Mumbai,West,2,2799,0.1,Cash
+ORD-10146,2025-02-16,C0284,Power Bank,Electronics,MUMBAI, West ,2,1299,5%,Net Banking
+ORD-10147,2025-02-16,C0030,Dry Fruits Box,Groceries,Bengaluru,South,2,1199,0.0,Card
+ORD-10148,"Feb 16, 2025",,Dry Fruits Box,Groceries,Delhi,north,3,1199,0.0,Net Banking
+ORD-10149,2025-02-16,C0331,Tea Pack,Groceries,Mumbai ,WEST,4,450,0%,upi
+ORD-10150,18/02/2025,C0315,Bluetooth Speaker,electronics,Delhi,N,1,1999,0.05,Cash
+ORD-10151,2025-02-18,C0249,Water Purifier,Home & Kitchen,DELHI,North,1,8999,0.05,upi
+ORD-10152,18/02/2025,C0001,Cookware Set,Home & Kitchen,Patna , East ,2,2699,0.05,cash
+ORD-10153,18-Feb-25,C0309,Men's Jacket,Clothing,Bengaluru,South,1,2799,0.2,UPI
+ORD-10154,2025-02-18,C0291,Water Purifier,Home & Kitchen,Jaipur,north,1,8999,0.15,Card
+ORD-10155,"Feb 19, 2025",C0339,Power Bank,Electronics,Indore ,Central,2,1299,0%,Card
+ORD-10156,19-Feb-25,C0239,men's jacket,Clothing,Delhi,NORTH,2,2799,0.1,Card
+ORD-10157,19/02/2025,C0231,Women's Kurta,CLOTHING,Mumbai ,West,1,1199,0.1,Credit Card
+ORD-10158,2025-02-19,C0093,Tea Pack,Groceries,Mumbai,West,5,450,0.05,Credit Card
+ORD-10159,20-Feb-25,C0180,Basmati Rice 5kg,Groceries,Chennai,South,2,,0.0,UPI
+ORD-10160,20/02/2025,C0015,Study Table,Furniture,Ahmedabad,West,2,4299,0.1,UPI
+ORD-10161,20-Feb-25,C0228,Office Chair,Furniture,Ahmedabad,West,2,5499,0.2,UPI
+ORD-10162,2025-02-20,C0024,Dry Fruits Box,Groceries,Delhi,north,3,1199,0.0,upi
+ORD-10163,21/02/2025,C0338,Bluetooth Speaker,Electronics,Chennai,South,1,1999,0.0,upi
+ORD-10164,2025-02-21,C0069,Cooking Oil 5L,Groceries,chennai,south,3,899,0.05,Card
+ORD-10165,22/02/2025,C0175,Bluetooth Speaker,Electronics,Jaipur,north,1,1999,0.05,UPI
+ORD-10166,22/02/2025,C0340,Women's Kurta,Clothing,Bengaluru,South,2,1199,0.2,Card
+ORD-10167,"Feb 22, 2025",C0227,Mixer Grinder,Home & Kitchen,Bengaluru,S,2,3299,0.1,UPI
+ORD-10168,2025-02-22,C0185,Denim Jeans,Clothing,Bengaluru,south,3,1599,0.3,upi
+ORD-10169,2025-02-22,C0272,Sports Shoes,Clothing ,Jaipur,,2,2299,0.1,Cash
+ORD-10170,"Feb 23, 2025",C0181,Tea Pack,Groceries,Patna,East,1,450,0.0,Cash
+ORD-10171,23-Feb-25,C0170,Wireless Earbuds,Electronics,Indore,Central,2,2499,0.0,Credit Card
+ORD-10172,2025-02-23,C0037,Cooking Oil 5L,Groceries,Chennai,South,1,899,0.0,Card
+ORD-10173,2025-02-24,C0344,smart watch,Electronics,bengaluru,south,2,4999,0.1,UPI
+ORD-10174,24-Feb-25,C0251,Smartphone,Electronics ,Delhi,North,1,14999,0.05,Card
+ORD-10175,"Feb 24, 2025",C0268,Bookshelf,Furniture,Chennai,South,1,3799,0.15,cash
+ORD-10176,"Feb 24, 2025",C0234,Basmati Rice 5kg,Groceries,Indore,C,3,649,0%,NetBanking
+ORD-10177,25-Feb-25,C0296,Denim Jeans,Clothing,Bhopal,C,2,1599,0.1,UPI
+ORD-10178,2025-02-25,C0092,Women's Kurta,Clothing,Chennai,south,2,1199,0.2,UPI
+ORD-10179,26-Feb-25,C0341,Study Table,Furniture,Bengaluru,South,1,4299,0.15,Net Banking
+ORD-10180,26-Feb-25,C0349,Women's Kurta,CLOTHING,Patna,,2,1199,0.2,Card
+ORD-10181,27-Feb-25,C0274,Cooking Oil 5L,Groceries ,Patna,East,2,899,0.05,UPI
+ORD-10182,2025-02-27,C0257,Denim Jeans,Clothing,Kolkata,East,1,1599,0.1,Net Banking
+ORD-10183,2025-02-27,C0091,denim jeans,Clothing,Patna,east,3,1599,0.1,Card
+ORD-10184,"Feb 27, 2025",C0060,Power Bank,Electronics,Jaipur,North,1,1299,0.05,UPI
+ORD-10185,2025-02-27,C0163,Denim Jeans,Clothing,Indore ,,1,1599,0.1,cash
+ORD-10186,2025-02-27,C0055,Dry Fruits Box,Groceries,Jaipur,NORTH,2,,0.05,upi
+ORD-10187,"Feb 27, 2025",C0066,air fryer,HOME & KITCHEN,delhi,North,1,5999,0.0,Card
+ORD-10188,28-Feb-25,C0029,Basmati Rice 5kg,Groceries,Delhi,North,3,649,0.0,Card
+ORD-10189,"Feb 28, 2025",C0161,Denim Jeans,Clothing,Patna,east,2,1599,0.3,UPI
+ORD-10190,2025-02-28,C0017,Study Table,Furniture,Chennai,South,2,4299,0.2,UPI
+ORD-10191,"Mar 01, 2025",C0139,Water Purifier,Home & Kitchen,Ahmedabad,West,1,8999,0.05,UPI
+ORD-10192,"Mar 01, 2025",C0057,Study Table,Furniture ,Bengaluru ,South,,4299,0.1,Cash
+ORD-10193,2025-03-02,C0318,Water Purifier,Home & Kitchen,Indore,CENTRAL,1,8999,0.05,Credit Card
+ORD-10194,"Mar 02, 2025",C0346,Basmati Rice 5kg,Groceries,Indore,Central,1,649,0%,UPI
+ORD-10195,2025-03-02,C0023,Women's Kurta,CLOTHING,PATNA,East,1,1199,0.3,UPI
+ORD-10196,2025-03-02,C0321,Mixer Grinder,Home & Kitchen,Chennai,South,1,3299,5%,UPI
+ORD-10197,"Mar 03, 2025",C0169,Bookshelf,Furniture,Mumbai,West,1,"₹3,799",0.15,Card
+ORD-10198,2025-03-03,C0183,Bookshelf,Furniture,Bhopal,Central,2,3799,0.1,Credit Card
+ORD-10199,2025-03-03,C0067,Tea Pack,Groceries,Ahmedabad,west,5,450,0.0,Cash
+ORD-10200,03-Mar-25,C0027,Smart Watch,Electronics ,Patna,East,1,4999,5%,upi
+ORD-10201,04-Mar-25,C0345,Mixer Grinder,HOME & KITCHEN,Jaipur , North ,1,3299,0.15,Credit Card
+ORD-10202,2025-03-04,C0071,Tea Pack,Groceries,Indore,Central,1,450,0.0,Card
+ORD-10203,05-Mar-25,C0166,Power Bank,electronics,Patna, East ,2,1299,0.0,UPI
+ORD-10204,"Mar 05, 2025",C0196,Tea Pack,Groceries ,ahmedabad,west,3,450,0.05,UPI
+ORD-10205,06/03/2025,C0196,Sofa Set,Furniture,Jaipur,North,1,18999,0.1,Card
+ORD-10206,2025-03-06,C0223,Denim Jeans,Clothing,Ahmedabad ,West,1,1599,0.1,Card
+ORD-10207,06-Mar-25,C0345,Air Fryer ,Home & Kitchen ,Delhi, North ,2,5999,0.1,Card
+ORD-10208,06/03/2025,C0039,Mixer Grinder,Home & Kitchen,Bhopal,CENTRAL,1,3299,0%,UPI
+ORD-10209,06/03/2025,C0206,Mixer Grinder,Home & Kitchen,Bhopal, Central ,2,3299,0.0,UPI
+ORD-10210,06-Mar-25,C0236,Women's Kurta,Clothing,Bengaluru,south,3,1199,0.2,Card
+ORD-10211,2025-03-06,C0001,Bookshelf,Furniture,Ahmedabad,west,1,3799,0.15,UPI
+ORD-10212,06/03/2025,C0174,Tea Pack,Groceries,Indore,central,3,450,0.05,Cash
+ORD-10213,2025-03-07,C0119,Bookshelf,Furniture,Mumbai,W,1,,0.2,Cash
+ORD-10214,07/03/2025,C0050,Sports Shoes,Clothing,Chennai,South,1,2299,0.1,UPI
+ORD-10215,"Mar 07, 2025",C0111,sports shoes,CLOTHING,Bangalore,South,3,2299,0.1,Cash
+ORD-10216,08-Mar-25,C0089,Power Bank,Electronics,Mumbai,West,1,1299,0.0,Card
+ORD-10217,08/03/2025,C0093,Women's Kurta ,Clothing,Ahmedabad,west,3,1199,0.2,UPI
+ORD-10218,08-Mar-25,C0030,Basmati Rice 5kg,Groceries,Ahmedabad,West,2,649,0.05,Credit Card
+ORD-10219,08/03/2025,C0185,Basmati Rice 5kg,GROCERIES,Kolkata,East,4,649,0.0,Card
+ORD-10220,2025-03-09,C0059,Mixer Grinder,Home & Kitchen,Chennai,south,1,3299,0.1,Cash
+ORD-10221,"Mar 10, 2025",C0061,Bookshelf,Furniture,Delhi,North,2,3799,0.1,UPI
+ORD-10222,"Mar 10, 2025",,Bluetooth Speaker,Electronics,kolkata,,2,1999,0.05,NetBanking
+ORD-10223,10/03/2025,C0246,Cooking Oil 5L,Groceries,Jaipur,north,4,899,0.05,UPI
+ORD-10224,2025-03-10,C0072,Sports Shoes ,Clothing,Indore,Central,2,2299,0.2,Card
+ORD-10225,"Mar 11, 2025",C0051,Air Fryer,Home & Kitchen,Patna,East,1,5999,0.0,Card
+ORD-10226,11-Mar-25,C0179,basmati rice 5kg,Groceries,Jaipur,north,2,649,0.0,Card
+ORD-10227,11-Mar-25,C0223,Basmati Rice 5kg,Groceries,Indore,central,5,649,0.0,Card
+ORD-10228,11/03/2025,C0122,Smart Watch,Electronics,Delhi,,1,4999,0.05,Net Banking
+ORD-10229,11-Mar-25,C0284,Cookware Set ,Home & Kitchen,Delhi,North,2,2699,0.1,Card
+ORD-10230,2025-03-11,C0152,Office Chair,Furniture,MUMBAI,West,1,5499,0.15,upi
+ORD-10231,11/03/2025,C0301,Dry Fruits Box,Groceries,Delhi,north,4,1199,0.0,UPI
+ORD-10232,2025-03-12,C0154,Bookshelf ,Furniture,Patna,E,,3799,0.1,Cash
+ORD-10233,13/03/2025,C0149,Power Bank ,ELECTRONICS,Jaipur,North,1,1299,0.1,Cash
+ORD-10234,13/03/2025,C0301,Dry Fruits Box,Groceries,Kolkata,East,1,1199,0.0,Card
+ORD-10235,14-Mar-25,C0197,Power Bank,Electronics ,Mumbai,WEST,1,1299,0.0,UPI
+ORD-10236,15-Mar-25,C0215,Cookware Set,Home & Kitchen,Ahmedabad,West,1,2699,0.05,Net Banking
+ORD-10237,15-Mar-25,C0135,Wireless Earbuds,Electronics,Mumbai,,2,"₹2,499",0.1,Net Banking
+ORD-10238,15/03/2025,C0172,Men's Jacket,Clothing,Ahmedabad, West ,3,2799,0.2,Card
+ORD-10239,15-Mar-25,C0331,Power Bank,Electronics,Delhi,North,1,1299,0.0,UPI
+ORD-10240,"Mar 16, 2025",C0189,Dry Fruits Box,Groceries,Mumbai,West,3,1199,0.0,Card
+ORD-10241,"Mar 16, 2025",C0241,Cooking Oil 5L ,groceries,Mumbai,West,1,899,0.0,Card
+ORD-10242,17-Mar-25,C0204,Cookware Set,Home & Kitchen,Patna,East,1,2699,0.0,UPI
+ORD-10243,17/03/2025,C0238,Men's Jacket ,Clothing ,kolkata,East,2,2799,0.2,Cash
+ORD-10244,17/03/2025,C0019,Dry Fruits Box,Groceries,Bhopal,C,5,1199,0.0,Cash
+ORD-10245,18/03/2025,C0333,Denim Jeans,Clothing,Bhopal,Central,3,,0.2,upi
+ORD-10246,18-Mar-25,C0282,Cookware Set,Home & Kitchen,Jaipur,North,1,2699,0.15,NetBanking
+ORD-10247,18-Mar-25,C0108,Dry Fruits Box,Groceries,Bengaluru ,SOUTH,4,1199,0.05,UPI
+ORD-10248,"Mar 18, 2025",C0075,Power Bank,ELECTRONICS,Mumbai,West,1,1299,0%,Credit Card
+ORD-10249,"Mar 18, 2025",C0071,Basmati Rice 5kg ,Groceries,Patna,East,5,649,5%,UPI
+ORD-10250,"Mar 19, 2025",C0330,dry fruits box,Groceries,ahmedabad,West,5,1199,0.0,Card
+ORD-10251,19-Mar-25,C0030,Power Bank,electronics,Kolkata,EAST,1,1299,0.0,UPI
+ORD-10252,2025-03-19,C0114,Dry Fruits Box,Groceries,Indore,central,3,"₹1,199",0.0,UPI
+ORD-10253,20/03/2025,C0337,Power Bank,ELECTRONICS,Mumbai,West,1,1299,0.1,cash
+ORD-10254,2025-03-20,C0284,Cooking Oil 5L,Groceries,ahmedabad,,5,899,0.05,Card
+ORD-10255,"Mar 21, 2025",C0142,Air Fryer,HOME & KITCHEN,Kolkata,East,1,5999,0.0,Card
+ORD-10256,2025-03-21,C0098,Bluetooth Speaker,electronics,Jaipur,NORTH,1,1999,0.0,Net Banking
+ORD-10257,21/03/2025,C0154,Women's Kurta,Clothing,chennai,South,3,1199,0.2,cash
+ORD-10258,"Mar 21, 2025",C0174,Cooking Oil 5L,Groceries,INDORE,Central,1,₹899,0.0,Cash
+ORD-10259,"Mar 22, 2025",C0001,Smartphone,Electronics,Kolkata,East,1,14999,0.05,Cash
+ORD-10260,22/03/2025,C0230,Cooking Oil 5L,groceries,Bhopal,Central,3,899,0.0,Card
+ORD-10261,2025-03-22,C0025,Women's Kurta,CLOTHING,Kolkata,E,3,"₹1,199",0.3,Card
+ORD-10262,2025-03-22,C0315,Power Bank,Electronics,Delhi,,2,1299,5%,UPI
+ORD-10263,"Mar 23, 2025",C0181,Women's Kurta,clothing,Chennai,South,3,1199,10%,Net Banking
+ORD-10264,23-Mar-25,C0050,Cookware Set,Home & Kitchen,Patna,East,2,2699,0.05,Cash
+ORD-10265,23-Mar-25,C0026,Basmati Rice 5kg,Groceries,Indore,Central,1,649,0.0,Net Banking
+ORD-10266,"Mar 24, 2025",C0023,Basmati Rice 5kg,Groceries,Ahmedabad,West,2,649,0.0,UPI
+ORD-10267,"Mar 24, 2025",C0001,Basmati Rice 5kg,groceries,Chennai,South,2,649,0.0,Net Banking
+ORD-10268,25-Mar-25,C0335,Cooking Oil 5L,Groceries,Ahmedabad,West,3,899,0.0,UPI
+ORD-10269,"Mar 25, 2025",C0280,Denim Jeans,Clothing,jaipur,,1,1599,0.1,UPI
+ORD-10270,2025-03-25,C0322,Cooking Oil 5L,Groceries ,Delhi,North,2,899,0.05,Card
+ORD-10271,"Mar 25, 2025",C0082,Bluetooth Speaker,Electronics ,Patna, East ,1,1999,0.05,UPI
+ORD-10272,2025-03-25,C0248,Tea Pack,Groceries,bengaluru,South,1,₹450,0.0,Cash
+ORD-10273,"Mar 26, 2025",C0190,Cooking Oil 5L,Groceries,Bhopal,Central,3,899,0.05,UPI
+ORD-10274,"Mar 26, 2025",C0187,Mixer Grinder,Home & Kitchen,Jaipur,North,1,3299,0.1,Net Banking
+ORD-10275,"Mar 26, 2025",C0121,Power Bank,electronics,Mumbai,West,1,1299,0.05,Card
+ORD-10276,27/03/2025,C0212,Basmati Rice 5kg,Groceries,Delhi,North,4,649,0.05,Cash
+ORD-10277,27-Mar-25,C0105,Office Chair,Furniture,Indore,Central,2,5499,0.2,Cash
+ORD-10278,2025-03-27,C0096,Basmati Rice 5kg,Groceries,Bengaluru ,S,5,649,0.0,Card
+ORD-10279,28/03/2025,C0039,Cookware Set,Home & Kitchen,Jaipur,North,1,2699,0%,Credit Card
+ORD-10280,29/03/2025,C0033,Sports Shoes,Clothing,Bhopal,Central,3,2299,0.1,Credit Card
+ORD-10281,29/03/2025,C0345,study table,Furniture,Ahmedabad,West,1,4299,0.15,Net Banking
+ORD-10282,2025-03-29,C0047,Men's Jacket,clothing,Bhopal,Central,3,2799,0.3,UPI
+ORD-10283,29/03/2025,C0144,Bookshelf ,FURNITURE,bhopal,Central,1,3799,0.2,UPI
+ORD-10284,"Mar 29, 2025",C0136,Bluetooth Speaker,Electronics,CHENNAI,South,2,1999,0.1,Card
+ORD-10285,2025-03-30,C0322,Men's Jacket,Clothing,Chennai,South,1,2799,0.2,Card
+ORD-10286,2025-03-30,C0082,Study Table,Furniture,delhi,NORTH,2,4299,0.1,UPI
+ORD-10287,30/03/2025,C0185,Dry Fruits Box,groceries,Chennai, South ,5,1199,0.0,Card
+ORD-10288,"Mar 30, 2025",C0147,Mixer Grinder,Home & Kitchen,patna,East,2,3299,0.1,Card
+ORD-10289,30/03/2025,C0324,Basmati Rice 5kg,Groceries,DELHI, North ,2,649,0.0,Card
+ORD-10290,30/03/2025,C0098,Women's Kurta,Clothing ,Bhopal ,Central,1,,0.2,Card
+ORD-10291,"Mar 31, 2025",C0329,Power Bank,electronics,Chennai,,1,1299,0.05,Card
+ORD-10292,2025-03-31,C0061,tea pack,Groceries,Bengaluru,South,4,450,5%,UPI
+ORD-10293,2025-03-31,C0276,Women's Kurta,Clothing,Patna,East,3,1199,0.3,cash
+ORD-10294,2025-03-31,C0334,Women's Kurta,Clothing,Delhi,North,1,1199,0.3,Cash
+ORD-10295,01/04/2025,C0257,Power Bank,Electronics ,Jaipur,North,2,1299,0.0,UPI
+ORD-10296,01/04/2025,C0068,Wireless Earbuds,Electronics ,Bhopal,Central,,2499,0.1,Cash
+ORD-10297,"Apr 01, 2025",C0337,Power Bank,Electronics,bhopal,Central,1,1299,0.0,Card
+ORD-10298,"Apr 01, 2025",C0294,Smart Watch,Electronics,Kolkata,East,1,4999,0.0,Card
+ORD-10299,01/04/2025,C0062,Smart Watch,Electronics ,Bengaluru,South,2,4999,0.0,Net Banking
+ORD-10300,02-Apr-25,C0303,Office Chair,Furniture,Ahmedabad,West,1,5499,0.15,Card
+ORD-10301,02/04/2025,C0314,Bookshelf,Furniture,Chennai,south,2,3799,0.15,Net Banking
+ORD-10302,"Apr 02, 2025",C0286,Bluetooth Speaker,Electronics,Ahmedabad,W,1,1999,0.0,Card
+ORD-10303,2025-04-03,C0020,Water Purifier ,Home & Kitchen,Indore,central,2,8999,0.1,Net Banking
+ORD-10304,"Apr 03, 2025",C0197,Women's Kurta,Clothing,Indore,Central,3,1199,0.2,Card
+ORD-10305,03-Apr-25,C0043,Tea Pack,Groceries,Jaipur ,N,2,,0.05,upi
+ORD-10306,03-Apr-25,C0340,Sports Shoes,clothing,Kolkata,east,2,"₹2,299",0.2,Net Banking
+ORD-10307,03/04/2025,,bookshelf,Furniture,Kolkata,east,2,3799,0.2,upi
+ORD-10308,04-Apr-25,C0283,Laptop,Electronics,Ahmedabad,west,1,42999,0.0,UPI
+ORD-10309,04/04/2025,C0103,Power Bank,Electronics,Mumbai,WEST,1,1299,0.0,Cash
+ORD-10310,04/04/2025,C0303,Bluetooth Speaker,Electronics,Bengaluru,South,1,1999,0.05,Net Banking
+ORD-10311,04-Apr-25,C0048,Dry Fruits Box,GROCERIES,Indore,Central,1,1199,0%,Credit Card
+ORD-10312,04-Apr-25,C0148,Women's Kurta,Clothing,DELHI,North,2,1199,0.3,Card
+ORD-10313,05-Apr-25,C0016,Wireless Earbuds,ELECTRONICS,Chennai,S,2,2499,10%,UPI
+ORD-10314,2025-04-05,C0317,Dry Fruits Box,Groceries,Ahmedabad,West,1,1199,0.0,UPI
+ORD-10315,05-Apr-25,C0153,Mixer Grinder ,HOME & KITCHEN,mumbai,West,1,3299,0.1,Card
+ORD-10316,"Apr 05, 2025",C0140,Bluetooth Speaker,Electronics,Bhopal,Central,2,1999,0%,UPI
+ORD-10317,"Apr 05, 2025",C0028,Tea Pack,Groceries,Bhopal,Central,1,450,0.0,upi
+ORD-10318,"Apr 05, 2025",C0331,Tea Pack,Groceries,Bhopal ,Central,3,450,0.0,UPI
+ORD-10319,2025-04-06,C0288,Men's Jacket,clothing,Kolkata ,East,3,2799,0.3,Net Banking
+ORD-10320,06-Apr-25,C0088,Bookshelf,furniture,Ahmedabad,West,2,3799,15%,Net Banking
+ORD-10321,06/04/2025,C0163,Denim Jeans,Clothing,Bengaluru,South,1,1599,0.1,Card
+ORD-10322,"Apr 07, 2025",C0319,Laptop,ELECTRONICS,Chennai, South ,1,42999,0.05,UPI
+ORD-10323,07/04/2025,C0292,Mixer Grinder,Home & Kitchen,Ahmedabad,West,1,,0.1,Card
+ORD-10324,"Apr 07, 2025",C0066,Women's Kurta ,clothing,Jaipur,NORTH,2,1199,0.1,UPI
+ORD-10325,07/04/2025,C0040,Bluetooth Speaker,Electronics,BENGALURU,South,1,1999,0.05,UPI
+ORD-10326,08-Apr-25,C0217,Denim Jeans,Clothing,Bhopal,Central,3,1599,0.1,Cash
+ORD-10327,08/04/2025,C0076,Air Fryer,Home & Kitchen,Patna ,East,1,5999,0.1,UPI
+ORD-10328,"Apr 08, 2025",C0247,Wireless Earbuds ,Electronics,Mumbai ,West,2,2499,0%,UPI
+ORD-10329,"Apr 09, 2025",C0069,Bluetooth Speaker,electronics,Bhopal,Central,1,1999,0.0,UPI
+ORD-10330,2025-04-09,C0177,Office Chair,Furniture,Mumbai,West,1,5499,0.15,Card
+ORD-10331,2025-04-09,C0174,Bluetooth Speaker,Electronics,jaipur,,1,1999,0.05,Cash
+ORD-10332,"Apr 10, 2025",C0081,Basmati Rice 5kg,Groceries,Patna,East,5,649,0.0,UPI
+ORD-10333,2025-04-10,C0106,Tea Pack,Groceries,Chennai ,South,4,,0.0,Card
+ORD-10334,10/04/2025,C0106,Wireless Earbuds,Electronics,Jaipur,north,1,2499,0.0,upi
+ORD-10335,10-Apr-25,C0032,Bluetooth Speaker,Electronics,Delhi,North,2,1999,0.0,Card
+ORD-10336,"Apr 10, 2025",,water purifier,Home & Kitchen ,Jaipur,north,2,8999,5%,UPI
+ORD-10337,"Apr 10, 2025",C0254,Women's Kurta,Clothing,Mumbai,West,2,1199,0.2,Card
+ORD-10338,"Apr 10, 2025",C0121,Women's Kurta,CLOTHING,Indore,central,2,1199,0.2,UPI
+ORD-10339,11/04/2025,C0164,Wireless Earbuds,electronics,Mumbai, West ,1,2499,0.1,Card
+ORD-10340,12/04/2025,C0334,Wireless Earbuds,Electronics,Kolkata,,2,2499,0.0,UPI
+ORD-10341,2025-04-12,C0177,Smart Watch,Electronics,Jaipur,North,2,4999,0.05,Net Banking
+ORD-10342,2025-04-12,C0294,Power Bank,Electronics,Jaipur,North,1,1299,0.05,UPI
+ORD-10343,13-Apr-25,C0070,Wireless Earbuds,electronics,Mumbai,West,1,2499,0.05,Cash
+ORD-10344,"Apr 13, 2025",C0185,Men's Jacket,Clothing,Indore,Central,3,2799,0.2,UPI
+ORD-10345,13-Apr-25,C0287,Mixer Grinder ,Home & Kitchen,Chennai,South,1,3299,0.15,UPI
+ORD-10346,13/04/2025,C0152,Smartphone ,Electronics,Patna,East,1,14999,0.0,UPI
+ORD-10347,"Apr 13, 2025",C0068,Bluetooth Speaker,ELECTRONICS,Bhopal,Central,1,"₹1,999",0%,Net Banking
+ORD-10348,2025-04-14,C0004,Power Bank,electronics,Ahmedabad ,West,1,1299,5%,UPI
+ORD-10349,14/04/2025,C0105,Basmati Rice 5kg,Groceries,Delhi ,North,4,649,0%,upi
+ORD-10350,"Apr 14, 2025",C0028,Bookshelf,Furniture,Jaipur,North,1,3799,0.2,Card
+ORD-10351,14/04/2025,C0331,Cookware Set,Home & Kitchen,Jaipur,North,1,"₹2,699",0.0,UPI
+ORD-10171,23-Feb-25,C0170,Wireless Earbuds,Electronics,Indore,Central,2,2499,0.0,Credit Card
+ORD-10352,15/04/2025,C0061,Office Chair,Furniture ,Patna ,East,2,,0.15,UPI
+ORD-10353,15-Apr-25,C0288,Power Bank,Electronics ,Jaipur ,north,1,1299,0.0,Card
+ORD-10354,2025-04-15,C0277,Smartphone,Electronics,Jaipur,,1,14999,0.1,UPI
+ORD-10355,15-Apr-25,C0024,Dry Fruits Box,Groceries,Patna,East,,1199,0.0,NetBanking
+ORD-10356,"Apr 15, 2025",C0161,Dry Fruits Box,Groceries,kolkata,East,1,1199,0.0,upi
+ORD-10357,"Apr 15, 2025",,Water Purifier,HOME & KITCHEN,Mumbai,West,1,8999,0.1,UPI
+ORD-10358,"Apr 15, 2025",C0140,Power Bank,Electronics,Delhi,NORTH,1,1299,0.0,upi
+ORD-10359,2025-04-16,C0263,Power Bank,Electronics,Ahmedabad, West ,,1299,0.0,UPI
+ORD-10360,16-Apr-25,C0139,Bluetooth Speaker,electronics,Delhi,North,1,1999,10%,Net Banking
+ORD-10361,2025-04-16,C0297,Wireless Earbuds,Electronics,Jaipur,North,2,2499,0.05,Card
+ORD-10362,"Apr 16, 2025",C0256,Tea Pack,GROCERIES,Patna,east,5,450,0.0,Cash
+ORD-10363,16/04/2025,C0043,Basmati Rice 5kg,Groceries,chennai,South,5,649,0.0,Card
+ORD-10364,17-Apr-25,C0115,Laptop,Electronics,Delhi,North,1,42999,5%,Cash
+ORD-10365,18/04/2025,,Women's Kurta,Clothing ,Chennai, South ,3,1199,0.3,upi
+ORD-10366,"Apr 18, 2025",,Denim Jeans,CLOTHING,Mumbai,,2,1599,0.2,UPI
+ORD-10367,2025-04-19,C0127,Study Table,Furniture,Mumbai, West ,1,4299,0.2,Cash
+ORD-10368,19-Apr-25,C0234,Basmati Rice 5kg,Groceries,Delhi,North,5,649,0.0,Cash
+ORD-10369,"Apr 19, 2025",C0151,Water Purifier,Home & Kitchen,Indore,,2,8999,0.15,UPI
+ORD-10370,"Apr 20, 2025",C0154,Women's Kurta,Clothing,Bhopal,Central,3,1199,0.3,Card
+ORD-10371,2025-04-20,C0165,Denim Jeans,Clothing ,Delhi,North,1,1599,0.2,upi
+ORD-10372,"Apr 20, 2025",C0218,Basmati Rice 5kg,GROCERIES,Ahmedabad ,West,1,649,0.0,Card
+ORD-10373,20-Apr-25,C0189,Women's Kurta,CLOTHING,Bengaluru,S,2,1199,0.2,Card
+ORD-10374,21-Apr-25,C0117,Cookware Set,Home & Kitchen,Jaipur,North,1,2699,0.05,Cash
+ORD-10375,2025-04-21,C0117,Smart Watch,electronics,Bengaluru,South,1,4999,0.05,UPI
+ORD-10376,22-Apr-25,C0323,Bookshelf,Furniture,Mumbai,West,1,3799,0.15,UPI
+ORD-10377,"Apr 22, 2025",C0230,Women's Kurta,Clothing,Bengaluru,South,1,1199,0.3,UPI
+ORD-10378,22-Apr-25,C0322,Power Bank,electronics,jaipur,north,1,1299,0.1,UPI
+ORD-10379,2025-04-22,,Cookware Set,Home & Kitchen,JAIPUR,North,1,2699,0.0,UPI
+ORD-10380,2025-04-22,C0204,Dry Fruits Box,Groceries,Ahmedabad,West,1,1199,0.0,UPI
+ORD-10381,22-Apr-25,C0071,Wireless Earbuds,electronics,Delhi,North,1,2499,0%,Card
+ORD-10382,"Apr 22, 2025",C0065,Denim Jeans,CLOTHING,DELHI,North,2,1599,0.3,Card
+ORD-10383,"Apr 23, 2025",C0038,Basmati Rice 5kg,Groceries,Jaipur,NORTH,3,649,0.0,UPI
+ORD-10384,2025-04-23,C0238,Wireless Earbuds,Electronics,Chennai,South,1,2499,5%,UPI
+ORD-10385,"Apr 23, 2025",C0269,Dry Fruits Box,Groceries,Ahmedabad, West ,2,1199,0.05,Cash
+ORD-10386,23/04/2025,C0254,Denim Jeans,CLOTHING,Bhopal,CENTRAL,2,1599,0.3,UPI
+ORD-10387,24/04/2025,C0243,Study Table,Furniture,Jaipur,North,2,4299,0.2,Cash
+ORD-10388,24-Apr-25,C0186,Denim Jeans,Clothing,Bengaluru,South,2,1599,0.2,Card
+ORD-10389,"Apr 25, 2025",C0333,Smart Watch,Electronics,Bhopal,,2,4999,0.1,UPI
+ORD-10390,"Apr 25, 2025",C0079,Cookware Set ,Home & Kitchen,Ahmedabad,West,2,2699,0.1,Card
+ORD-10391,2025-04-26,C0128,Tea Pack,groceries,Delhi,North,3,450,0.0,Credit Card
+ORD-10392,26/04/2025,C0074,Cookware Set,Home & Kitchen ,Bhopal,Central,2,2699,0.0,Card
+ORD-10393,2025-04-26,C0124,women's kurta,Clothing,Mumbai,west,2,1199,20%,Card
+ORD-10394,26-Apr-25,C0337,Sofa Set,Furniture,Mumbai,WEST,1,18999,20%,Credit Card
+ORD-10395,2025-04-26,C0338,Basmati Rice 5kg,Groceries ,CHENNAI,south,2,649,0.0,UPI
+ORD-10396,"Apr 26, 2025",C0286,Cooking Oil 5L,Groceries,Ahmedabad,West,3,899,0.0,UPI
+ORD-10397,"Apr 26, 2025",C0196,Bookshelf,Furniture,Jaipur ,North,2,3799,0.15,UPI
+ORD-10398,27-Apr-25,C0266,Denim Jeans,Clothing,CHENNAI,South,1,1599,0.3,upi
+ORD-10399,"Apr 27, 2025",C0083,Cookware Set,Home & Kitchen,JAIPUR,North,1,2699,0.1,Card
+ORD-10400,28-Apr-25,C0303,sofa set,Furniture,Delhi,North,1,18999,0.15,Card
+ORD-10401,"Apr 28, 2025",C0282,Tea Pack,Groceries,Chennai,South,1,450,0.0,Net Banking
+ORD-10402,"Apr 28, 2025",C0208,Cooking Oil 5L,Groceries,Ahmedabad, West ,5,899,0.0,Card
+ORD-10403,"Apr 28, 2025",C0149,Denim Jeans,Clothing,Chennai,South,3,1599,0.2,Card
+ORD-10404,29/04/2025,C0085,Study Table,Furniture ,Bhopal,,1,4299,0.2,Net Banking
+ORD-10405,2025-04-30,C0057,Tea Pack,Groceries,Bengaluru,South,3,450,0.0,upi
+ORD-10406,"Apr 30, 2025",C0068,Denim Jeans,Clothing,Ahmedabad,West,1,1599,0.1,UPI
+ORD-10407,30/04/2025,C0061,women's kurta,Clothing,Indore, Central ,1,1199,0.3,Credit Card
+ORD-10408,"Apr 30, 2025",C0221,Wireless Earbuds,Electronics,Ahmedabad,West,1,2499,0.0,Cash
+ORD-10409,30/04/2025,C0258,Tea Pack,Groceries,Delhi ,North,1,450,0.0,UPI
+ORD-10410,2025-05-01,C0229,Power Bank,Electronics,Bhopal,CENTRAL,2,1299,0.1,UPI
+ORD-10411,2025-05-01,C0057,Denim Jeans,Clothing,Mumbai,West,2,"₹1,599",0.2,UPI
+ORD-10412,2025-05-01,C0250,Bluetooth Speaker,Electronics,Kolkata,East,2,1999,0%,Card
+ORD-10413,03-May-25,C0051,bluetooth speaker,Electronics,Ahmedabad,West,1,1999,0.0,Cash
+ORD-10414,03-May-25,C0244,Wireless Earbuds,Electronics,Jaipur,North,1,2499,0.0,UPI
+ORD-10415,"May 03, 2025",C0176,Cooking Oil 5L,Groceries,Chennai,South,5,,0.0,Card
+ORD-10416,03/05/2025,C0223,Women's Kurta,Clothing ,Indore,Central,2,1199,0.3,UPI
+ORD-10417,"May 04, 2025",C0073,Denim Jeans,clothing,Delhi ,NORTH,1,1599,0.3,Card
+ORD-10418,04-May-25,C0159,Wireless Earbuds,Electronics ,Delhi,North,1,2499,0.0,Card
+ORD-10419,04-May-25,C0151,Mixer Grinder,home & kitchen,Chennai,south,2,3299,5%,UPI
+ORD-10420,"May 04, 2025",C0150,Study Table,Furniture,DELHI,North,1,4299,0.1,Card
+ORD-10421,2025-05-05,C0052,Tea Pack,Groceries ,Delhi,North,1,450,0.0,Card
+ORD-10422,05/05/2025,C0213,wireless earbuds,Electronics,Kolkata,East,1,2499,5%,Cash
+ORD-10423,05/05/2025,C0327,Basmati Rice 5kg,Groceries,KOLKATA,East,5,649,0.0,UPI
+ORD-10424,"May 05, 2025",C0292,Bluetooth Speaker,electronics,Delhi ,North,1,1999,0%,cash
+ORD-10425,2025-05-05,C0271,Basmati Rice 5kg,GROCERIES,Chennai,South,5,649,0.0,Cash
+ORD-10426,2025-05-06,C0328,Basmati Rice 5kg,Groceries ,jaipur,North,4,649,0.0,Card
+ORD-10427,2025-05-06,C0001,Tea Pack,Groceries,bengaluru,South,3,450,0.05,upi
+ORD-10428,2025-05-06,C0029,Cooking Oil 5L ,Groceries,Mumbai,West,4,899,0.05,Cash
+ORD-10429,06/05/2025,C0060,Tea Pack,Groceries,Indore,C,1,450,0.0,UPI
+ORD-10430,07/05/2025,C0131,Power Bank,Electronics,Ahmedabad,west,1,1299,0.05,UPI
+ORD-10431,07/05/2025,C0350,Wireless Earbuds,Electronics,Ahmedabad , West ,1,2499,0.1,UPI
+ORD-10432,07/05/2025,C0320,Wireless Earbuds,ELECTRONICS,Ahmedabad,W,1,2499,0.05,UPI
+ORD-10433,07-May-25,C0125,Tea Pack,Groceries,Kolkata,,5,,0.0,Cash
+ORD-10434,07/05/2025,C0028,Cooking Oil 5L,Groceries,Bengaluru ,South,4,899,0.0,cash
+ORD-10435,"May 07, 2025",C0199,Bluetooth Speaker,Electronics,Bengaluru, South ,1,1999,0.05,Card
+ORD-10436,"May 07, 2025",C0124,cooking oil 5l,Groceries,jaipur,North,2,899,0.0,Cash
+ORD-10437,08/05/2025,C0215,dry fruits box,Groceries,Bhopal,C,5,1199,0.0,UPI
+ORD-10438,2025-05-09,C0019,Basmati Rice 5kg,Groceries,Ahmedabad,WEST,4,649,0.0,Card
+ORD-10439,09/05/2025,C0148,Dry Fruits Box,Groceries ,Delhi,North,4,1199,0.0,Cash
+ORD-10440,"May 09, 2025",C0342,Dry Fruits Box,GROCERIES,Bhopal,Central,4,1199,0.0,Card
+ORD-10441,"May 10, 2025",C0332,Men's Jacket,Clothing,Jaipur,North,1,2799,0.2,UPI
+ORD-10442,10/05/2025,C0140,Air Fryer ,Home & Kitchen,Delhi,NORTH,1,5999,0.1,Card
+ORD-10443,10-May-25,C0336,Bookshelf,Furniture,Bangalore,South,1,3799,0.2,UPI
+ORD-10444,"May 10, 2025",C0189,Sports Shoes,Clothing,Ahmedabad,west,,2299,0.1,Cash
+ORD-10445,"May 11, 2025",C0060,Water Purifier,Home & Kitchen,Ahmedabad,West,2,8999,0.15,UPI
+ORD-10446,11-May-25,C0331,Bookshelf,furniture,Chennai,South,2,3799,0.1,UPI
+ORD-10447,11-May-25,C0282,Air Fryer,HOME & KITCHEN,Ahmedabad,West,1,5999,0.05,Card
+ORD-10448,"May 12, 2025",C0146,Air Fryer,Home & Kitchen,Chennai,South,1,5999,0.0,Card
+ORD-10449,12-May-25,C0291,Tea Pack,GROCERIES,JAIPUR,North,2,450,0.0,Net Banking
+ORD-10287,30/03/2025,C0185,Dry Fruits Box,groceries,Chennai, South ,5,1199,0.0,Card
+ORD-10450,2025-05-13,C0040,Bluetooth Speaker,Electronics,Delhi,North,1,1999,0.1,UPI
+ORD-10451,"May 13, 2025",C0040,Water Purifier,Home & Kitchen,BHOPAL,Central,1,8999,0.05,Card
+ORD-10452,2025-05-13,C0110,Bookshelf,Furniture,Delhi,North,1,3799,0.2,cash
+ORD-10453,"May 14, 2025",C0130,Bluetooth Speaker,Electronics,Bhopal ,CENTRAL,1,1999,0%,Card
+ORD-10454,14/05/2025,C0137,Tea Pack,Groceries,Delhi,North,5,₹450,0.05,UPI
+ORD-10455,"May 14, 2025",C0106,Cooking Oil 5L,Groceries,Bengaluru,SOUTH,1,899,0.0,Net Banking
+ORD-10456,14-May-25,C0304,Sports Shoes,Clothing,Bengaluru,South,2,2299,0.2,Card
+ORD-10457,14/05/2025,C0141,Tea Pack,Groceries ,Mumbai,West,1,450,0.0,Card
+ORD-10458,2025-05-15,C0116,Women's Kurta,Clothing,MUMBAI,W,1,1199,0.3,Cash
+ORD-10459,16-May-25,C0303,Tea Pack,Groceries,PATNA,EAST,1,450,0.05,Cash
+ORD-10460,2025-05-16,C0106,Study Table,Furniture,Jaipur,north,1,4299,15%,Card
+ORD-10461,16/05/2025,C0191,Study Table ,Furniture,Ahmedabad , West ,1,4299,0.15,UPI
+ORD-10462,16/05/2025,C0266,Basmati Rice 5kg,Groceries,Mumbai,WEST,2,649,0.0,Card
+ORD-10463,"May 16, 2025",C0247,Women's Kurta,Clothing,Ahmedabad,West,1,1199,0.2,UPI
+ORD-10464,16/05/2025,C0161,Study Table,Furniture,Bhopal,Central,2,"₹4,299",0.2,Card
+ORD-10465,16/05/2025,C0173,Women's Kurta,clothing,Mumbai,West,3,1199,0.2,Card
+ORD-10466,17-May-25,C0311,Dry Fruits Box,Groceries,Ahmedabad,West,1,1199,0.0,Card
+ORD-10467,2025-05-17,C0229,Bluetooth Speaker ,Electronics,ahmedabad,West,2,1999,0.1,Card
+ORD-10468,17/05/2025,C0213,Smart Watch,Electronics,delhi,North,1,4999,0.0,UPI
+ORD-10469,17/05/2025,C0014,Basmati Rice 5kg,Groceries,Jaipur ,North,4,649,0.0,UPI
+ORD-10470,2025-05-17,C0277,Tea Pack,Groceries,Ahmedabad,West,5,₹450,0.0,Card
+ORD-10471,17-May-25,C0326,Basmati Rice 5kg,Groceries,Chennai,South,5,649,0.0,UPI
+ORD-10472,"May 17, 2025",C0090,Power Bank,electronics,Chennai,South,1,1299,0.0,Card
+ORD-10473,2025-05-18,C0039,Tea Pack,GROCERIES,Jaipur,NORTH,5,450,0.0,Net Banking
+ORD-10474,2025-05-18,C0107,Dry Fruits Box ,Groceries,Chennai,S,5,1199,0%,UPI
+ORD-10475,18/05/2025,C0343,Wireless Earbuds,electronics,Delhi,,2,2499,0.05,Cash
+ORD-10476,18/05/2025,C0300,Basmati Rice 5kg,groceries,Kolkata,East,3,649,0.0,Card
+ORD-10477,"May 19, 2025",C0226,Wireless Earbuds,Electronics,Ahmedabad,West,1,2499,0.1,UPI
+ORD-10478,19-May-25,C0141,Power Bank,Electronics,Bengaluru,south,1,1299,0.0,upi
+ORD-10479,20-May-25,C0253,Dry Fruits Box,Groceries,Ahmedabad,West,1,1199,0.05,upi
+ORD-10480,2025-05-20,C0178,Bluetooth Speaker,Electronics,Mumbai,WEST,2,1999,0.05,Card
+ORD-10481,"May 21, 2025",C0147,Sports Shoes,Clothing,CHENNAI,South,1,2299,0.1,Net Banking
+ORD-10482,22-May-25,C0002,Dry Fruits Box,Groceries ,Mumbai,W,2,1199,5%,UPI
+ORD-10460,2025-05-16,C0106,Study Table,Furniture,Jaipur,north,1,4299,15%,Card
+ORD-10483,"May 22, 2025",C0336,Smart Watch,Electronics,Mumbai,West,1,4999,0.0,Card
+ORD-10484,"May 22, 2025",C0333,Cooking Oil 5L,Groceries,Delhi,North,5,₹899,0%,Card
+ORD-10485,23/05/2025,C0026,Cookware Set,Home & Kitchen,indore,Central,1,2699,0.05,Card
+ORD-10486,23-May-25,,Smart Watch,Electronics,Bhopal,central,2,4999,0.0,upi
+ORD-10487,23/05/2025,C0136,Basmati Rice 5kg ,Groceries,Ahmedabad,WEST,1,649,0.0,Cash
+ORD-10488,"May 23, 2025",C0178,Wireless Earbuds,electronics,Mumbai,West,2,2499,0.05,UPI
+ORD-10489,23-May-25,C0127,Cookware Set,Home & Kitchen,Kolkata,EAST,2,2699,0.05,UPI
+ORD-10490,24/05/2025,C0214,Basmati Rice 5kg ,Groceries,patna, East ,3,649,0.0,Card
+ORD-10491,"May 24, 2025",C0174,Cookware Set,Home & Kitchen ,Bengaluru,South,1,2699,0.0,Net Banking
+ORD-10270,2025-03-25,C0322,Cooking Oil 5L,Groceries ,Delhi,North,2,899,0.05,Card
+ORD-10492,24/05/2025,C0187,cooking oil 5l,GROCERIES,Mumbai, West ,1,899,0.0,Cash
+ORD-10493,24-May-25,C0181,cookware set,Home & Kitchen,indore,Central,1,2699,10%,upi
+ORD-10494,"May 24, 2025",C0248,Bluetooth Speaker,ELECTRONICS,Indore,Central,1,1999,0.0,upi
+ORD-10495,25-May-25,C0156,Power Bank,ELECTRONICS,bhopal,central,1,1299,0.1,UPI
+ORD-10496,25/05/2025,C0049,Mixer Grinder,home & kitchen,Mumbai,WEST,1,3299,0.1,UPI
+ORD-10497,25/05/2025,,Mixer Grinder,HOME & KITCHEN,Mumbai,West,1,3299,10%,UPI
+ORD-10498,2025-05-25,C0107,Sports Shoes,clothing,Chennai,South,1,,10%,UPI
+ORD-10499,25-May-25,C0273,Tea Pack,groceries,Ahmedabad,West,3,450,0.0,cash
+ORD-10500,"May 25, 2025",C0160,Air Fryer,Home & Kitchen,Jaipur,North,1,5999,0.05,Card
+ORD-10501,"May 25, 2025",C0151,Basmati Rice 5kg,Groceries,Chennai, South ,4,649,0.0,Card
+ORD-10502,26-May-25,C0145,Bookshelf,Furniture,Mumbai,WEST,1,3799,0.1,UPI
+ORD-10503,26/05/2025,C0328,Cooking Oil 5L,Groceries,Kolkata,East,2,899,0.0,Cash
+ORD-10504,26-May-25,C0245,Women's Kurta,Clothing ,Delhi ,NORTH,2,1199,0.1,Cash
+ORD-10505,26-May-25,C0136,Denim Jeans,Clothing,Mumbai,West,3,1599,0.2,UPI
+ORD-10506,26-May-25,C0171,Tea Pack,Groceries,Mumbai ,west,4,450,0.0,Cash
+ORD-10507,"May 26, 2025",C0095,Basmati Rice 5kg,Groceries,Bhopal ,Central,5,649,0.0,Card
+ORD-10508,2025-05-26,C0096,Cookware Set,HOME & KITCHEN,Patna,East,1,2699,0.15,UPI
+ORD-10509,26/05/2025,C0089,Cooking Oil 5L,groceries,JAIPUR,North,1,899,0.0,upi
+ORD-10510,"May 27, 2025",C0104,Sports Shoes,clothing,Mumbai,West,1,2299,0.3,UPI
+ORD-10511,27-May-25,C0333,Wireless Earbuds,Electronics,Kolkata,east,2,2499,0.1,Cash
+ORD-10512,27-May-25,C0201,Cooking Oil 5L,Groceries,Delhi,North,1,899,0.0,upi
+ORD-10513,2025-05-28,C0077,Basmati Rice 5kg,Groceries,Jaipur,North,2,649,0.0,Card
+ORD-10514,28-May-25,C0206,Wireless Earbuds,Electronics,Mumbai,West,1,2499,5%,UPI
+ORD-10515,"May 28, 2025",C0326,Women's Kurta,Clothing,BENGALURU,South,3,1199,0.3,Card
+ORD-10516,2025-05-28,C0307,Power Bank,electronics,Chennai,South,1,1299,0.0,Card
+ORD-10517,29-May-25,C0311,Women's Kurta,clothing,Ahmedabad,West,2,1199,0.2,UPI
+ORD-10518,29-May-25,C0224,Bluetooth Speaker,electronics,Mumbai,West,1,,0.0,Card
+ORD-10519,"May 29, 2025",C0318,Cookware Set,Home & Kitchen,delhi,North,2,2699,0.05,UPI
+ORD-10520,"May 30, 2025",C0025,Cooking Oil 5L,Groceries,Kolkata,east,4,899,0.0,Net Banking
+ORD-10521,30/05/2025,C0279,Cookware Set,home & kitchen,Mumbai,West,1,2699,0.05,UPI
+ORD-10522,31-May-25,C0055,Cooking Oil 5L ,groceries,Bhopal,Central,3,899,0.0,UPI
+ORD-10523,2025-05-31,C0227,Wireless Earbuds,Electronics,Mumbai,West,2,2499,0.05,upi
+ORD-10524,01-Jun-25,C0223,Mixer Grinder ,Home & Kitchen ,Delhi,,1,3299,0.05,Credit Card
+ORD-10525,01/06/2025,C0231,Men's Jacket,Clothing,Ahmedabad ,West,,"₹2,799",0.1,Net Banking
+ORD-10526,01/06/2025,C0087,Tea Pack,Groceries,Bhopal, Central ,3,450,0.0,Credit Card
+ORD-10527,2025-06-02,C0240,Bluetooth Speaker,Electronics,Jaipur,NORTH,1,1999,0.0,UPI
+ORD-10528,02-Jun-25,C0192,Dry Fruits Box,Groceries ,Ahmedabad,West,1,"₹1,199",0.0,upi
+ORD-10529,2025-06-03,C0274,Sofa Set ,Furniture,Chennai,south,1,18999,0.1,UPI
+ORD-10530,03/06/2025,C0061,Tea Pack,Groceries,Bengaluru,South,1,450,0.0,Card
+ORD-10531,03-Jun-25,C0263,Denim Jeans,Clothing,Jaipur , North ,2,1599,0.3,Net Banking
+ORD-10532,03-Jun-25,C0223,Power Bank,Electronics,Ahmedabad ,West,1,1299,0.05,Credit Card
+ORD-10533,"Jun 04, 2025",C0130,Study Table,Furniture,Ahmedabad,West,,4299,0.2,UPI
+ORD-10534,04-Jun-25,C0217,Mixer Grinder,Home & Kitchen,ahmedabad,W,1,3299,0.1,Cash
+ORD-10535,04/06/2025,C0324,Cookware Set,Home & Kitchen,Ahmedabad,West,2,2699,0.05,Card
+ORD-10536,05-Jun-25,C0333,Basmati Rice 5kg,Groceries,Chennai, South ,4,649,0.0,Credit Card
+ORD-10537,2025-06-05,C0222,Tea Pack,Groceries,Mumbai,West,3,450,0.05,UPI
+ORD-10538,"Jun 06, 2025",C0305,Cooking Oil 5L,Groceries ,Delhi,North,3,899,0.0,Card
+ORD-10539,06/06/2025,C0155,Men's Jacket,Clothing,Ahmedabad,West,2,2799,0.3,upi
+ORD-10540,06-Jun-25,C0174,Power Bank,Electronics,Jaipur,North,1,1299,0.05,Cash
+ORD-10541,"Jun 07, 2025",C0182,Smart Watch,Electronics,Bengaluru,South,2,4999,0.05,upi
+ORD-10542,"Jun 07, 2025",C0317,Sports Shoes,Clothing ,kolkata,East,1,2299,0.3,UPI
+ORD-10543,2025-06-07,C0025,Cookware Set,Home & Kitchen,Chennai,South,1,2699,0.1,Cash
+ORD-10544,07/06/2025,C0061,Dry Fruits Box,Groceries,Delhi ,North,,1199,0.0,Card
+ORD-10545,07/06/2025,C0162,Power Bank,Electronics,kolkata, East ,1,1299,0.1,Net Banking
+ORD-10546,2025-06-07,C0244,Dry Fruits Box,GROCERIES,Bengaluru,South,3,1199,0.0,Card
+ORD-10547,07-Jun-25,C0191,Air Fryer,Home & Kitchen,Chennai,south,1,5999,0.0,Card
+ORD-10548,07/06/2025,C0045,Power Bank,Electronics,Indore,CENTRAL,2,1299,10%,Cash
+ORD-10549,2025-06-08,C0126,dry fruits box,GROCERIES,Indore,Central,2,1199,0%,Net Banking
+ORD-10550,08/06/2025,C0180,Water Purifier,Home & Kitchen,Bengaluru,South,2,8999,0.05,Cash
+ORD-10551,08/06/2025,C0235,Bluetooth Speaker,Electronics,BHOPAL,Central,2,1999,0.05,UPI
+ORD-10552,08-Jun-25,C0044,Dry Fruits Box,Groceries,jaipur,North,3,1199,0.0,Card
+ORD-10553,08-Jun-25,C0209,Air Fryer,Home & Kitchen,Bengaluru,,2,5999,10%,Net Banking
+ORD-10554,"Jun 09, 2025",C0201,Mixer Grinder,Home & Kitchen,Kolkata,,1,3299,0.1,Card
+ORD-10555,"Jun 09, 2025",C0078,Cookware Set,Home & Kitchen,Delhi, North ,2,2699,0.0,Cash
+ORD-10556,09/06/2025,C0020,Mixer Grinder,Home & Kitchen,Bengaluru,South,1,3299,0.0,Card
+ORD-10557,09/06/2025,C0297,Denim Jeans,Clothing,Mumbai,WEST,1,1599,0.3,UPI
+ORD-10558,09-Jun-25,C0128,Office Chair,Furniture ,Kolkata,East,2,5499,0.2,UPI
+ORD-10559,10/06/2025,C0238,Women's Kurta,Clothing,Bhopal,Central,2,1199,0.2,UPI
+ORD-10560,10/06/2025,C0314,Power Bank ,electronics,BHOPAL,central,,,0.05,Credit Card
+ORD-10561,2025-06-10,C0089,Power Bank,Electronics,Kolkata,east,2,1299,0.05,UPI
+ORD-10562,2025-06-10,C0103,Bluetooth Speaker,Electronics,Jaipur,North,2,1999,0.05,UPI
+ORD-10563,2025-06-10,C0121,tea pack,GROCERIES,Jaipur,North,1,450,0.05,Card
+ORD-10564,10-Jun-25,C0245,Basmati Rice 5kg,Groceries,Chennai,South,4,649,0%,upi
+ORD-10565,"Jun 11, 2025",C0014,Study Table,Furniture,ahmedabad,WEST,1,4299,0.2,Card
+ORD-10566,11-Jun-25,C0073,Wireless Earbuds,Electronics,Bengaluru,,2,,0.0,Card
+ORD-10567,11/06/2025,C0265,Power Bank,Electronics,Bengaluru,South,1,1299,10%,Card
+ORD-10568,"Jun 11, 2025",C0083,Smartphone,Electronics,Indore,Central,1,14999,0.1,Card
+ORD-10569,11/06/2025,C0224,Power Bank,Electronics,Jaipur ,North,1,1299,0.05,Cash
+ORD-10570,12/06/2025,C0063,Wireless Earbuds,Electronics,Chennai,S,1,2499,0%,UPI
+ORD-10571,2025-06-13,C0321,Tea Pack,Groceries,Bengaluru,South,3,450,0.0,UPI
+ORD-10572,13/06/2025,C0316,Sports Shoes,Clothing,Mumbai,West,3,2299,0.2,UPI
+ORD-10573,13/06/2025,C0004,Women's Kurta,Clothing,Kolkata,East,2,1199,0.1,UPI
+ORD-10574,2025-06-14,C0294,Denim Jeans,Clothing,Bengaluru,South,1,1599,0.1,Card
+ORD-10575,14/06/2025,C0244,Denim Jeans,Clothing,Ahmedabad,West,3,1599,0.3,Card
+ORD-10576,"Jun 14, 2025",C0085,Sports Shoes ,Clothing,INDORE,Central,3,2299,0.2,upi
+ORD-10577,15-Jun-25,C0006,Cooking Oil 5L,Groceries,CHENNAI,South,5,899,0.05,Credit Card
+ORD-10578,2025-06-15,C0318,Men's Jacket,Clothing,Jaipur,North,2,2799,0.3,Card
+ORD-10579,2025-06-16,C0075,Water Purifier,Home & Kitchen,Delhi,North,1,8999,0.1,UPI
+ORD-10580,16-Jun-25,C0247,Cooking Oil 5L,groceries,Mumbai,West,5,899,0.05,UPI
+ORD-10581,2025-06-17,C0059,Sofa Set,Furniture,Jaipur,,1,18999,20%,Cash
+ORD-10582,2025-06-18,C0262,Basmati Rice 5kg,Groceries,Delhi,North,1,649,0.0,UPI
+ORD-10583,2025-06-18,C0072,Water Purifier,Home & Kitchen,Kolkata,East,2,8999,0.0,UPI
+ORD-10584,"Jun 18, 2025",C0177,Water Purifier,home & kitchen,Kolkata,EAST,1,8999,0.0,UPI
+ORD-10585,2025-06-18,C0149,Men's Jacket,Clothing,Jaipur,North,1,2799,0.3,Card
+ORD-10586,"Jun 18, 2025",C0338,Tea Pack ,Groceries,Bhopal,Central,1,450,0.05,Cash
+ORD-10587,18/06/2025,C0329,women's kurta,clothing,Jaipur,North,1,1199,0.3,Card
+ORD-10588,18/06/2025,C0171,Women's Kurta,Clothing,Mumbai ,west,2,1199,0.1,UPI
+ORD-10589,2025-06-18,C0064,Denim Jeans,clothing,DELHI,North,3,1599,0.2,UPI
+ORD-10590,19/06/2025,C0040,Bluetooth Speaker ,Electronics,Chennai,south,1,1999,0.0,Card
+ORD-10591,20/06/2025,C0004,Air Fryer,Home & Kitchen ,Patna,East,2,5999,0.05,Card
+ORD-10592,21/06/2025,C0126,Basmati Rice 5kg,Groceries,indore,Central,1,649,0.05,UPI
+ORD-10593,21-Jun-25,C0293,Men's Jacket ,Clothing,Chennai,South,3,2799,0.1,UPI
+ORD-10594,21/06/2025,C0315,Sports Shoes,Clothing,Chennai,South,1,2299,0.2,Card
+ORD-10595,2025-06-21,C0039,Men's Jacket ,Clothing,Delhi, North ,3,2799,0.2,UPI
+ORD-10596,22-Jun-25,C0003,Mixer Grinder,Home & Kitchen,Indore,Central,2,3299,0.15,Card
+ORD-10597,22-Jun-25,C0327,Office Chair,Furniture,Bengaluru,South,1,5499,0.2,UPI
+ORD-10598,22/06/2025,C0022,Tea Pack,Groceries,Ahmedabad,W,3,₹450,0.0,Card
+ORD-10599,"Jun 23, 2025",C0168,Basmati Rice 5kg,Groceries,Delhi,N,2,649,0.05,UPI
+ORD-10600,"Jun 23, 2025",C0216,Power Bank,Electronics ,Jaipur,North,2,1299,0.0,Card
+ORD-10601,"Jun 23, 2025",C0163,smart watch,Electronics,Delhi,NORTH,1,4999,0.05,Net Banking
+ORD-10602,2025-06-23,C0197,Study Table,Furniture,Ahmedabad,WEST,2,4299,0.1,Card
+ORD-10603,"Jun 25, 2025",C0004,Air Fryer,Home & Kitchen,Delhi, North ,2,5999,0.05,NetBanking
+ORD-10604,25/06/2025,C0107,Cooking Oil 5L,Groceries,Delhi,North,5,899,0.0,Card
+ORD-10605,25-Jun-25,C0114,Smartphone ,Electronics,Delhi,NORTH,1,14999,0.1,Card
+ORD-10606,"Jun 25, 2025",C0042,Water Purifier ,Home & Kitchen,Mumbai,WEST,1,8999,0.1,UPI
+ORD-10607,2025-06-26,C0021,Wireless Earbuds ,Electronics ,Bengaluru,South,-1,2499,0.0,Card
+ORD-10608,26-Jun-25,C0007,Bluetooth Speaker,Electronics,JAIPUR,North,2,1999,0%,Net Banking
+ORD-10609,27-Jun-25,C0017,Cooking Oil 5L,Groceries,Indore,Central,3,899,0.05,upi
+ORD-10610,"Jun 27, 2025",C0125,Sports Shoes,clothing,MUMBAI,WEST,2,2299,0.3,Cash
+ORD-10611,27/06/2025,C0129,Tea Pack,Groceries,Mumbai,WEST,5,,0.0,UPI
+ORD-10612,28/06/2025,C0211,Basmati Rice 5kg,Groceries,Bengaluru,South,2,649,0.05,Net Banking
+ORD-10613,2025-06-28,C0211,Study Table,Furniture,Ahmedabad,West,1,4299,0.1,Card
+ORD-10614,"Jun 28, 2025",C0327,Study Table,Furniture,Delhi,North,2,4299,20%,UPI
+ORD-10615,28-Jun-25,C0080,Smart Watch,ELECTRONICS,Bhopal,Central,1,4999,0.0,UPI
+ORD-10616,29-Jun-25,C0015,Power Bank,electronics,Mumbai,West,1,1299,5%,upi
+ORD-10617,2025-06-29,C0152,Basmati Rice 5kg,Groceries,Chennai ,SOUTH,1,649,0.0,UPI
+ORD-10618,2025-06-29,C0262,Basmati Rice 5kg,Groceries,Bhopal,Central,2,649,0.0,UPI
+ORD-10619,"Jun 29, 2025",C0177,Tea Pack ,Groceries,Chennai ,South,4,450,0.0,NetBanking
+ORD-10620,2025-06-30,C0333,Women's Kurta,Clothing,Jaipur ,North,1,1199,0.1,upi
+ORD-10621,30-Jun-25,C0042,Dry Fruits Box,Groceries,Indore ,Central,1,1199,0.05,Cash
+ORD-10622,30-Jun-25,C0121,Cooking Oil 5L,Groceries ,AHMEDABAD,WEST,,₹899,0.0,UPI
+ORD-10623,30-Jun-25,C0321,Basmati Rice 5kg,Groceries,Jaipur,North,5,649,0.0,Card
+ORD-10624,"Jul 01, 2025",C0012,Cookware Set,Home & Kitchen,Bengaluru,South,1,2699,0.15,UPI
+ORD-10625,01/07/2025,C0332,Tea Pack,Groceries,Mumbai,west,4,450,0.05,upi
+ORD-10626,"Jul 02, 2025",C0319,Tea Pack,Groceries,Bengaluru,South,4,450,0.0,Card
+ORD-10627,2025-07-02,C0323,Tea Pack,Groceries,Bhopal,Central,5,450,0%,Card
+ORD-10628,02-Jul-25,C0122,Sports Shoes,Clothing,ahmedabad, West ,3,2299,0.3,UPI
+ORD-10629,"Jul 02, 2025",C0162,Men's Jacket ,Clothing,Ahmedabad,west,,2799,0.3,Card
+ORD-10630,"Jul 02, 2025",C0067,Mixer Grinder,Home & Kitchen,Bhopal,central,1,3299,0.05,UPI
+ORD-10631,2025-07-02,C0338,Cooking Oil 5L,GROCERIES,Kolkata,east,1,899,0%,Card
+ORD-10632,03/07/2025,C0155,Wireless Earbuds,Electronics,Bhopal ,Central,1,2499,0.0,UPI
+ORD-10633,03/07/2025,C0285,Basmati Rice 5kg ,Groceries,Kolkata,east,4,649,0.0,Card
+ORD-10634,03/07/2025,C0224,Office Chair,Furniture,Ahmedabad,West,2,5499,15%,Cash
+ORD-10635,03-Jul-25,C0033,Men's Jacket,Clothing,Chennai,South,3,2799,0.1,NetBanking
+ORD-10268,25-Mar-25,C0335,Cooking Oil 5L,Groceries,Ahmedabad,West,3,899,0.0,UPI
+ORD-10636,"Jul 04, 2025",C0215,Water Purifier,Home & Kitchen,Mumbai,West,1,8999,0.05,Net Banking
+ORD-10637,04-Jul-25,C0296,Power Bank,Electronics ,Jaipur,North,1,1299,0.05,UPI
+ORD-10638,04-Jul-25,C0090,Wireless Earbuds,Electronics,Kolkata,east,1,2499,0.05,UPI
+ORD-10639,04-Jul-25,C0208,Cookware Set,Home & Kitchen,Ahmedabad,West,1,2699,0.05,UPI
+ORD-10640,"Jul 05, 2025",C0236,Study Table,Furniture,Bengaluru,South,1,4299,0.15,upi
+ORD-10641,"Jul 05, 2025",C0134,Sports Shoes,Clothing ,JAIPUR,North,3,2299,0.2,Cash
+ORD-10642,05/07/2025,C0336,Mixer Grinder,Home & Kitchen,Delhi, North ,1,3299,0.05,UPI
+ORD-10643,05/07/2025,C0199,Bookshelf,furniture,Bengaluru,South,,3799,0.1,Card
+ORD-10644,2025-07-05,C0052,Basmati Rice 5kg,Groceries,Indore, Central ,5,649,0%,Net Banking
+ORD-10645,2025-07-05,C0291,Tea Pack,Groceries,Bengaluru,,3,450,0.0,UPI
+ORD-10646,2025-07-06,C0347,Bluetooth Speaker ,Electronics,Ahmedabad, West ,1,1999,0.05,Card
+ORD-10647,"Jul 06, 2025",C0217,Dry Fruits Box,Groceries,Mumbai,West,2,1199,0.0,UPI
+ORD-10648,06/07/2025,C0154,Water Purifier,Home & Kitchen,Mumbai, West ,1,8999,0.1,Card
+ORD-10649,"Jul 07, 2025",C0244,Women's Kurta,clothing,bengaluru,South,3,1199,0.2,Credit Card
+ORD-10650,07/07/2025,C0347,Sports Shoes,Clothing,Ahmedabad,West,3,2299,0.3,Credit Card
+ORD-10651,07-Jul-25,C0291,Wireless Earbuds,Electronics,Mumbai,West,1,"₹2,499",0.05,Cash
+ORD-10652,07/07/2025,C0070,Dry Fruits Box,Groceries,Chennai,South,4,1199,0.0,Cash
+ORD-10653,08-Jul-25,C0233,Office Chair,Furniture,Delhi,,1,5499,0.15,Card
+ORD-10654,2025-07-08,C0017,Sports Shoes,Clothing,Jaipur,North,1,2299,0.1,Cash
+ORD-10655,09-Jul-25,C0330,Dry Fruits Box,Groceries,Jaipur,north,2,1199,0.0,cash
+ORD-10656,"Jul 09, 2025",C0033,Basmati Rice 5kg,Groceries,Bhopal,Central,3,649,0.0,UPI
+ORD-10657,10-Jul-25,C0339,Air Fryer,home & kitchen,Ahmedabad,West,1,5999,0.05,UPI
+ORD-10658,10/07/2025,C0085,Women's Kurta,Clothing ,Bhopal,Central,3,1199,0.1,Card
+ORD-10659,2025-07-10,,Cookware Set ,Home & Kitchen,Chennai,South,1,2699,0.0,UPI
+ORD-10660,"Jul 11, 2025",C0096,Basmati Rice 5kg,Groceries,Ahmedabad,West,5,649,0.05,Card
+ORD-10661,11-Jul-25,C0149,Cooking Oil 5L,Groceries,Bhopal,Central,1,899,0.0,Cash
+ORD-10662,11/07/2025,C0255,Wireless Earbuds,Electronics,Delhi,North,2,"₹2,499",0.0,Net Banking
+ORD-10663,"Jul 11, 2025",C0232,Dry Fruits Box,GROCERIES,Ahmedabad,West,3,1199,0.05,UPI
+ORD-10664,"Jul 12, 2025",C0275,Cookware Set ,Home & Kitchen,Chennai,S,,2699,0.1,UPI
+ORD-10665,"Jul 12, 2025",C0157,Bookshelf,Furniture,BENGALURU,South,1,3799,0.15,Card
+ORD-10666,2025-07-13,C0020,Wireless Earbuds,electronics,Jaipur,North,,2499,0.0,Card
+ORD-10667,"Jul 13, 2025",C0252,Study Table,Furniture,Patna ,East,1,4299,0.15,Card
+ORD-10668,2025-07-13,C0231,Sports Shoes,Clothing,Ahmedabad,West,1,2299,0.2,Card
+ORD-10669,2025-07-13,C0210,Smartphone,Electronics,Mumbai,West,1,14999,0.1,UPI
+ORD-10670,"Jul 14, 2025",,Cooking Oil 5L ,Groceries,Bengaluru ,,2,899,0.05,Card
+ORD-10671,"Jul 14, 2025",C0096,Cookware Set,Home & Kitchen,DELHI,North,1,2699,0.0,UPI
+ORD-10672,"Jul 14, 2025",C0218,Mixer Grinder,Home & Kitchen,Ahmedabad,west,1,3299,0.0,Card
+ORD-10673,"Jul 14, 2025",C0149,Women's Kurta,Clothing,Indore,Central,1,1199,0.1,UPI
+ORD-10674,2025-07-15,C0157,Wireless Earbuds ,Electronics,Bhopal,central,1,2499,0.05,UPI
+ORD-10675,"Jul 15, 2025",C0102,Men's Jacket,Clothing,DELHI,North,3,2799,0.3,Card
+ORD-10676,"Jul 15, 2025",C0174,Men's Jacket,Clothing,Indore,C,3,2799,0.1,NetBanking
+ORD-10677,2025-07-16,C0143,Tea Pack,Groceries,Delhi,north,2,450,0.0,UPI
+ORD-10678,16/07/2025,C0056,Mixer Grinder,HOME & KITCHEN,Jaipur,North,1,3299,0.05,UPI
+ORD-10679,17/07/2025,C0153,Sofa Set,Furniture,Ahmedabad ,west,1,18999,20%,Cash
+ORD-10680,18/07/2025,C0288,Bookshelf,Furniture,Delhi,North,2,3799,0.2,UPI
+ORD-10681,18-Jul-25,C0141,Sports Shoes,Clothing,Chennai,South,2,2299,0.3,Cash
+ORD-10682,18-Jul-25,C0148,Power Bank,Electronics ,Indore,Central,2,1299,0.0,upi
+ORD-10683,19/07/2025,C0183,Dry Fruits Box,Groceries,Delhi,North,1,1199,0.0,UPI
+ORD-10684,2025-07-20,C0055,Bluetooth Speaker,Electronics,Mumbai,West,2,1999,0.0,upi
+ORD-10685,20-Jul-25,C0156,Men's Jacket,CLOTHING,bhopal,Central,2,2799,0.1,Credit Card
+ORD-10686,21/07/2025,C0181,Denim Jeans,Clothing,Chennai,South,2,1599,0.2,Card
+ORD-10687,"Jul 21, 2025",C0292,Tea Pack,Groceries,Chennai,South,3,450,0.05,UPI
+ORD-10688,21-Jul-25,C0171,Basmati Rice 5kg,Groceries,MUMBAI,WEST,4,649,0.05,Card
+ORD-10689,21/07/2025,C0110,Mixer Grinder,Home & Kitchen,Mumbai,West,1,3299,0.05,Card
+ORD-10690,"Jul 22, 2025",C0345,Tea Pack,Groceries,Bengaluru,,3,450,0.0,UPI
+ORD-10691,"Jul 22, 2025",C0286,Water Purifier,Home & Kitchen,Jaipur,North,1,,0.1,Cash
+ORD-10692,2025-07-22,C0161,Study Table,Furniture,Jaipur, North ,1,4299,0.1,UPI
+ORD-10693,22-Jul-25,C0344,Study Table,Furniture,jaipur,NORTH,1,4299,0.1,Net Banking
+ORD-10694,22/07/2025,C0081,Basmati Rice 5kg,Groceries,Ahmedabad, West ,4,649,0.0,Card
+ORD-10695,2025-07-23,C0128,Mixer Grinder,Home & Kitchen,Indore,Central,1,3299,0.1,Card
+ORD-10585,2025-06-18,C0149,Men's Jacket,Clothing,Jaipur,North,1,2799,0.3,Card
+ORD-10696,23-Jul-25,C0234,Wireless Earbuds,Electronics ,Delhi,north,1,2499,0.0,UPI
+ORD-10697,24-Jul-25,C0122,Power Bank,Electronics ,Jaipur,North,1,,0.05,upi
+ORD-10698,24/07/2025,C0055,Tea Pack,Groceries,BENGALURU,South,4,450,0.0,upi
+ORD-10699,24-Jul-25,C0203,Men's Jacket,Clothing,Bhopal,central,3,,0.2,UPI
+ORD-10700,25/07/2025,C0143,Tea Pack,Groceries,BENGALURU,South,4,,0.0,Card
+ORD-10701,25/07/2025,C0223,Wireless Earbuds ,Electronics,DELHI,,1,2499,0.0,UPI
+ORD-10561,2025-06-10,C0089,Power Bank,Electronics,Kolkata,east,2,1299,0.05,UPI
+ORD-10702,"Jul 25, 2025",C0289,Office Chair ,Furniture,Indore ,Central,1,5499,15%,Net Banking
+ORD-10703,"Jul 26, 2025",,Air Fryer,Home & Kitchen,Kolkata,East,1,"₹5,999",0.1,Cash
+ORD-10704,26/07/2025,C0255,Tea Pack,Groceries,Mumbai ,,5,450,0%,upi
+ORD-10705,26-Jul-25,C0239,Men's Jacket,Clothing,Mumbai, West ,2,2799,0.1,Cash
+ORD-10706,"Jul 26, 2025",C0172,Basmati Rice 5kg,Groceries,Mumbai,WEST,1,649,0.0,Card
+ORD-10707,2025-07-26,C0235,Denim Jeans,Clothing,Kolkata,East,1,1599,0.3,UPI
+ORD-10708,26/07/2025,C0144,Smart Watch,electronics,MUMBAI,West,2,4999,0.0,Card
+ORD-10709,2025-07-27,C0252,Smartphone,Electronics,Jaipur ,north,1,"₹14,999",0.05,Card
+ORD-10710,27/07/2025,C0092,Denim Jeans,Clothing ,Bhopal,C,1,1599,0.2,Credit Card
+ORD-10711,"Jul 27, 2025",C0184,Mixer Grinder,HOME & KITCHEN,BHOPAL,Central,1,3299,5%,UPI
+ORD-10712,"Jul 27, 2025",C0022,Tea Pack ,groceries,Patna,East,3,450,0%,cash
+ORD-10713,"Jul 28, 2025",C0190,men's jacket,Clothing,Ahmedabad,WEST,2,2799,0.1,Card
+ORD-10714,"Jul 28, 2025",C0036,Power Bank ,Electronics,Ahmedabad,west,2,1299,0.0,upi
+ORD-10715,2025-07-28,C0034,Basmati Rice 5kg,groceries,Jaipur,North,4,649,0.0,Card
+ORD-10716,2025-07-28,C0200,Wireless Earbuds,Electronics,Jaipur,NORTH,1,2499,10%,NetBanking
+ORD-10717,2025-07-29,C0285,Women's Kurta,Clothing ,Mumbai,,3,1199,0.1,Cash
+ORD-10718,29-Jul-25,C0146,Cookware Set,Home & Kitchen,Ahmedabad , West ,1,2699,0.0,UPI
+ORD-10719,"Jul 29, 2025",C0261,Smart Watch,electronics,Bhopal,Central,2,4999,0.0,UPI
+ORD-10720,2025-07-30,C0016,Sports Shoes,Clothing,chennai,South,3,2299,0.2,UPI
+ORD-10721,30/07/2025,C0039,Air Fryer,Home & Kitchen ,Delhi,North,2,5999,0.0,Net Banking
+ORD-10722,30/07/2025,C0085,Mixer Grinder,Home & Kitchen,Jaipur,North,1,3299,0.0,Cash
+ORD-10723,30-Jul-25,C0292,Power Bank,Electronics,ahmedabad,WEST,1,1299,0.0,UPI
+ORD-10724,"Jul 30, 2025",C0330,Women's Kurta,Clothing,bhopal, Central ,1,1199,0.2,Credit Card
+ORD-10725,2025-07-30,C0156,Basmati Rice 5kg,Groceries,Bhopal,central,3,649,0.0,UPI
+ORD-10726,2025-07-30,C0217,Study Table,Furniture,Mumbai,WEST,1,4299,0.15,UPI
+ORD-10727,31/07/2025,C0069,Men's Jacket,Clothing,Ahmedabad,West,2,2799,0.2,UPI
+ORD-10728,2025-07-31,C0309,Women's Kurta,Clothing,Chennai,South,3,1199,0.1,UPI
+ORD-10729,"Jul 31, 2025",C0051,Wireless Earbuds,Electronics,Chennai,South,1,2499,0.0,UPI
+ORD-10730,31-Jul-25,C0173,Basmati Rice 5kg,Groceries,Mumbai,WEST,2,649,0.0,upi
+ORD-10731,31/07/2025,C0208,Dry Fruits Box,Groceries,Ahmedabad,West,4,1199,0.0,UPI
+ORD-10732,31-Jul-25,C0195,Wireless Earbuds ,Electronics,Bengaluru,south,1,"₹2,499",10%,UPI
+ORD-10733,2025-08-01,C0293,Mixer Grinder,Home & Kitchen,Bhopal,Central,1,3299,0.05,Cash
+ORD-10734,2025-08-01,C0119,Cooking Oil 5L,groceries,Chennai ,South,5,899,0.0,Card
+ORD-10735,01-Aug-25,C0266,Basmati Rice 5kg,Groceries,Indore, Central ,4,649,0.0,Card
+ORD-10736,2025-08-02,C0031,Cooking Oil 5L,Groceries,Ahmedabad,West,4,899,0.0,UPI
+ORD-10737,02/08/2025,C0229,men's jacket,Clothing,Patna,East,2,2799,0.2,UPI
+ORD-10738,"Aug 02, 2025",C0243,Bluetooth Speaker,ELECTRONICS,Indore,Central,1,1999,0.05,Card
+ORD-10739,2025-08-03,C0073,Smartphone ,Electronics ,bhopal,C,1,14999,0.05,UPI
+ORD-10740,2025-08-03,C0027,Cooking Oil 5L,Groceries,Chennai,South,1,899,0.05,Net Banking
+ORD-10741,03-Aug-25,C0231,Mixer Grinder ,Home & Kitchen,BENGALURU,south,1,3299,0.1,Credit Card
+ORD-10742,03/08/2025,C0262,Bluetooth Speaker,Electronics,Bhopal,Central,2,1999,5%,Card
+ORD-10743,03-Aug-25,C0298,Sports Shoes ,Clothing,Indore,Central,3,2299,0.2,Card
+ORD-10744,"Aug 03, 2025",C0206,Air Fryer,Home & Kitchen,Chennai,South,2,5999,0.05,Card
+ORD-10745,04/08/2025,C0104,Tea Pack,Groceries,bengaluru,South,5,450,0.05,Card
+ORD-10746,2025-08-04,,Women's Kurta,Clothing,Jaipur ,North,2,1199,0.1,NetBanking
+ORD-10747,"Aug 04, 2025",C0192,Cookware Set ,Home & Kitchen,Kolkata,East,2,2699,0.15,Card
+ORD-10748,"Aug 04, 2025",C0284,Mixer Grinder,Home & Kitchen,Jaipur ,North,1,3299,0.05,UPI
+ORD-10749,05/08/2025,C0192,Power Bank,Electronics,Kolkata,East,1,1299,0.05,UPI
+ORD-10750,"Aug 05, 2025",C0332,Bluetooth Speaker,Electronics,Chennai,South,2,1999,0.05,Card
+ORD-10751,05/08/2025,C0086,Smart Watch,Electronics,Delhi,North,2,4999,0.0,UPI
+ORD-10752,2025-08-05,C0136,Cooking Oil 5L,Groceries,Bengaluru,South,4,899,5%,upi
+ORD-10753,06/08/2025,C0033,Wireless Earbuds,Electronics,Kolkata,East,2,2499,0.0,UPI
+ORD-10754,"Aug 06, 2025",,Sofa Set,Furniture,Jaipur,N,1,18999,0.1,UPI
+ORD-10755,06/08/2025,C0327,Basmati Rice 5kg,Groceries,Chennai,South,5,649,0.05,upi
+ORD-10756,2025-08-06,C0227,Sports Shoes,Clothing,Ahmedabad,West,3,2299,0.3,Card
+ORD-10757,"Aug 07, 2025",C0172,Dry Fruits Box,Groceries,Bhopal ,Central,1,1199,0.0,upi
+ORD-10758,"Aug 08, 2025",C0184,Cookware Set,Home & Kitchen,Mumbai,West,1,2699,0.1,UPI
+ORD-10759,08-Aug-25,C0031,Bluetooth Speaker,Electronics,Bengaluru,South,,1999,0.05,UPI
+ORD-10760,08/08/2025,C0259,Cooking Oil 5L,Groceries,Bengaluru,South,4,899,0.0,upi
+ORD-10761,"Aug 08, 2025",C0284,Sports Shoes,Clothing,Mumbai,West,2,"₹2,299",0.1,upi
+ORD-10762,08-Aug-25,C0276,Smartphone ,Electronics,bhopal,Central,1,14999,0.0,Cash
+ORD-10763,08-Aug-25,C0113,Smart Watch,electronics,Jaipur,North,1,4999,0.0,UPI
+ORD-10764,2025-08-08,C0052,Bluetooth Speaker,Electronics,Ahmedabad,WEST,1,1999,0.1,UPI
+ORD-10765,"Aug 09, 2025",C0132,Sports Shoes,Clothing,Chennai,South,3,"₹2,299",0.1,Cash
+ORD-10766,"Aug 09, 2025",C0276,Dry Fruits Box,Groceries,Delhi,,2,1199,0.05,UPI
+ORD-10767,09/08/2025,C0044,Mixer Grinder,Home & Kitchen ,Indore,Central,2,3299,0.15,UPI
+ORD-10768,09-Aug-25,C0334,Basmati Rice 5kg,GROCERIES,ahmedabad,West,3,649,0.0,UPI
+ORD-10769,2025-08-09,C0272,Study Table,Furniture,Chennai,South,1,"₹4,299",0.2,UPI
+ORD-10770,"Aug 09, 2025",C0243,Dry Fruits Box ,Groceries,Bhopal ,Central,4,1199,0%,UPI
+ORD-10771,10-Aug-25,C0171,Tea Pack,Groceries ,Ahmedabad,West,5,450,0.05,upi
+ORD-10772,10/08/2025,C0020,Dry Fruits Box ,Groceries ,Delhi ,North,1,1199,0.0,Cash
+ORD-10773,10-Aug-25,C0184,Tea Pack,Groceries,Patna ,east,5,450,0.05,UPI
+ORD-10774,"Aug 10, 2025",C0046,Men's Jacket,Clothing,Bengaluru, South ,1,2799,0.1,UPI
+ORD-10775,11-Aug-25,C0252,Power Bank,Electronics,Bhopal,Central,2,1299,0.1,UPI
+ORD-10776,11/08/2025,C0157,Bookshelf,Furniture,Patna,East,1,3799,0.15,Card
+ORD-10777,11/08/2025,C0294,Sports Shoes,Clothing,chennai,South,3,2299,0.2,upi
+ORD-10778,12/08/2025,C0072,Study Table,Furniture,Mumbai,west,1,4299,0.2,UPI
+ORD-10779,2025-08-12,C0220,Cookware Set,Home & Kitchen,Kolkata,East,2,2699,0.05,Cash
+ORD-10780,12/08/2025,C0061,Tea Pack,Groceries,Mumbai,West,4,450,0.05,Cash
+ORD-10781,"Aug 12, 2025",C0345,Water Purifier ,Home & Kitchen,patna,East,1,8999,0.1,Card
+ORD-10782,"Aug 12, 2025",C0266,Denim Jeans,CLOTHING,Jaipur,North,2,1599,0.2,UPI
+ORD-10783,12/08/2025,C0058,Men's Jacket,Clothing,Indore,Central,2,"₹2,799",0.1,UPI
+ORD-10784,2025-08-13,C0245,Power Bank,Electronics,Indore,Central,1,1299,0%,Card
+ORD-10785,13-Aug-25,C0306,Cooking Oil 5L,Groceries,bengaluru,South,3,899,0.0,Card
+ORD-10786,"Aug 13, 2025",C0231,Tea Pack,GROCERIES,Bengaluru,South,5,450,0.0,Net Banking
+ORD-10787,"Aug 13, 2025",C0260,Power Bank,Electronics,mumbai,West,1,1299,0.0,UPI
+ORD-10788,13/08/2025,C0344,Smart Watch,Electronics,Patna,East,2,"₹4,999",0.05,Cash
+ORD-10789,"Aug 13, 2025",C0245,Denim Jeans,Clothing,Ahmedabad,West,2,1599,0.3,Cash
+ORD-10790,14/08/2025,C0259,Dry Fruits Box,Groceries,Mumbai,WEST,1,1199,0.05,UPI
+ORD-10791,"Aug 14, 2025",C0296,cooking oil 5l,Groceries,Jaipur,North,5,899,0.0,Card
+ORD-10792,15/08/2025,C0076,Denim Jeans,CLOTHING,Delhi,North,1,1599,0.2,UPI
+ORD-10793,2025-08-15,C0037,basmati rice 5kg,Groceries,Delhi,North,5,649,0.0,UPI
+ORD-10794,"Aug 15, 2025",C0084,Cookware Set,Home & Kitchen,Chennai,South,2,2699,0.15,UPI
+ORD-10795,2025-08-16,C0048,Cooking Oil 5L,Groceries ,Delhi,North,2,899,0.0,upi
+ORD-10796,"Aug 16, 2025",C0083,Bluetooth Speaker,ELECTRONICS,Jaipur,North,1,1999,0.0,Card
+ORD-10797,16/08/2025,C0219,Dry Fruits Box,Groceries,Jaipur,NORTH,4,1199,0.05,UPI
+ORD-10798,"Aug 16, 2025",C0347,Wireless Earbuds,Electronics,Kolkata,East,1,2499,0.0,Card
+ORD-10799,16-Aug-25,C0114,Women's Kurta,Clothing,Bhopal ,Central,1,1199,10%,UPI
+ORD-10208,06/03/2025,C0039,Mixer Grinder,Home & Kitchen,Bhopal,CENTRAL,1,3299,0%,UPI
+ORD-10800,"Aug 17, 2025",C0155,Sofa Set,FURNITURE,Kolkata,East,1,"₹18,999",0.2,Card
+ORD-10801,17-Aug-25,C0091,Air Fryer,Home & Kitchen,Chennai,South,1,5999,0.1,Card
+ORD-10802,17/08/2025,C0348,Women's Kurta,Clothing,Kolkata,East,2,1199,0.3,Cash
+ORD-10803,"Aug 17, 2025",C0039,Women's Kurta,Clothing,Bengaluru,South,3,1199,0.3,Card
+ORD-10804,"Aug 18, 2025",C0277,Smartphone,Electronics,Patna,East,1,14999,0.1,UPI
+ORD-10805,2025-08-18,C0293,Cookware Set ,home & kitchen,Indore,,1,2699,0.15,Card
+ORD-10806,"Aug 18, 2025",,Cookware Set,Home & Kitchen,BENGALURU,South,1,2699,0.0,UPI
+ORD-10807,18-Aug-25,C0163,Denim Jeans,Clothing,Jaipur,North,3,1599,0.3,Card
+ORD-10808,18-Aug-25,C0238,Cookware Set,Home & Kitchen,Delhi,North,1,2699,0.05,Card
+ORD-10809,"Aug 18, 2025",C0345,Women's Kurta,Clothing,Mumbai,West,2,1199,0.2,upi
+ORD-10810,2025-08-18,C0317,Denim Jeans,Clothing,Bengaluru,SOUTH,3,1599,0.2,UPI
+ORD-10811,18/08/2025,C0034,Study Table,Furniture,Delhi,north,2,4299,20%,UPI
+ORD-10812,19-Aug-25,C0061,Men's Jacket,Clothing ,Ahmedabad,West,1,2799,0.2,UPI
+ORD-10813,19/08/2025,C0294,Tea Pack,Groceries,Mumbai ,WEST,5,450,0.05,Cash
+ORD-10814,20/08/2025,C0173,Tea Pack,Groceries,Mumbai,West,5,450,0.0,UPI
+ORD-10815,21/08/2025,C0246,Cooking Oil 5L,Groceries,Delhi,North,4,899,0.05,Card
+ORD-10816,21/08/2025,C0209,Women's Kurta,Clothing ,Kolkata,East,2,1199,0.2,UPI
+ORD-10817,2025-08-21,C0192,Water Purifier,Home & Kitchen,Chennai,South,2,8999,0.1,Card
+ORD-10818,21/08/2025,C0206,Cookware Set,Home & Kitchen,Mumbai,West,1,2699,0.05,Card
+ORD-10819,22-Aug-25,C0079,Cooking Oil 5L,Groceries,Kolkata,E,4,899,0.0,UPI
+ORD-10820,22/08/2025,C0028,Men's Jacket,Clothing,Jaipur, North ,3,2799,0.1,Cash
+ORD-10821,22-Aug-25,C0264,Denim Jeans,Clothing,Delhi,North,1,1599,0.3,upi
+ORD-10822,22/08/2025,C0070,Bluetooth Speaker,Electronics,Ahmedabad,West,1,1999,0.0,UPI
+ORD-10823,22/08/2025,C0293,Dry Fruits Box,Groceries,jaipur,north,2,1199,0.05,Credit Card
+ORD-10824,22-Aug-25,C0252,Laptop,Electronics,Kolkata,EAST,1,42999,0.0,UPI
+ORD-10825,2025-08-23,C0137,Mixer Grinder,Home & Kitchen,Bengaluru ,South,1,3299,0.15,UPI
+ORD-10826,2025-08-24,C0146,Sofa Set,Furniture,Mumbai,West,1,,0.2,upi
+ORD-10827,2025-08-24,C0147,wireless earbuds,Electronics,Chennai,South,1,2499,0.0,Credit Card
+ORD-10828,24-Aug-25,C0259,Basmati Rice 5kg,Groceries,Bhopal ,,4,649,0.0,Net Banking
+ORD-10829,25-Aug-25,C0297,Men's Jacket ,Clothing,Chennai, South ,1,2799,0.2,UPI
+ORD-10830,25-Aug-25,C0051,Tea Pack ,GROCERIES,Mumbai,west,5,450,0.0,Cash
+ORD-10831,25/08/2025,C0099,wireless earbuds,ELECTRONICS,Kolkata,East,2,2499,0.0,Net Banking
+ORD-10832,25/08/2025,C0347,Dry Fruits Box,groceries,Indore,central,1,1199,0.05,Net Banking
+ORD-10833,2025-08-25,C0289,Dry Fruits Box,Groceries,Bengaluru,,2,1199,0.0,UPI
+ORD-10834,2025-08-25,C0259,tea pack,GROCERIES,Ahmedabad,WEST,4,450,0.0,upi
+ORD-10835,"Aug 26, 2025",C0011,Tea Pack,GROCERIES,Chennai,South,4,,0.05,Card
+ORD-10836,26/08/2025,C0027,Water Purifier,home & kitchen,Jaipur,North,1,8999,0.0,Net Banking
+ORD-10837,"Aug 26, 2025",C0276,Smartphone,Electronics,Ahmedabad,West,1,14999,0.0,Cash
+ORD-10838,26/08/2025,C0153,Sports Shoes,Clothing,Bhopal,Central,1,2299,10%,Cash
+ORD-10839,2025-08-26,C0068,Tea Pack,Groceries,Patna,East,1,450,0.0,UPI
+ORD-10840,2025-08-26,C0099,Cooking Oil 5L,groceries,Bengaluru,South,1,899,0.0,UPI
+ORD-10841,26/08/2025,C0285,Office Chair,Furniture,Chennai,South,1,5499,0.15,Card
+ORD-10842,"Aug 26, 2025",C0177,Men's Jacket,Clothing,jaipur,north,2,2799,0.3,Net Banking
+ORD-10843,2025-08-26,C0154,Smart Watch,Electronics,Mumbai,West,1,4999,0.0,UPI
+ORD-10844,27/08/2025,C0026,Sports Shoes ,Clothing,Bhopal,central,2,"₹2,299",0.3,upi
+ORD-10845,2025-08-27,C0191,Basmati Rice 5kg,Groceries,Mumbai,,1,649,0.0,cash
+ORD-10846,2025-08-27,C0117,Sports Shoes,Clothing,Ahmedabad,West,3,2299,20%,UPI
+ORD-10847,"Aug 27, 2025",C0152,Dry Fruits Box,groceries,Kolkata ,East,3,1199,0.05,UPI
+ORD-10848,27/08/2025,C0134,Water Purifier,Home & Kitchen,Ahmedabad,West,1,8999,0.0,UPI
+ORD-10849,"Aug 27, 2025",C0206,Air Fryer,Home & Kitchen,Ahmedabad,West,2,5999,0.05,Card
+ORD-10850,29-Aug-25,C0168,Bluetooth Speaker,Electronics,Patna,EAST,1,1999,0.1,Card
+ORD-10851,2025-08-29,,Bluetooth Speaker,ELECTRONICS,Chennai,South,1,1999,0.05,Credit Card
+ORD-10852,29-Aug-25,C0344,Women's Kurta,Clothing,Bhopal,Central,2,1199,0.2,Cash
+ORD-10853,"Aug 29, 2025",C0062,Tea Pack ,Groceries ,AHMEDABAD,West,3,450,0.0,UPI
+ORD-10854,"Aug 29, 2025",C0289,Dry Fruits Box,Groceries,Chennai,South,4,1199,0.05,Card
+ORD-10855,29-Aug-25,C0012,Women's Kurta,Clothing,Ahmedabad,West,3,1199,0.1,Net Banking
+ORD-10856,30/08/2025,C0142,Basmati Rice 5kg,Groceries,Mumbai,West,4,649,0.05,Cash
+ORD-10857,"Aug 30, 2025",C0339,Bookshelf,Furniture,Jaipur,North,1,3799,0.1,Cash
+ORD-10858,30/08/2025,C0213,Wireless Earbuds,Electronics,Indore,Central,1,2499,0.0,upi
+ORD-10859,2025-08-31,C0074,Denim Jeans,Clothing,Jaipur,,3,1599,10%,Cash
+ORD-10860,01-Sep-25,C0162,Wireless Earbuds,Electronics ,Chennai,South,1,2499,0.0,Net Banking
+ORD-10861,2025-09-01,C0157,Power Bank,electronics,Bengaluru,South,1,1299,0.1,upi
+ORD-10862,"Sep 01, 2025",C0304,Dry Fruits Box,Groceries,Jaipur,North,4,1199,0.05,Cash
+ORD-10863,2025-09-01,C0016,Denim Jeans,Clothing ,Ahmedabad,West,1,1599,0.3,UPI
+ORD-10427,2025-05-06,C0001,Tea Pack,Groceries,bengaluru,South,3,450,0.05,upi
+ORD-10864,02-Sep-25,C0038,Tea Pack,Groceries,mumbai, West ,3,450,0.0,upi
+ORD-10865,02-Sep-25,C0287,Power Bank,electronics,Ahmedabad,west,1,1299,0.0,Card
+ORD-10866,"Sep 02, 2025",C0188,Power Bank,Electronics,Chennai,South,1,1299,0.0,Card
+ORD-10867,03/09/2025,C0273,Wireless Earbuds,Electronics,Chennai,south,1,2499,0.1,Cash
+ORD-10868,03-Sep-25,C0179,Office Chair,Furniture,Mumbai,WEST,2,5499,0.1,Cash
+ORD-10869,"Sep 03, 2025",C0204,Water Purifier,Home & Kitchen,Chennai,SOUTH,2,8999,0.0,Card
+ORD-10870,03/09/2025,C0098,Dry Fruits Box,Groceries,Chennai,South,3,1199,0.0,UPI
+ORD-10871,03/09/2025,C0081,Basmati Rice 5kg,Groceries,Bhopal,Central,2,649,0.0,UPI
+ORD-10872,03-Sep-25,C0238,Tea Pack,Groceries,Bengaluru, South ,5,450,0.0,Credit Card
+ORD-10873,03/09/2025,C0054,Smart Watch,electronics,kolkata,East,1,"₹4,999",0.0,Credit Card
+ORD-10874,04-Sep-25,C0304,Sofa Set,Furniture,Mumbai,West,1,18999,0.2,Cash
+ORD-10875,2025-09-04,C0188,Water Purifier ,Home & Kitchen,Delhi,North,1,8999,10%,Card
+ORD-10876,04/09/2025,C0293,Men's Jacket,Clothing,Ahmedabad,West,3,2799,0.2,Net Banking
+ORD-10877,2025-09-04,C0339,Dry Fruits Box,Groceries,Jaipur,North,3,1199,0.0,UPI
+ORD-10878,04-Sep-25,C0197,Tea Pack,Groceries ,MUMBAI,West,1,450,0.0,UPI
+ORD-10879,04/09/2025,C0230,Cooking Oil 5L ,groceries,Indore,Central,2,899,0.0,UPI
+ORD-10880,04-Sep-25,C0315,Denim Jeans,Clothing,Chennai,South,3,1599,0.1,UPI
+ORD-10881,"Sep 05, 2025",C0193,Cookware Set,Home & Kitchen,Ahmedabad,West,1,2699,0.05,Card
+ORD-10882,05/09/2025,C0057,Wireless Earbuds,ELECTRONICS,bhopal,Central,1,2499,0.05,UPI
+ORD-10883,05-Sep-25,C0321,Men's Jacket,Clothing,Delhi,North,2,"₹2,799",0.3,upi
+ORD-10884,05-Sep-25,C0276,Cookware Set,Home & Kitchen,Bhopal,CENTRAL,1,2699,0.0,upi
+ORD-10885,05-Sep-25,C0317,Power Bank,Electronics,ahmedabad,,2,1299,0.0,UPI
+ORD-10886,05-Sep-25,C0005,Mixer Grinder,Home & Kitchen,Indore,Central,2,3299,0.1,UPI
+ORD-10887,06-Sep-25,C0053,Sofa Set,Furniture,patna, East ,1,18999,0.1,Cash
+ORD-10888,"Sep 06, 2025",C0019,Office Chair,Furniture,Patna,East,1,5499,20%,Net Banking
+ORD-10889,"Sep 06, 2025",C0319,Women's Kurta,Clothing,Patna, East ,2,1199,0.3,UPI
+ORD-10060,21/01/2025,C0083,Basmati Rice 5kg,Groceries,Mumbai,W,2,649,0.0,Card
+ORD-10890,06/09/2025,C0325,Power Bank ,Electronics,Bhopal,Central,1,1299,0.0,Card
+ORD-10891,06-Sep-25,C0149,Wireless Earbuds,Electronics,Indore,Central,1,2499,0.0,Card
+ORD-10892,07-Sep-25,C0273,Bluetooth Speaker,Electronics,ahmedabad,,1,1999,0.1,cash
+ORD-10893,07/09/2025,C0013,Power Bank,Electronics,ahmedabad,West,1,1299,0.05,cash
+ORD-10894,07/09/2025,C0142,Study Table,Furniture,ahmedabad,WEST,1,4299,0.1,Card
+ORD-10895,"Sep 07, 2025",C0031,Dry Fruits Box,Groceries,Jaipur,North,3,"₹1,199",0.0,Net Banking
+ORD-10896,"Sep 08, 2025",C0342,Bluetooth Speaker,Electronics,Delhi, North ,1,1999,0.0,Cash
+ORD-10897,"Sep 08, 2025",C0041,Tea Pack,Groceries,Jaipur,North,5,450,0.05,UPI
+ORD-10898,08-Sep-25,C0223,Tea Pack,Groceries,Chennai,South,2,450,0.05,NetBanking
+ORD-10899,09-Sep-25,C0142,Basmati Rice 5kg,Groceries ,Delhi ,N,1,649,0.0,upi
+ORD-10900,09/09/2025,C0143,air fryer,Home & Kitchen,Bengaluru,South,1,5999,0.0,Card
+ORD-10901,2025-09-09,C0325,Cookware Set,Home & Kitchen,ahmedabad,West,1,2699,5%,Cash
+ORD-10902,09/09/2025,C0228,Men's Jacket,Clothing,delhi,North,3,2799,0.2,UPI
+ORD-10903,2025-09-09,C0206,Cooking Oil 5L,Groceries,Indore,C,3,899,0.05,Cash
+ORD-10904,"Sep 09, 2025",C0261,Power Bank,Electronics,Delhi,North,1,1299,0.0,UPI
+ORD-10905,09-Sep-25,C0326,Men's Jacket,Clothing,Jaipur, North ,2,2799,0.2,NetBanking
+ORD-10906,10/09/2025,C0107,Dry Fruits Box,Groceries,Indore ,Central,3,1199,0.05,Credit Card
+ORD-10907,10-Sep-25,C0326,Dry Fruits Box,Groceries,JAIPUR,North,4,1199,0.0,Card
+ORD-10908,10/09/2025,C0344,Tea Pack,Groceries,Ahmedabad,West,5,450,0.05,UPI
+ORD-10909,10-Sep-25,C0202,Wireless Earbuds,Electronics,CHENNAI,South,1,2499,0.0,Card
+ORD-10910,2025-09-11,C0330,Sports Shoes,CLOTHING,Bangalore,South,3,2299,0.2,Card
+ORD-10911,11/09/2025,C0300,Smartphone,Electronics,BENGALURU,SOUTH,1,14999,0.05,upi
+ORD-10912,11/09/2025,,Dry Fruits Box,groceries,Mumbai,West,2,1199,0.0,UPI
+ORD-10913,11-Sep-25,C0225,Basmati Rice 5kg,groceries,delhi,NORTH,1,649,5%,Net Banking
+ORD-10914,"Sep 11, 2025",C0216,Dry Fruits Box,Groceries,AHMEDABAD,West,3,1199,5%,UPI
+ORD-10915,12/09/2025,C0057,cooking oil 5l,Groceries,Indore,Central,5,₹899,0.05,UPI
+ORD-10916,2025-09-12,C0315,Cooking Oil 5L,Groceries,Bengaluru,SOUTH,2,899,5%,Card
+ORD-10917,2025-09-12,C0074,Power Bank ,Electronics,Patna,East,1,1299,0.05,UPI
+ORD-10918,12-Sep-25,C0069,Dry Fruits Box,groceries,Ahmedabad,W,1,1199,0.0,Cash
+ORD-10919,"Sep 12, 2025",C0258,basmati rice 5kg,groceries,Jaipur,North,2,649,0.0,Card
+ORD-10920,12/09/2025,C0099,Men's Jacket,Clothing,Delhi,north,,2799,0.1,UPI
+ORD-10921,2025-09-13,C0242,Dry Fruits Box,Groceries,Bhopal,Central,1,1199,0.0,UPI
+ORD-10922,2025-09-13,C0294,Women's Kurta,Clothing,Mumbai,West,1,1199,0.2,UPI
+ORD-10923,13/09/2025,C0192,Basmati Rice 5kg,Groceries,Jaipur,North,1,₹649,0.0,UPI
+ORD-10924,13/09/2025,C0213,Office Chair,FURNITURE,Patna,east,2,5499,0.2,UPI
+ORD-10925,14-Sep-25,C0103,Denim Jeans,clothing,Indore,Central,3,1599,0.3,Card
+ORD-10926,14-Sep-25,C0121,wireless earbuds,Electronics,Bengaluru,South,1,2499,5%,UPI
+ORD-10927,14/09/2025,C0074,Tea Pack,groceries,Mumbai,West,5,450,0.0,UPI
+ORD-10928,"Sep 14, 2025",C0122,Power Bank,ELECTRONICS,Jaipur ,North,2,1299,0.0,UPI
+ORD-10929,14-Sep-25,C0327,tea pack,Groceries,Mumbai,West,3,450,0.0,UPI
+ORD-10930,2025-09-14,,Power Bank,Electronics,MUMBAI,West,1,1299,0.1,UPI
+ORD-10931,14-Sep-25,C0167,Women's Kurta,Clothing,Patna,east,1,1199,0.2,UPI
+ORD-10932,15/09/2025,C0316,Study Table,Furniture,Mumbai,West,2,4299,0.2,Net Banking
+ORD-10933,"Sep 15, 2025",C0138,bluetooth speaker,Electronics,Patna,EAST,1,"₹1,999",0.0,Card
+ORD-10934,2025-09-15,C0108,Wireless Earbuds,Electronics,jaipur,,1,2499,0%,Card
+ORD-10935,"Sep 15, 2025",C0166,bluetooth speaker,Electronics,Ahmedabad,West,2,1999,0.05,Cash
+ORD-10403,"Apr 28, 2025",C0149,Denim Jeans,Clothing,Chennai,South,3,1599,0.2,Card
+ORD-10936,"Sep 15, 2025",C0023,Tea Pack ,Groceries,Patna, East ,3,450,0%,Cash
+ORD-10937,"Sep 16, 2025",C0329,Power Bank,Electronics,chennai,South,2,1299,0.0,Card
+ORD-10938,"Sep 16, 2025",C0134,Mixer Grinder,Home & Kitchen,Chennai,South,2,3299,0.0,Card
+ORD-10939,16/09/2025,C0128,Basmati Rice 5kg,Groceries,Bengaluru,south,3,649,0.05,UPI
+ORD-10940,16/09/2025,C0129,Men's Jacket,Clothing,Delhi ,North,1,2799,0.3,Cash
+ORD-10941,"Sep 17, 2025",C0201,Denim Jeans,Clothing,Bhopal,Central,3,1599,0.2,Card
+ORD-10942,17-Sep-25,C0283,Power Bank,Electronics,Ahmedabad,West,1,1299,0.1,Card
+ORD-10943,"Sep 17, 2025",C0191,Air Fryer,Home & Kitchen ,Delhi,,2,5999,0.0,UPI
+ORD-10944,2025-09-17,C0028,Basmati Rice 5kg,Groceries ,Delhi,North,1,649,0.0,Card
+ORD-10945,17-Sep-25,C0023,Air Fryer,Home & Kitchen,indore,C,1,5999,0.05,Card
+ORD-10946,"Sep 18, 2025",C0097,Tea Pack ,Groceries,Ahmedabad,WEST,4,450,0.05,NetBanking
+ORD-10947,2025-09-18,C0186,Water Purifier,Home & Kitchen,Bhopal,Central,1,8999,0.1,NetBanking
+ORD-10948,2025-09-18,C0199,Women's Kurta,CLOTHING,Kolkata,East,1,1199,0.2,UPI
+ORD-10949,2025-09-18,C0247,Smart Watch,Electronics,Chennai,South,1,4999,0.05,UPI
+ORD-10950,2025-09-19,C0169,Bluetooth Speaker,Electronics,Jaipur ,North,,1999,0.0,UPI
+ORD-10951,"Sep 19, 2025",C0202,Basmati Rice 5kg,Groceries ,MUMBAI,west,3,649,0.0,UPI
+ORD-10952,19/09/2025,C0248,Denim Jeans,Clothing,Ahmedabad,West,1,1599,20%,upi
+ORD-10953,2025-09-20,C0076,Denim Jeans,Clothing,Bengaluru,South,3,1599,20%,Card
+ORD-10954,2025-09-20,C0163,Basmati Rice 5kg,Groceries,Ahmedabad,west,2,649,0.0,UPI
+ORD-10955,"Sep 20, 2025",C0007,Cookware Set,Home & Kitchen,Delhi,,2,2699,0.1,Net Banking
+ORD-10956,20/09/2025,C0231,Denim Jeans,Clothing,Delhi,North,1,1599,0.2,UPI
+ORD-10957,2025-09-20,C0338,Denim Jeans ,Clothing,Chennai,South,1,"₹1,599",0.3,Card
+ORD-10958,2025-09-21,C0332,Basmati Rice 5kg,Groceries,Mumbai,West,3,₹649,0.0,UPI
+ORD-10959,"Sep 21, 2025",C0019,Bluetooth Speaker,Electronics,Patna,East,2,1999,0.0,UPI
+ORD-10960,"Sep 22, 2025",C0309,Cooking Oil 5L,Groceries,Indore,C,1,899,0.05,upi
+ORD-10048,"Jan 17, 2025",C0171,Bookshelf,Furniture,Patna,East,1,3799,0.1,UPI
+ORD-10961,22/09/2025,C0069,Dry Fruits Box,Groceries,Jaipur ,N,2,1199,0.0,upi
+ORD-10962,22/09/2025,C0009,Smart Watch,Electronics ,Bhopal, Central ,2,4999,0.05,UPI
+ORD-10963,"Sep 22, 2025",C0184,Study Table,furniture,Delhi,N,2,"₹4,299",0.2,upi
+ORD-10964,23-Sep-25,C0155,Study Table,Furniture,Bengaluru, South ,0,4299,15%,Cash
+ORD-10965,23-Sep-25,C0208,Basmati Rice 5kg,GROCERIES,Chennai ,South,3,649,0.05,UPI
+ORD-10966,23/09/2025,C0148,Bookshelf,Furniture ,Patna,E,1,3799,0.1,Card
+ORD-10967,23-Sep-25,C0166,Mixer Grinder ,HOME & KITCHEN,Delhi,North,1,3299,0.0,Card
+ORD-10968,2025-09-23,C0195,Bluetooth Speaker,ELECTRONICS,Indore,Central,1,1999,0.05,Credit Card
+ORD-10969,2025-09-23,C0313,tea pack,Groceries,Patna,EAST,4,450,0.0,UPI
+ORD-10970,"Sep 23, 2025",C0287,Women's Kurta,Clothing,Kolkata,East,1,1199,0.2,Net Banking
+ORD-10971,23-Sep-25,C0335,Wireless Earbuds,Electronics,Patna,E,2,2499,0.1,Card
+ORD-10972,24/09/2025,C0118,Men's Jacket,clothing,ahmedabad,West,2,2799,0.3,Card
+ORD-10973,"Sep 24, 2025",C0047,Wireless Earbuds,Electronics,Jaipur,north,2,2499,0.0,UPI
+ORD-10974,"Sep 24, 2025",C0170,Cookware Set,Home & Kitchen,Chennai,South,1,2699,10%,UPI
+ORD-10975,"Sep 24, 2025",C0280,Power Bank,Electronics,Delhi,North,2,1299,0.05,UPI
+ORD-10976,24/09/2025,C0094,Wireless Earbuds,Electronics,Kolkata,East,1,"₹2,499",0.1,UPI
+ORD-10977,24/09/2025,C0311,Basmati Rice 5kg,Groceries,Bhopal,Central,1,649,0.0,NetBanking
+ORD-10978,2025-09-25,C0290,Men's Jacket,Clothing,PATNA,EAST,3,2799,0.3,Card
+ORD-10979,2025-09-25,C0344,Power Bank,Electronics,Indore,Central,,1299,0.0,Card
+ORD-10980,25/09/2025,C0234,Tea Pack,Groceries ,Ahmedabad,West,3,450,0.0,UPI
+ORD-10981,"Sep 26, 2025",C0252,Cooking Oil 5L,Groceries,Jaipur,North,4,899,0.0,cash
+ORD-10982,"Sep 26, 2025",C0118,Bluetooth Speaker,Electronics,Bengaluru,South,2,1999,0.1,UPI
+ORD-10983,"Sep 26, 2025",C0348,Denim Jeans,CLOTHING,Delhi,north,2,1599,0.2,UPI
+ORD-10984,26/09/2025,C0208,Bookshelf,Furniture,Delhi,North,1,3799,0.15,UPI
+ORD-10985,"Sep 26, 2025",C0212,Basmati Rice 5kg,groceries,Jaipur,North,4,649,0.0,UPI
+ORD-10986,"Sep 26, 2025",C0189,Basmati Rice 5kg,Groceries,chennai,S,2,649,0.0,UPI
+ORD-10792,15/08/2025,C0076,Denim Jeans,CLOTHING,Delhi,North,1,1599,0.2,UPI
+ORD-10987,"Sep 26, 2025",C0129,Tea Pack,Groceries,Bhopal,,5,450,0.0,upi
+ORD-10988,26/09/2025,C0298,Sofa Set,Furniture,Mumbai,West,1,18999,0.2,Cash
+ORD-10989,2025-09-26,C0157,Women's Kurta,Clothing,Bengaluru,south,1,1199,0.1,Credit Card
+ORD-10990,"Sep 27, 2025",C0099,Smart Watch,ELECTRONICS,Delhi,North,1,4999,0%,UPI
+ORD-10991,"Sep 27, 2025",C0316,Air Fryer,Home & Kitchen,Indore, Central ,1,5999,0.05,UPI
+ORD-10992,"Sep 28, 2025",C0177,Office Chair,Furniture ,Chennai,South,2,5499,20%,UPI
+ORD-10993,"Sep 28, 2025",C0031,Smart Watch,Electronics,Patna,East,2,4999,0.05,Card
+ORD-10994,"Sep 28, 2025",C0330,Study Table,Furniture,Bengaluru,South,1,4299,0.15,UPI
+ORD-10995,28-Sep-25,C0187,Basmati Rice 5kg,Groceries ,Kolkata,East,2,649,0.0,UPI
+ORD-10996,"Sep 28, 2025",C0090,Tea Pack,Groceries ,delhi,North,2,450,0.0,upi
+ORD-10997,"Sep 30, 2025",C0141,Denim Jeans,Clothing,Delhi,North,3,1599,0.3,upi
+ORD-10998,"Sep 30, 2025",C0311,Smart Watch,Electronics,Mumbai,West,1,4999,0.1,Net Banking
+ORD-10999,01/10/2025,C0338,Tea Pack,GROCERIES,Ahmedabad,West,2,450,0%,Credit Card
+ORD-11000,01-Oct-25,C0222,Air Fryer,Home & Kitchen,Mumbai, West ,2,5999,0.1,Net Banking
+ORD-11001,"Oct 01, 2025",C0334,Denim Jeans,Clothing ,Delhi, North ,1,,0.2,Cash
+ORD-11002,"Oct 01, 2025",C0156,Smartphone,ELECTRONICS,Chennai ,South,1,14999,0.1,Card
+ORD-11003,01-Oct-25,C0230,Dry Fruits Box,Groceries,Delhi,North,5,1199,0.0,Card
+ORD-11004,01/10/2025,C0241,Tea Pack,Groceries,Chennai,south,4,450,0%,Card
+ORD-11005,2025-10-01,C0172,Wireless Earbuds,Electronics,Chennai, South ,2,2499,0.05,UPI
+ORD-11006,"Oct 01, 2025",C0286,Sofa Set,Furniture,mumbai,West,1,18999,0.15,Card
+ORD-11007,02/10/2025,C0046,Air Fryer ,Home & Kitchen,Delhi,N,2,5999,0.05,Card
+ORD-11008,02/10/2025,C0284,cooking oil 5l,Groceries,Indore,C,2,899,0.0,NetBanking
+ORD-11009,"Oct 02, 2025",C0031,cookware set,Home & Kitchen,Bhopal,Central,1,2699,0.1,UPI
+ORD-11010,02/10/2025,C0026,Power Bank,Electronics,Ahmedabad,West,1,1299,0.05,Credit Card
+ORD-11011,02-Oct-25,C0327,Bookshelf,Furniture,Ahmedabad,West,2,3799,0.2,Cash
+ORD-11012,02/10/2025,C0212,Dry Fruits Box,Groceries,Delhi, North ,2,1199,0.0,UPI
+ORD-11013,02-Oct-25,C0206,Sports Shoes,Clothing ,Delhi,North,1,2299,0.1,UPI
+ORD-11014,2025-10-03,C0123,Smartphone,Electronics,Bhopal ,central,1,14999,0.05,upi
+ORD-11015,03/10/2025,C0134,Basmati Rice 5kg,Groceries,KOLKATA,,3,649,0.0,Net Banking
+ORD-11016,03-Oct-25,C0086,Denim Jeans,Clothing,Ahmedabad,West,3,1599,0.2,Card
+ORD-10242,17-Mar-25,C0204,Cookware Set,Home & Kitchen,Patna,East,1,2699,0.0,UPI
+ORD-10807,18-Aug-25,C0163,Denim Jeans,Clothing,Jaipur,North,3,1599,0.3,Card
+ORD-11017,03/10/2025,C0248,Bluetooth Speaker,Electronics,Delhi,North,1,1999,0.05,Card
+ORD-11018,03/10/2025,C0148,Power Bank,Electronics,Bhopal,Central,2,1299,0.05,UPI
+ORD-11019,"Oct 03, 2025",C0323,Tea Pack,Groceries,Chennai,South,4,450,0.0,Card
+ORD-11020,2025-10-03,C0040,Study Table,Furniture,Jaipur,NORTH,2,4299,0.2,Card
+ORD-11021,"Oct 03, 2025",C0077,Office Chair,Furniture,Kolkata,East,1,5499,0.1,Credit Card
+ORD-11022,"Oct 04, 2025",C0317,Tea Pack ,Groceries,Jaipur,North,5,450,0.0,UPI
+ORD-11023,"Oct 04, 2025",C0225,Power Bank,Electronics,Jaipur,North,1,"₹1,299",0.0,Card
+ORD-11024,"Oct 04, 2025",C0262,Basmati Rice 5kg,GROCERIES,delhi, North ,3,649,0.0,upi
+ORD-11025,04-Oct-25,C0053,Cookware Set,Home & Kitchen,Mumbai,W,2,2699,0.05,UPI
+ORD-11026,04-Oct-25,,Power Bank ,Electronics,Mumbai ,West,2,1299,0.0,Credit Card
+ORD-11027,04-Oct-25,C0110,Power Bank,electronics,Bengaluru,south,1,1299,0.1,Cash
+ORD-11028,04/10/2025,C0081,Bookshelf ,Furniture,Bengaluru,South,1,3799,15%,Net Banking
+ORD-11029,04-Oct-25,C0137,Wireless Earbuds,Electronics,Jaipur,north,1,2499,5%,UPI
+ORD-11030,05/10/2025,C0225,Sports Shoes,Clothing ,Bengaluru,South,3,2299,0.1,Cash
+ORD-11031,05/10/2025,C0077,Women's Kurta,Clothing,PATNA,east,2,1199,0.2,Cash
+ORD-10564,10-Jun-25,C0245,Basmati Rice 5kg,Groceries,Chennai,South,4,649,0%,upi
+ORD-11032,"Oct 05, 2025",C0164,Tea Pack,GROCERIES,Bangalore, South ,3,,0.05,UPI
+ORD-11033,"Oct 05, 2025",C0269,Men's Jacket,Clothing,Bengaluru,South,2,,0.3,UPI
+ORD-11034,05/10/2025,C0197,Basmati Rice 5kg,Groceries,Kolkata,East,1,649,0.0,Cash
+ORD-11035,05-Oct-25,C0112,Power Bank ,Electronics,Chennai,South,2,"₹1,299",0.0,Card
+ORD-11036,"Oct 06, 2025",C0308,Denim Jeans,Clothing,Bengaluru,SOUTH,1,1599,0.2,Card
+ORD-11037,06/10/2025,C0347,Dry Fruits Box,Groceries ,Delhi,north,5,1199,0.05,Card
+ORD-11038,"Oct 06, 2025",C0310,Bookshelf,Furniture,Patna,East,1,"₹3,799",0.2,UPI
+ORD-11039,"Oct 06, 2025",C0065,Tea Pack,Groceries,Ahmedabad,West,1,450,0.05,UPI
+ORD-11040,06/10/2025,C0160,Bookshelf ,Furniture ,Ahmedabad,West,1,3799,0.15,Card
+ORD-11041,07/10/2025,,Smartphone,Electronics ,Chennai,South,1,14999,0.1,UPI
+ORD-11042,"Oct 07, 2025",C0201,Sofa Set,Furniture,bhopal,CENTRAL,1,18999,0.2,UPI
+ORD-11043,2025-10-07,C0225,Women's Kurta,Clothing,Delhi ,north,1,1199,10%,Cash
+ORD-11044,08/10/2025,C0151,Cooking Oil 5L,Groceries,Bengaluru,South,3,899,0.0,UPI
+ORD-11045,08/10/2025,C0108,Power Bank ,Electronics ,PATNA,East,2,1299,0.05,Card
+ORD-11046,08-Oct-25,C0112,Dry Fruits Box,GROCERIES,Mumbai,West,2,1199,0.0,UPI
+ORD-11047,08-Oct-25,C0306,Cooking Oil 5L,Groceries,Jaipur,North,2,899,0.05,UPI
+ORD-11048,08-Oct-25,C0176,Bookshelf,Furniture,jaipur,North,1,3799,0.2,upi
+ORD-11049,09/10/2025,C0256,Tea Pack,Groceries ,KOLKATA,East,4,450,0.0,Card
+ORD-11050,"Oct 09, 2025",C0040,Men's Jacket,clothing,Chennai,South,2,2799,0.2,UPI
+ORD-11051,2025-10-09,C0251,Cooking Oil 5L,Groceries,Kolkata, East ,5,899,0.05,UPI
+ORD-11052,2025-10-09,C0162,Dry Fruits Box,Groceries,Delhi,North,2,1199,0.05,UPI
+ORD-11053,"Oct 10, 2025",C0293,Basmati Rice 5kg,groceries,Bhopal,CENTRAL,2,649,0%,Net Banking
+ORD-11054,"Oct 10, 2025",C0157,Power Bank,ELECTRONICS,Bengaluru,SOUTH,2,1299,0%,UPI
+ORD-11055,10/10/2025,C0159,Laptop,Electronics,Jaipur,North,1,42999,0.05,Net Banking
+ORD-11056,10/10/2025,C0017,Basmati Rice 5kg,GROCERIES,Bhopal,Central,3,649,0.0,UPI
+ORD-11057,10-Oct-25,C0346,Denim Jeans,Clothing,Delhi,NORTH,3,1599,0.3,upi
+ORD-11058,"Oct 10, 2025",C0012,Tea Pack,Groceries,Chennai ,South,2,450,0.0,UPI
+ORD-11059,10/10/2025,C0303,Bluetooth Speaker,Electronics,jaipur,NORTH,1,1999,0.05,Cash
+ORD-11060,2025-10-11,C0243,Wireless Earbuds ,Electronics,Patna, East ,1,2499,0.1,UPI
+ORD-11061,11-Oct-25,C0184,Dry Fruits Box,Groceries,Bhopal,central,5,"₹1,199",0.0,NetBanking
+ORD-11062,"Oct 11, 2025",C0001,Women's Kurta,Clothing,Kolkata,East,2,1199,0.3,Card
+ORD-11063,11/10/2025,C0221,Laptop,Electronics,Ahmedabad,West,1,42999,0.05,Cash
+ORD-11064,2025-10-11,C0118,Power Bank,ELECTRONICS,Mumbai,West,2,1299,0.1,UPI
+ORD-11065,12/10/2025,C0348,Office Chair,Furniture,Indore,Central,2,5499,0.15,UPI
+ORD-11066,12-Oct-25,C0277,Cooking Oil 5L,Groceries,Ahmedabad,West,4,899,0.0,NetBanking
+ORD-11067,2025-10-12,C0206,Power Bank,Electronics,indore,Central,1,1299,0.05,Card
+ORD-11068,"Oct 12, 2025",C0174,Bookshelf,Furniture,jaipur,North,1,3799,0.15,Credit Card
+ORD-11069,12-Oct-25,C0300,Wireless Earbuds,Electronics,Jaipur ,North,1,2499,0.0,Card
+ORD-11070,"Oct 13, 2025",C0194,Tea Pack,Groceries,Ahmedabad,West,4,450,0.0,Credit Card
+ORD-11071,13/10/2025,C0177,Air Fryer,Home & Kitchen,Bengaluru,South,,5999,0.05,Card
+ORD-11072,"Oct 14, 2025",C0244,Water Purifier,Home & Kitchen,Ahmedabad,WEST,2,8999,0.1,UPI
+ORD-11073,"Oct 14, 2025",C0022,Air Fryer ,Home & Kitchen,Chennai,,1,5999,0.0,Card
+ORD-11074,"Oct 14, 2025",C0233,Air Fryer,Home & Kitchen,Chennai,SOUTH,1,5999,0.0,Card
+ORD-11075,2025-10-14,,Wireless Earbuds,Electronics,Ahmedabad,West,2,2499,0.05,Cash
+ORD-11076,"Oct 14, 2025",C0301,Men's Jacket,clothing,Delhi,North,1,2799,0.3,upi
+ORD-11077,14-Oct-25,C0036,Tea Pack,Groceries,Patna,east,4,₹450,0.0,Cash
+ORD-11078,14/10/2025,C0081,Sports Shoes,Clothing,Kolkata, East ,3,2299,0.3,UPI
+ORD-11079,2025-10-15,C0156,Wireless Earbuds,Electronics,Chennai,south,1,2499,0.0,Cash
+ORD-11080,2025-10-15,C0015,Denim Jeans ,Clothing,Jaipur, North ,1,1599,0.3,Card
+ORD-11081,"Oct 15, 2025",C0289,Cookware Set,Home & Kitchen,Mumbai ,WEST,2,2699,0.05,upi
+ORD-11082,"Oct 15, 2025",C0139,Women's Kurta,Clothing,Bengaluru,South,1,1199,20%,Card
+ORD-11083,15-Oct-25,C0350,Tea Pack,Groceries,Delhi, North ,4,450,0.05,Net Banking
+ORD-11084,15-Oct-25,C0002,Tea Pack,Groceries ,Jaipur,North,1,450,0.0,Card
+ORD-11085,15-Oct-25,C0248,Tea Pack,GROCERIES,Bhopal,Central,2,450,0.05,upi
+ORD-11086,2025-10-16,C0289,Bluetooth Speaker ,Electronics ,Jaipur ,North,1,"₹1,999",0.05,Card
+ORD-10251,19-Mar-25,C0030,Power Bank,electronics,Kolkata,EAST,1,1299,0.0,UPI
+ORD-11087,16/10/2025,C0173,Basmati Rice 5kg,Groceries,Ahmedabad, West ,3,649,0.05,Card
+ORD-11088,2025-10-16,C0288,Cookware Set,Home & Kitchen,Kolkata,East,1,2699,10%,Card
+ORD-11089,"Oct 16, 2025",C0276,Women's Kurta,Clothing ,delhi,North,2,1199,0.1,UPI
+ORD-11090,16/10/2025,C0252,Sports Shoes,Clothing,Bhopal,Central,2,2299,20%,Card
+ORD-11091,16/10/2025,C0003,Women's Kurta,Clothing,Delhi, North ,3,1199,0.3,NetBanking
+ORD-11092,16/10/2025,C0141,Women's Kurta ,Clothing,Chennai,South,2,1199,0.2,UPI
+ORD-11093,17/10/2025,C0334,Basmati Rice 5kg,Groceries,Ahmedabad ,West,1,649,0.0,Net Banking
+ORD-11094,17-Oct-25,C0161,cookware set,Home & Kitchen,Delhi,NORTH,1,2699,0.0,UPI
+ORD-11095,17/10/2025,C0206,Study Table,Furniture ,Bengaluru,SOUTH,1,4299,0.15,Net Banking
+ORD-11096,2025-10-17,C0051,basmati rice 5kg,Groceries,Patna,EAST,4,649,0.05,Card
+ORD-11097,2025-10-17,C0204,Women's Kurta,Clothing,Indore,Central,1,1199,0.1,Cash
+ORD-11025,04-Oct-25,C0053,Cookware Set,Home & Kitchen,Mumbai,W,2,2699,0.05,UPI
+ORD-11098,"Oct 17, 2025",C0331,Tea Pack,Groceries,Mumbai,West,3,450,0.0,cash
+ORD-11099,18-Oct-25,C0185,Bluetooth Speaker,ELECTRONICS,bengaluru, South ,1,1999,0.05,Net Banking
+ORD-11100,18/10/2025,C0331,Smart Watch,Electronics ,Chennai,South,,4999,0.0,UPI
+ORD-11101,18/10/2025,C0140,Basmati Rice 5kg,Groceries,Ahmedabad,West,5,649,0.0,Cash
+ORD-11102,2025-10-18,C0038,Office Chair,Furniture,Indore ,C,1,5499,0.2,UPI
+ORD-11103,18-Oct-25,C0028,Study Table,Furniture,Patna,East,1,4299,0.15,Card
+ORD-11104,"Oct 18, 2025",C0123,Water Purifier,home & kitchen,Kolkata,East,1,8999,0.15,Card
+ORD-11105,"Oct 18, 2025",C0019,Office Chair,Furniture,Patna,East,1,5499,0.15,UPI
+ORD-11106,2025-10-19,C0113,Tea Pack,Groceries,Bhopal,central,5,450,0.0,Net Banking
+ORD-11107,19-Oct-25,C0184,Power Bank ,Electronics,Patna,East,1,,0.05,Card
+ORD-11108,"Oct 19, 2025",C0241,Women's Kurta,CLOTHING,Jaipur,North,2,1199,0.3,UPI
+ORD-10182,2025-02-27,C0257,Denim Jeans,Clothing,Kolkata,East,1,1599,0.1,Net Banking
+ORD-11109,19/10/2025,C0092,Smart Watch,electronics,Mumbai,West,1,4999,0.1,Cash
+ORD-11110,2025-10-19,C0157,Men's Jacket,Clothing,Patna,East,1,2799,0.3,Cash
+ORD-10502,26-May-25,C0145,Bookshelf,Furniture,Mumbai,WEST,1,3799,0.1,UPI
+ORD-11111,2025-10-19,,Wireless Earbuds ,Electronics,Jaipur,North,,2499,0.0,UPI
+ORD-11112,"Oct 19, 2025",,Power Bank,Electronics,Mumbai,West,1,1299,0.1,Cash
+ORD-11113,19-Oct-25,C0075,Smart Watch,Electronics,CHENNAI,South,1,4999,0.1,UPI
+ORD-11114,2025-10-19,C0034,Office Chair,Furniture,Kolkata,East,1,5499,0.15,upi
+ORD-11115,"Oct 19, 2025",C0114,Denim Jeans,Clothing ,Kolkata,,2,"₹1,599",0.3,Card
+ORD-11116,"Oct 20, 2025",C0061,Women's Kurta,clothing,Mumbai,west,3,1199,0.2,UPI
+ORD-11117,20/10/2025,C0225,Denim Jeans,Clothing,Mumbai,WEST,1,1599,0.2,upi
+ORD-11118,"Oct 20, 2025",C0008,Tea Pack,GROCERIES,Bhopal,C,3,450,0.05,Card
+ORD-11119,20-Oct-25,C0289,Sports Shoes,Clothing,chennai,South,3,2299,0.3,UPI
+ORD-11120,"Oct 20, 2025",C0242,Tea Pack,Groceries,JAIPUR,N,4,,0.05,Cash
+ORD-11121,2025-10-20,C0338,Cookware Set,Home & Kitchen,Kolkata ,EAST,2,2699,0.1,upi
+ORD-11122,21/10/2025,C0102,Laptop,Electronics ,Mumbai,West,1,42999,0.1,upi
+ORD-11123,21/10/2025,C0213,Denim Jeans,Clothing,Mumbai,West,2,1599,0.2,Cash
+ORD-11124,2025-10-21,C0300,Wireless Earbuds,Electronics,Jaipur,North,1,2499,0%,UPI
+ORD-11125,21/10/2025,C0280,Mixer Grinder,Home & Kitchen,Bengaluru,South,1,3299,0.1,UPI
+ORD-11126,"Oct 21, 2025",C0008,Dry Fruits Box,Groceries,Mumbai ,West,2,1199,0.0,Card
+ORD-11127,2025-10-22,C0305,Bluetooth Speaker,Electronics,Kolkata,East,1,1999,0.0,UPI
+ORD-11128,22/10/2025,C0090,cooking oil 5l,Groceries ,DELHI, North ,3,899,0.0,Card
+ORD-11129,22-Oct-25,C0295,Mixer Grinder,Home & Kitchen,bhopal,Central,1,3299,10%,Card
+ORD-11130,22/10/2025,C0186,Cookware Set,Home & Kitchen,Ahmedabad,WEST,2,2699,0.05,UPI
+ORD-11131,22-Oct-25,C0100,Power Bank,Electronics,Mumbai,West,2,1299,0.05,Card
+ORD-11132,2025-10-22,C0116,power bank,Electronics,Mumbai,WEST,2,1299,0.05,Card
+ORD-11133,"Oct 22, 2025",C0329,Smart Watch,Electronics,Patna,East,1,4999,0.0,Card
+ORD-11134,2025-10-23,C0137,Basmati Rice 5kg ,Groceries,Mumbai,west,2,₹649,0.0,Credit Card
+ORD-11135,"Oct 23, 2025",C0164,Wireless Earbuds,Electronics,Delhi,North,1,2499,0.0,UPI
+ORD-11136,23-Oct-25,C0127,Denim Jeans,Clothing,Chennai,SOUTH,3,1599,0.2,UPI
+ORD-11137,23/10/2025,C0179,Cookware Set,Home & Kitchen,Jaipur,North,1,2699,0.1,Card
+ORD-11138,2025-10-23,C0269,Mixer Grinder ,Home & Kitchen,Ahmedabad,West,1,3299,0.05,upi
+ORD-11139,"Oct 23, 2025",C0152,Power Bank,Electronics,Mumbai,West,,1299,5%,Card
+ORD-11140,23-Oct-25,C0279,wireless earbuds,Electronics,Jaipur,North,2,2499,0.0,Card
+ORD-11141,2025-10-23,C0346,Tea Pack,Groceries ,JAIPUR,North,1,450,0.05,cash
+ORD-11142,24/10/2025,C0272,Denim Jeans,Clothing,Patna,East,,1599,0.3,upi
+ORD-11143,"Oct 24, 2025",C0118,Cooking Oil 5L,Groceries,Jaipur,North,5,899,0.0,upi
+ORD-11144,"Oct 24, 2025",C0114,Tea Pack,Groceries,Indore,central,3,450,0.0,UPI
+ORD-11145,24/10/2025,C0335,Cooking Oil 5L,groceries,Mumbai,WEST,,899,0.0,Credit Card
+ORD-11146,"Oct 24, 2025",C0331,Tea Pack,Groceries,Kolkata,East,1,450,0.05,UPI
+ORD-11147,24/10/2025,C0280,Power Bank,Electronics,Patna,East,1,1299,0.0,Credit Card
+ORD-11148,24/10/2025,C0269,Basmati Rice 5kg,Groceries,Bengaluru,South,5,649,0.0,Card
+ORD-11149,"Oct 24, 2025",C0288,Water Purifier,Home & Kitchen,Ahmedabad,West,1,8999,0.05,Cash
+ORD-11150,24-Oct-25,C0099,Wireless Earbuds,Electronics,Kolkata,East,2,2499,0.0,Card
+ORD-11151,2025-10-24,C0096,Bluetooth Speaker,Electronics,Ahmedabad,West,1,1999,0.0,Card
+ORD-11152,24-Oct-25,C0014,Cookware Set,Home & Kitchen,Mumbai,West,1,,0.05,Net Banking
+ORD-11153,2025-10-25,C0279,Smartphone,Electronics ,Indore,Central,1,14999,0.05,cash
+ORD-11154,"Oct 25, 2025",C0010,Wireless Earbuds,Electronics,MUMBAI,,2,2499,0.0,UPI
+ORD-10988,26/09/2025,C0298,Sofa Set,Furniture,Mumbai,West,1,18999,0.2,Cash
+ORD-11155,2025-10-25,C0267,Bookshelf,Furniture,Bengaluru,South,2,3799,0.1,Credit Card
+ORD-11156,2025-10-26,C0075,Smart Watch,Electronics ,Bengaluru, South ,1,4999,0.1,Card
+ORD-11157,"Oct 26, 2025",C0016,Study Table,Furniture,Jaipur,North,1,4299,0.15,UPI
+ORD-11158,"Oct 26, 2025",C0087,Cooking Oil 5L,Groceries,Mumbai,West,3,899,0.0,Cash
+ORD-11159,"Oct 27, 2025",C0253,Women's Kurta,Clothing,Ahmedabad,West,-1,1199,0.1,Net Banking
+ORD-11160,2025-10-27,C0096,Water Purifier,HOME & KITCHEN,Chennai,South,1,8999,5%,UPI
+ORD-11161,2025-10-28,C0200,Bookshelf,Furniture,Kolkata,East,2,3799,15%,UPI
+ORD-11162,28-Oct-25,C0095,Laptop,Electronics,Ahmedabad ,West,1,42999,0.05,Cash
+ORD-11163,28-Oct-25,C0334,Tea Pack,groceries,Patna,East,4,450,0.0,Net Banking
+ORD-11164,28/10/2025,C0266,Wireless Earbuds,ELECTRONICS,Delhi ,North,2,2499,10%,Card
+ORD-11165,2025-10-28,C0237,Cooking Oil 5L ,groceries,Ahmedabad,West,2,899,0.0,UPI
+ORD-11166,2025-10-28,C0284,Women's Kurta,Clothing,Ahmedabad,west,3,1199,0.2,Net Banking
+ORD-11167,28-Oct-25,C0332,water purifier,Home & Kitchen,Ahmedabad,west,1,8999,0.15,UPI
+ORD-11168,28/10/2025,C0325,Wireless Earbuds,Electronics ,Ahmedabad,WEST,2,2499,0.05,UPI
+ORD-11169,2025-10-29,C0225,Cookware Set,Home & Kitchen,bengaluru,SOUTH,1,2699,0%,Cash
+ORD-11170,29/10/2025,C0172,Study Table,Furniture,Kolkata,EAST,2,4299,0.15,UPI
+ORD-11171,2025-10-29,C0171,Women's Kurta ,Clothing,Ahmedabad,west,3,1199,0.2,Cash
+ORD-11172,29/10/2025,C0250,Office Chair,Furniture,Delhi ,North,2,5499,0.15,upi
+ORD-11173,30-Oct-25,C0230,Men's Jacket ,Clothing,Chennai,south,2,2799,0.3,Net Banking
+ORD-11174,30/10/2025,C0271,Cookware Set,Home & Kitchen ,CHENNAI,SOUTH,1,2699,0.1,UPI
+ORD-11175,2025-10-30,C0333,Dry Fruits Box,Groceries,bhopal,CENTRAL,1,1199,0.0,UPI
+ORD-11176,30/10/2025,C0231,Cooking Oil 5L ,Groceries,Delhi,North,1,899,0.0,Card
+ORD-11177,"Oct 31, 2025",,Bluetooth Speaker,Electronics,Patna,East,1,1999,0.05,UPI
+ORD-11178,31-Oct-25,C0006,bluetooth speaker,Electronics,Jaipur,NORTH,,1999,0.05,Card
+ORD-11179,31/10/2025,C0046,Wireless Earbuds,Electronics ,Chennai,South,2,2499,0.0,UPI
+ORD-11180,"Oct 31, 2025",C0161,Cookware Set,Home & Kitchen,bengaluru,South,1,,0.0,UPI
+ORD-11181,2025-10-31,C0054,Dry Fruits Box,Groceries,Mumbai,West,5,1199,0.0,upi
+ORD-11182,31-Oct-25,C0313,Cooking Oil 5L,Groceries,Indore,CENTRAL,1,899,0.05,Cash
+ORD-11183,"Oct 31, 2025",C0214,Study Table,Furniture,Patna,East,,4299,15%,UPI
+ORD-11184,"Oct 31, 2025",C0249,Study Table,Furniture,kolkata,East,1,4299,0.2,UPI
+ORD-11185,31/10/2025,C0177,Basmati Rice 5kg,groceries,Jaipur,North,5,649,0.0,upi
+ORD-11186,01-Nov-25,C0205,Laptop,Electronics,Bhopal,Central,1,42999,0.0,Card
+ORD-11187,2025-11-01,C0323,Smartphone,ELECTRONICS,mumbai,West,1,14999,0.05,Card
+ORD-11188,01/11/2025,C0078,Mixer Grinder,Home & Kitchen ,Bengaluru,SOUTH,2,3299,0.05,Card
+ORD-11189,2025-11-01,C0249,Basmati Rice 5kg,groceries,delhi,North,5,649,0.0,UPI
+ORD-11190,2025-11-01,,Power Bank,Electronics,mumbai,West,1,1299,0.0,Card
+ORD-11191,01-Nov-25,C0041,Tea Pack,Groceries,Delhi,North,4,450,0.05,Credit Card
+ORD-11192,02-Nov-25,C0198,Basmati Rice 5kg,Groceries,Bengaluru,South,3,649,0.0,UPI
+ORD-11193,02/11/2025,C0086,Dry Fruits Box ,Groceries ,Indore,Central,3,1199,0.0,Card
+ORD-11194,"Nov 02, 2025",C0232,Men's Jacket,Clothing,Delhi,North,2,2799,0.3,UPI
+ORD-11195,2025-11-02,C0346,Cookware Set,HOME & KITCHEN,Chennai,South,1,2699,0%,Card
+ORD-11196,"Nov 03, 2025",C0286,Wireless Earbuds,Electronics,Kolkata ,east,1,2499,0.05,UPI
+ORD-11197,2025-11-03,C0040,Basmati Rice 5kg,Groceries,Chennai,South,5,₹649,5%,NetBanking
+ORD-11198,"Nov 03, 2025",C0209,cooking oil 5l,Groceries,Mumbai,West,4,899,0.0,Card
+ORD-11199,03/11/2025,C0195,Basmati Rice 5kg,Groceries,Jaipur ,North,3,649,0%,Cash
+ORD-11200,2025-11-04,C0347,Tea Pack,Groceries,Mumbai,West,3,450,0.0,Cash
+ORD-11201,2025-11-04,C0108,Tea Pack,groceries,Delhi , North ,2,450,0.05,Card
+ORD-11202,04-Nov-25,C0323,Air Fryer,Home & Kitchen,Jaipur,North,2,5999,0.05,upi
+ORD-11203,2025-11-05,C0187,Sports Shoes,Clothing,Patna ,East,1,2299,0.1,cash
+ORD-11204,05/11/2025,C0017,Basmati Rice 5kg,GROCERIES,Mumbai,West,3,649,0.0,Credit Card
+ORD-11205,"Nov 05, 2025",C0186,Cookware Set,Home & Kitchen,Mumbai,,1,2699,0.05,upi
+ORD-11206,"Nov 05, 2025",C0263,Sports Shoes,Clothing,Jaipur,N,3,2299,0.2,Cash
+ORD-11207,"Nov 05, 2025",C0152,cooking oil 5l,GROCERIES,Ahmedabad,West,2,899,0.0,Card
+ORD-11208,2025-11-05,C0338,Office Chair,Furniture ,Delhi ,North,1,5499,0.15,Card
+ORD-11209,05-Nov-25,C0308,Cooking Oil 5L,Groceries,BENGALURU,South,-1,899,0.05,UPI
+ORD-11210,05-Nov-25,C0044,Basmati Rice 5kg,Groceries,Kolkata,East,5,649,5%,Net Banking
+ORD-11211,05/11/2025,C0227,Tea Pack,Groceries,Mumbai,West,3,450,0.05,UPI
+ORD-11212,06/11/2025,C0280,cookware set,Home & Kitchen,kolkata,East,1,2699,0.1,UPI
+ORD-11213,06/11/2025,C0174,Smart Watch ,Electronics ,Indore,C,1,4999,0.05,Card
+ORD-11214,06-Nov-25,C0214,Basmati Rice 5kg,Groceries,Bengaluru,south,5,649,0.05,Card
+ORD-11215,2025-11-06,C0133,Sofa Set,Furniture,Jaipur,North,1,18999,0.15,UPI
+ORD-11216,06/11/2025,C0151,Denim Jeans,clothing,Delhi,North,3,1599,0.1,Card
+ORD-11217,2025-11-07,,Cooking Oil 5L,Groceries,Mumbai,West,5,899,0.05,Cash
+ORD-11218,07/11/2025,C0229,Tea Pack,Groceries ,Ahmedabad,West,1,450,0.05,Cash
+ORD-11219,07/11/2025,C0240,Study Table ,Furniture,mumbai, West ,1,4299,0.2,Card
+ORD-11220,07-Nov-25,C0056,Power Bank,Electronics,Patna,east,1,1299,5%,UPI
+ORD-11221,08-Nov-25,C0103,Office Chair,Furniture,Mumbai,West,,5499,15%,Credit Card
+ORD-11222,2025-11-08,C0072,Cooking Oil 5L,Groceries,Ahmedabad,West,5,899,0.0,cash
+ORD-11223,"Nov 08, 2025",C0147,Tea Pack,Groceries,Ahmedabad,West,4,450,0.0,UPI
+ORD-11224,08/11/2025,C0245,Basmati Rice 5kg,Groceries,Bengaluru,south,,649,0.0,UPI
+ORD-10426,2025-05-06,C0328,Basmati Rice 5kg,Groceries ,jaipur,North,4,649,0.0,Card
+ORD-11225,08-Nov-25,C0189,Water Purifier,Home & Kitchen,Patna,East,1,8999,0.15,Credit Card
+ORD-11226,2025-11-08,C0013,Cookware Set,HOME & KITCHEN,kolkata,East,1,2699,0.15,UPI
+ORD-11227,09-Nov-25,C0180,Tea Pack,Groceries,Delhi,North,2,450,0.0,UPI
+ORD-11228,2025-11-09,C0232,Tea Pack,GROCERIES,Delhi, North ,1,450,0.05,Card
+ORD-11229,09/11/2025,C0070,Tea Pack,groceries,Delhi,NORTH,1,450,0.05,Cash
+ORD-11230,10-Nov-25,C0228,Women's Kurta,Clothing,Jaipur,North,3,1199,0.1,Credit Card
+ORD-11231,10-Nov-25,C0255,Dry Fruits Box,Groceries,Patna,East,3,1199,0.0,Card
+ORD-11232,10/11/2025,C0318,Denim Jeans,Clothing,Mumbai,West,2,1599,0.2,UPI
+ORD-11233,10/11/2025,,Smart Watch,ELECTRONICS,ahmedabad,west,1,4999,5%,UPI
+ORD-11234,2025-11-11,C0128,Men's Jacket,Clothing,Patna,East,2,2799,0.3,UPI
+ORD-11235,11-Nov-25,C0193,Women's Kurta,Clothing,Mumbai,West,,1199,0.2,Cash
+ORD-11236,"Nov 11, 2025",C0272,Dry Fruits Box,Groceries,Ahmedabad,West,5,1199,0.0,Cash
+ORD-11237,"Nov 12, 2025",C0350,Women's Kurta,Clothing,Mumbai,West,3,1199,0.1,Net Banking
+ORD-11238,12/11/2025,C0272,Study Table,furniture,Chennai, South ,1,4299,0.15,UPI
+ORD-11239,2025-11-12,C0303,Wireless Earbuds,Electronics,Ahmedabad,West,1,2499,0.0,UPI
+ORD-11240,2025-11-12,C0155,Denim Jeans,Clothing,Bhopal,central,3,1599,0.1,UPI
+ORD-11099,18-Oct-25,C0185,Bluetooth Speaker,ELECTRONICS,bengaluru, South ,1,1999,0.05,Net Banking
+ORD-11241,2025-11-12,C0041,Basmati Rice 5kg,Groceries,Mumbai,West,5,649,0.0,upi
+ORD-11242,"Nov 13, 2025",C0044,Women's Kurta,Clothing,Delhi,NORTH,3,1199,0.3,UPI
+ORD-11243,13/11/2025,C0200,Bluetooth Speaker ,Electronics,INDORE,central,1,1999,0.0,UPI
+ORD-11244,2025-11-13,C0233,Study Table,Furniture ,Ahmedabad,West,2,4299,10%,UPI
+ORD-11245,13-Nov-25,C0270,Office Chair,Furniture,Jaipur,North,1,"₹5,499",0.15,UPI
+ORD-11246,13/11/2025,C0019,Basmati Rice 5kg,GROCERIES,Bhopal,Central,4,649,0.05,Card
+ORD-11247,13-Nov-25,C0266,Sports Shoes,Clothing,Kolkata,,2,"₹2,299",0.3,Card
+ORD-11248,2025-11-13,C0092,Air Fryer,Home & Kitchen,Delhi,North,1,5999,0.05,Card
+ORD-11249,14/11/2025,C0047,Power Bank,Electronics,Chennai,South,2,1299,5%,UPI
+ORD-11250,"Nov 14, 2025",C0056,Cookware Set,home & kitchen,Mumbai, West ,1,2699,0.0,UPI
+ORD-11251,14-Nov-25,C0177,Dry Fruits Box,Groceries,Ahmedabad,West,1,1199,0.0,Card
+ORD-11252,"Nov 14, 2025",C0315,Cooking Oil 5L,Groceries,Kolkata,East,1,899,0%,Net Banking
+ORD-11253,14/11/2025,C0107,Cooking Oil 5L,Groceries ,Indore ,CENTRAL,5,899,0.0,Card
+ORD-11254,14-Nov-25,C0313,Bluetooth Speaker,electronics,CHENNAI,South,2,1999,0.05,Net Banking
+ORD-11255,2025-11-14,C0127,Bookshelf,FURNITURE,Bhopal,CENTRAL,1,3799,0.15,UPI
+ORD-11256,14-Nov-25,C0314,Office Chair,Furniture,Mumbai,West,1,5499,0.15,NetBanking
+ORD-11257,2025-11-14,C0186,Denim Jeans ,Clothing,Ahmedabad,West,1,1599,0.2,Card
+ORD-11258,14/11/2025,C0252,Smartphone,Electronics,Indore,central,1,14999,0.05,Cash
+ORD-11259,14/11/2025,C0241,Basmati Rice 5kg,Groceries,Jaipur,North,3,649,0.0,Card
+ORD-11260,15/11/2025,C0074,Basmati Rice 5kg,Groceries,Jaipur, North ,2,649,0.05,Cash
+ORD-11261,"Nov 15, 2025",C0120,Mixer Grinder,Home & Kitchen ,bhopal,Central,2,3299,0.1,Card
+ORD-11262,15/11/2025,C0273,Men's Jacket,Clothing,Chennai,south,2,2799,0.2,UPI
+ORD-11263,15-Nov-25,C0093,Sports Shoes,Clothing,BENGALURU,South,2,2299,0.3,cash
+ORD-11264,15-Nov-25,C0216,Men's Jacket,Clothing,Bhopal,Central,1,2799,0.1,UPI
+ORD-11265,15-Nov-25,,Basmati Rice 5kg ,Groceries,Patna, East ,5,649,0.05,UPI
+ORD-10966,23/09/2025,C0148,Bookshelf,Furniture ,Patna,E,1,3799,0.1,Card
+ORD-11266,16/11/2025,C0338,Cooking Oil 5L ,Groceries,Kolkata,East,4,,0.0,Credit Card
+ORD-11267,"Nov 16, 2025",C0116,Bookshelf,Furniture,Patna ,East,1,3799,0.1,UPI
+ORD-11268,16/11/2025,C0325,Cooking Oil 5L,Groceries,Delhi,North,3,899,0.0,Cash
+ORD-11269,16/11/2025,C0228,Bluetooth Speaker,Electronics,patna,East,2,1999,0.05,Card
+ORD-11176,30/10/2025,C0231,Cooking Oil 5L ,Groceries,Delhi,North,1,899,0.0,Card
+ORD-11270,"Nov 17, 2025",C0166,Air Fryer,Home & Kitchen,Mumbai,West,1,5999,0.0,NetBanking
+ORD-11271,17-Nov-25,C0076,Smartphone,Electronics ,Delhi ,North,1,14999,0.05,Card
+ORD-11272,"Nov 17, 2025",C0336,Bluetooth Speaker,electronics,Bhopal,central,1,1999,0.05,Card
+ORD-11273,17/11/2025,C0017,Wireless Earbuds ,Electronics,BHOPAL,Central,1,2499,0.1,Card
+ORD-11274,2025-11-17,C0350,Water Purifier,Home & Kitchen ,INDORE,Central,1,8999,0.05,Card
+ORD-11275,17/11/2025,C0122,Women's Kurta,Clothing,Jaipur,North,2,1199,0.3,Card
+ORD-11276,18-Nov-25,C0349,men's jacket,Clothing,Bhopal,CENTRAL,3,2799,0.2,Card
+ORD-11277,18-Nov-25,C0142,Tea Pack,Groceries,Bhopal,C,5,450,0.0,Card
+ORD-10868,03-Sep-25,C0179,Office Chair,Furniture,Mumbai,WEST,2,5499,0.1,Cash
+ORD-11278,19/11/2025,C0167,Power Bank ,Electronics ,Ahmedabad,west,1,1299,0.0,UPI
+ORD-11279,19/11/2025,C0253,Cooking Oil 5L ,Groceries,Mumbai , West ,5,899,0.05,Card
+ORD-11280,"Nov 19, 2025",C0152,Smart Watch,Electronics,Chennai,south,1,4999,0.1,upi
+ORD-11281,"Nov 19, 2025",C0033,Cooking Oil 5L,Groceries,Delhi,North,1,899,0%,Card
+ORD-11282,19-Nov-25,C0248,Study Table,Furniture,Kolkata,East,,4299,0.2,upi
+ORD-11283,19-Nov-25,C0224,Mixer Grinder,Home & Kitchen,Mumbai,West,1,3299,0.0,UPI
+ORD-11284,"Nov 20, 2025",C0097,Study Table ,Furniture,Delhi,North,1,4299,0.15,UPI
+ORD-11285,20-Nov-25,C0035,Bookshelf,Furniture,Ahmedabad,West,1,3799,0.2,UPI
+ORD-11286,20/11/2025,C0035,Cooking Oil 5L,groceries,Chennai,south,3,899,0.0,Card
+ORD-11287,2025-11-20,C0323,Women's Kurta,Clothing,Bengaluru,South,2,1199,0.2,Card
+ORD-11288,20-Nov-25,C0106,Cooking Oil 5L,Groceries,Ahmedabad,West,2,899,0.0,Cash
+ORD-11289,"Nov 20, 2025",C0070,Dry Fruits Box,Groceries,Bhopal,CENTRAL,2,1199,0.0,Credit Card
+ORD-11290,20-Nov-25,C0081,Cooking Oil 5L ,groceries,Bangalore,South,1,899,0.0,Card
+ORD-11291,"Nov 21, 2025",C0038,Mixer Grinder,Home & Kitchen,Indore,Central,2,3299,0.05,UPI
+ORD-11292,21/11/2025,C0169,Smart Watch ,Electronics ,bhopal,Central,2,4999,0.05,Net Banking
+ORD-10946,"Sep 18, 2025",C0097,Tea Pack ,Groceries,Ahmedabad,WEST,4,450,0.05,NetBanking
+ORD-11293,21/11/2025,C0116,wireless earbuds,Electronics,Mumbai,west,1,2499,0%,Card
+ORD-11294,21-Nov-25,C0022,Dry Fruits Box,Groceries,Chennai,South,1,1199,0.0,upi
+ORD-11295,"Nov 21, 2025",C0272,Tea Pack,Groceries ,Chennai,South,1,,0.0,Card
+ORD-11296,2025-11-21,C0257,Mixer Grinder,Home & Kitchen,Bengaluru,South,1,3299,0.1,UPI
+ORD-11297,"Nov 21, 2025",C0334,Men's Jacket,Clothing,Indore,,3,2799,0.1,upi
+ORD-11298,21-Nov-25,C0332,Office Chair,FURNITURE,Bengaluru, South ,1,5499,0.15,Card
+ORD-11299,21-Nov-25,C0298,Bluetooth Speaker,Electronics,Jaipur,North,2,1999,0.1,Cash
+ORD-11300,22/11/2025,C0272,water purifier,Home & Kitchen,Indore,Central,1,,10%,UPI
+ORD-11301,22/11/2025,C0069,Power Bank,electronics,Chennai,SOUTH,2,1299,0.0,UPI
+ORD-11302,22/11/2025,C0254,Dry Fruits Box,Groceries,Indore,CENTRAL,2,1199,0.0,UPI
+ORD-11139,"Oct 23, 2025",C0152,Power Bank,Electronics,Mumbai,West,,1299,5%,Card
+ORD-11303,22-Nov-25,C0167,Study Table,Furniture,Bhopal,Central,1,4299,0.2,UPI
+ORD-11304,"Nov 22, 2025",C0262,Sports Shoes,Clothing,Patna,EAST,1,2299,30%,UPI
+ORD-11305,2025-11-22,C0152,Cooking Oil 5L,Groceries,Ahmedabad,West,3,899,0.0,Credit Card
+ORD-11306,"Nov 22, 2025",C0023,Sports Shoes,Clothing,Jaipur,North,2,2299,0.2,Cash
+ORD-11307,"Nov 22, 2025",C0089,Dry Fruits Box,Groceries,Patna, East ,5,"₹1,199",0.0,Card
+ORD-11308,2025-11-22,C0036,Tea Pack,Groceries,Ahmedabad,West,4,450,0.0,UPI
+ORD-11309,23-Nov-25,C0076,Power Bank,Electronics,Chennai,South,0,1299,0.0,Card
+ORD-11310,23-Nov-25,C0209,Basmati Rice 5kg ,Groceries,Mumbai ,West,2,649,0.0,UPI
+ORD-11311,23-Nov-25,C0217,Dry Fruits Box,Groceries,Patna,,5,1199,0%,Cash
+ORD-11312,2025-11-23,C0190,Water Purifier,home & kitchen,Bengaluru,South,2,8999,0.0,Card
+ORD-11313,2025-11-23,C0090,Denim Jeans,Clothing,JAIPUR,North,1,1599,0.2,UPI
+ORD-11314,23-Nov-25,C0189,Sofa Set,Furniture,Bhopal,Central,1,18999,0.2,UPI
+ORD-11315,24-Nov-25,C0121,Water Purifier,Home & Kitchen ,Mumbai,West,1,8999,0.1,UPI
+ORD-11316,2025-11-24,C0141,Women's Kurta,Clothing,Ahmedabad,,3,1199,0.3,Card
+ORD-11317,2025-11-24,C0277,Mixer Grinder,Home & Kitchen,mumbai,West,1,3299,0.05,Card
+ORD-11318,24-Nov-25,C0122,Basmati Rice 5kg,Groceries,Ahmedabad ,West,1,649,0.0,UPI
+ORD-11319,24/11/2025,C0196,Cookware Set,Home & Kitchen,Patna,EAST,2,2699,0.15,UPI
+ORD-11320,2025-11-25,C0154,Bluetooth Speaker,Electronics,Delhi,North,1,1999,0.0,Net Banking
+ORD-11321,25/11/2025,C0328,Office Chair,Furniture,Delhi,North,1,5499,15%,Cash
+ORD-11322,25-Nov-25,C0055,Denim Jeans,Clothing,BHOPAL,Central,,1599,0.2,Net Banking
+ORD-11323,25/11/2025,C0200,Women's Kurta ,Clothing,Ahmedabad,West,2,1199,0.3,Cash
+ORD-11324,2025-11-25,C0105,Power Bank,Electronics,Chennai,South,1,1299,0.05,UPI
+ORD-11325,2025-11-25,C0337,Bookshelf,Furniture,Mumbai,West,1,3799,0.1,UPI
+ORD-11326,25/11/2025,C0080,Bookshelf,Furniture,Bengaluru,South,1,"₹3,799",0.2,UPI
+ORD-11327,25/11/2025,C0023,Power Bank ,electronics,Chennai,South,2,1299,0.05,Card
+ORD-11328,2025-11-26,C0175,Power Bank ,Electronics,Delhi,North,1,1299,5%,upi
+ORD-11329,"Nov 26, 2025",C0296,Mixer Grinder,Home & Kitchen,Patna,East,1,3299,0.05,Cash
+ORD-11330,26-Nov-25,C0207,Dry Fruits Box,Groceries,delhi,North,4,1199,0.0,UPI
+ORD-11331,2025-11-26,C0312,Wireless Earbuds ,Electronics,DELHI,North,1,2499,0.0,Card
+ORD-11332,27/11/2025,C0001,Study Table ,Furniture,Ahmedabad,WEST,2,4299,20%,upi
+ORD-10196,2025-03-02,C0321,Mixer Grinder,Home & Kitchen,Chennai,South,1,3299,5%,UPI
+ORD-11333,"Nov 27, 2025",C0327,Study Table,Furniture,Indore,Central,2,4299,0.2,UPI
+ORD-11334,27/11/2025,C0091,Mixer Grinder,Home & Kitchen,Ahmedabad,W,2,3299,0.1,Credit Card
+ORD-11335,27/11/2025,C0231,Smart Watch,Electronics,Mumbai, West ,1,4999,0.05,Credit Card
+ORD-11336,27-Nov-25,C0027,Women's Kurta,Clothing,Jaipur,,2,1199,20%,Card
+ORD-11337,27-Nov-25,C0049,Basmati Rice 5kg,Groceries,Ahmedabad,,4,649,0.0,upi
+ORD-11338,27-Nov-25,C0252,Men's Jacket,Clothing,Patna, East ,,2799,0.2,Net Banking
+ORD-11339,"Nov 28, 2025",C0277,Sofa Set,Furniture,Indore,Central,1,18999,0.15,cash
+ORD-11340,28-Nov-25,C0320,Women's Kurta,Clothing,Patna, East ,2,1199,20%,UPI
+ORD-11341,2025-11-28,C0220,Tea Pack,Groceries,kolkata, East ,1,450,0.0,Card
+ORD-11342,28-Nov-25,C0095,Bluetooth Speaker,Electronics,Jaipur ,North,1,1999,0.05,UPI
+ORD-11343,28/11/2025,C0058,Tea Pack,Groceries,Indore,Central,4,450,0.05,Cash
+ORD-11344,28-Nov-25,C0309,Cooking Oil 5L,Groceries,Indore,Central,2,899,0.05,Net Banking
+ORD-11345,"Nov 29, 2025",C0180,Cookware Set,Home & Kitchen ,Ahmedabad,West,1,2699,0.1,Card
+ORD-11346,29-Nov-25,C0114,Wireless Earbuds,electronics,Ahmedabad,West,1,2499,0.0,UPI
+ORD-11347,2025-11-29,C0188,Cooking Oil 5L,groceries,ahmedabad,,3,899,0.05,UPI
+ORD-11348,2025-11-29,C0267,Women's Kurta,Clothing,Bhopal,Central,2,1199,0.3,NetBanking
+ORD-11349,"Nov 29, 2025",C0121,Basmati Rice 5kg,Groceries,Delhi,NORTH,2,649,0.05,Card
+ORD-11350,30/11/2025,C0312,Smartphone,ELECTRONICS,Bengaluru,South,1,14999,0.1,Card
+ORD-11351,"Nov 30, 2025",C0243,Wireless Earbuds,Electronics,Chennai ,south,1,2499,0.0,UPI
+ORD-11352,"Nov 30, 2025",C0244,Basmati Rice 5kg,GROCERIES,Ahmedabad,West,2,649,0.05,Card
+ORD-11353,30-Nov-25,C0244,Denim Jeans,clothing,INDORE,Central,2,1599,20%,Card
+ORD-11354,30/11/2025,,Tea Pack,GROCERIES,Mumbai,West,2,450,0.0,Card
+ORD-11355,01-Dec-25,C0266,Denim Jeans,Clothing ,Bengaluru,South,2,1599,0.2,UPI
+ORD-11356,01/12/2025,C0013,Dry Fruits Box,Groceries,ahmedabad,west,4,1199,0.0,Cash
+ORD-11357,01/12/2025,C0208,Cooking Oil 5L,Groceries,Ahmedabad ,West,4,899,5%,UPI
+ORD-10341,2025-04-12,C0177,Smart Watch,Electronics,Jaipur,North,2,4999,0.05,Net Banking
+ORD-11257,2025-11-14,C0186,Denim Jeans ,Clothing,Ahmedabad,West,1,1599,0.2,Card
+ORD-11358,"Dec 02, 2025",C0311,Air Fryer,Home & Kitchen,Patna ,East,1,5999,0.15,UPI
+ORD-11359,2025-12-02,C0021,Water Purifier,Home & Kitchen,delhi,North,2,8999,0.05,Card
+ORD-11360,"Dec 02, 2025",C0034,Dry Fruits Box,Groceries,Mumbai,West,4,1199,0.0,Cash
+ORD-11361,2025-12-03,C0105,Basmati Rice 5kg,Groceries,Jaipur,north,1,649,0.0,Net Banking
+ORD-10121,"Feb 08, 2025",C0210,Basmati Rice 5kg,Groceries,Bengaluru,South,,649,0.0,Cash
+ORD-10971,23-Sep-25,C0335,Wireless Earbuds,Electronics,Patna,E,2,2499,0.1,Card
+ORD-11362,03-Dec-25,C0255,Tea Pack,Groceries,bhopal,Central,5,450,0%,Net Banking
+ORD-11363,03-Dec-25,C0236,Cooking Oil 5L,Groceries,Chennai, South ,1,899,0.0,Net Banking
+ORD-11364,2025-12-03,C0049,Smartphone,Electronics,Kolkata,,1,14999,0.0,Card
+ORD-11365,03-Dec-25,C0175,Cooking Oil 5L,Groceries,Indore,Central,4,899,0.0,upi
+ORD-11366,2025-12-03,C0141,Basmati Rice 5kg ,Groceries,Mumbai,West,2,649,0.0,UPI
+ORD-11367,03-Dec-25,C0307,Wireless Earbuds,electronics,Mumbai,West,2,2499,0%,Card
+ORD-11368,"Dec 03, 2025",C0140,Men's Jacket,Clothing ,Indore ,Central,2,2799,20%,UPI
+ORD-11369,04-Dec-25,C0174,Bluetooth Speaker,Electronics,bhopal, Central ,1,1999,0.05,Card
+ORD-11370,"Dec 04, 2025",C0144,Wireless Earbuds,ELECTRONICS,bengaluru,South,2,2499,0.05,Cash
+ORD-11371,"Dec 04, 2025",C0339,Sofa Set,Furniture ,delhi,North,1,18999,0.1,upi
+ORD-11372,05/12/2025,C0103,Study Table,Furniture,Chennai,South,1,4299,0.15,Card
+ORD-11373,2025-12-05,C0047,Men's Jacket,Clothing,Bhopal,CENTRAL,2,2799,0.1,upi
+ORD-11374,2025-12-05,C0276,Power Bank,Electronics,Bengaluru,South,1,1299,0.1,UPI
+ORD-11375,05-Dec-25,C0278,Bookshelf,Furniture,Mumbai,West,1,3799,0.15,UPI
+ORD-11376,"Dec 05, 2025",C0025,Power Bank,Electronics,Jaipur,NORTH,1,1299,10%,upi
+ORD-11377,2025-12-06,C0002,Basmati Rice 5kg,Groceries,Mumbai,,2,649,0.05,Credit Card
+ORD-10778,12/08/2025,C0072,Study Table,Furniture,Mumbai,west,1,4299,0.2,UPI
+ORD-11378,06-Dec-25,C0208,Study Table,Furniture,patna,East,1,"₹4,299",0.2,NetBanking
+ORD-11379,06/12/2025,C0096,Wireless Earbuds,Electronics,delhi, North ,2,2499,0.05,Card
+ORD-11380,07-Dec-25,C0323,Sports Shoes,CLOTHING,Delhi ,North,1,2299,0.2,Card
+ORD-11381,2025-12-07,C0275,Basmati Rice 5kg,Groceries,Chennai,South,1,649,5%,UPI
+ORD-10040,13/01/2025,C0291,Study Table ,Furniture,Bhopal,Central,1,4299,0.1,Cash
+ORD-11382,07/12/2025,C0063,Sofa Set,Furniture,Delhi,north,1,18999,0.15,Card
+ORD-11383,2025-12-08,C0213,Cooking Oil 5L,Groceries,Indore,central,5,899,0.05,Card
+ORD-11384,08-Dec-25,C0261,Tea Pack,Groceries,Chennai,South,2,450,0.0,UPI
+ORD-11385,08/12/2025,C0301,Sports Shoes,Clothing,Ahmedabad ,WEST,2,2299,20%,cash
+ORD-11386,08/12/2025,C0135,Power Bank,Electronics,Indore,Central,1,1299,0.0,Net Banking
+ORD-11387,08/12/2025,C0002,Mixer Grinder,Home & Kitchen,Indore,Central,2,3299,0.0,UPI
+ORD-11388,08-Dec-25,C0267,Smartphone,Electronics ,ahmedabad,West,1,14999,0.1,UPI
+ORD-11389,08-Dec-25,C0325,Wireless Earbuds,ELECTRONICS,Jaipur,North,1,2499,0.0,UPI
+ORD-11390,08-Dec-25,C0243,power bank,Electronics,Bhopal,Central,2,1299,0.05,Card
+ORD-11391,09-Dec-25,C0317,Bluetooth Speaker,electronics,Indore,central,1,1999,0.0,UPI
+ORD-11392,09-Dec-25,C0327,Basmati Rice 5kg,Groceries,Patna,East,4,649,0.0,Card
+ORD-11393,2025-12-09,C0077,Wireless Earbuds,Electronics,Jaipur,North,1,2499,0.1,Card
+ORD-11394,10/12/2025,C0185,Smart Watch,electronics,Bengaluru,South,1,4999,0.0,UPI
+ORD-11395,"Dec 10, 2025",C0041,Bookshelf,Furniture,Delhi ,North,1,3799,0.1,UPI
+ORD-11396,10/12/2025,C0050,Water Purifier,Home & Kitchen,Indore,,1,8999,0.05,UPI
+ORD-11019,"Oct 03, 2025",C0323,Tea Pack,Groceries,Chennai,South,4,450,0.0,Card
+ORD-11397,10/12/2025,C0158,Cooking Oil 5L,Groceries,Bengaluru, South ,4,899,0.05,Cash
+ORD-11398,"Dec 10, 2025",C0243,Denim Jeans,Clothing,Chennai , South ,1,"₹1,599",0.3,UPI
+ORD-11399,"Dec 10, 2025",C0263,Smart Watch,Electronics,Indore , Central ,,4999,0.0,UPI
+ORD-11400,2025-12-11,C0344,Dry Fruits Box,Groceries,Delhi,North,4,1199,0%,Cash
+ORD-11401,11-Dec-25,C0078,Sports Shoes ,CLOTHING,Patna,EAST,3,2299,0.1,UPI
+ORD-11402,2025-12-11,C0164,Basmati Rice 5kg,GROCERIES,Delhi,North,4,649,0.05,UPI
+ORD-11403,2025-12-11,C0210,Smart Watch,Electronics,Bengaluru,South,2,4999,0.05,UPI
+ORD-11404,"Dec 11, 2025",C0286,Laptop,Electronics,Chennai,S,1,42999,0.05,upi
+ORD-11405,11-Dec-25,C0196,Denim Jeans ,Clothing,AHMEDABAD,West,3,1599,0.1,Card
+ORD-11406,"Dec 11, 2025",C0245,Men's Jacket,Clothing,Bengaluru,South,1,2799,0.1,UPI
+ORD-11407,"Dec 11, 2025",C0151,Men's Jacket,Clothing,Chennai,South,2,2799,0.3,UPI
+ORD-11408,"Dec 12, 2025",C0280,Mixer Grinder,Home & Kitchen ,Bhopal,Central,1,3299,0.1,Cash
+ORD-11409,"Dec 12, 2025",C0145,Study Table,furniture,Patna,East,1,4299,0.2,Cash
+ORD-11410,12/12/2025,C0100,Cookware Set,Home & Kitchen,Bhopal,,1,2699,0.0,Credit Card
+ORD-11411,2025-12-12,C0145,Basmati Rice 5kg,Groceries,Delhi,North,5,649,0.05,UPI
+ORD-11412,12-Dec-25,C0122,Men's Jacket,Clothing,Ahmedabad,West,3,2799,30%,Cash
+ORD-11413,12-Dec-25,C0052,Denim Jeans,Clothing,Bengaluru,South,3,1599,0.2,UPI
+ORD-11414,13/12/2025,C0316,Cooking Oil 5L,Groceries,Ahmedabad,W,3,899,0.0,UPI
+ORD-11415,13-Dec-25,C0344,Cooking Oil 5L,Groceries,JAIPUR,North,4,₹899,0.0,UPI
+ORD-11416,"Dec 13, 2025",C0320,Men's Jacket,clothing,Chennai,South,1,2799,0.2,UPI
+ORD-11417,13/12/2025,C0235,Laptop,Electronics,Bengaluru,South,1,42999,0.05,UPI
+ORD-11418,13/12/2025,C0320,Air Fryer,Home & Kitchen,Delhi,North,1,5999,0%,Cash
+ORD-11419,"Dec 13, 2025",C0181,sports shoes,CLOTHING,Delhi,North,1,2299,0.2,UPI
+ORD-11420,13/12/2025,C0268,Sofa Set,Furniture,Kolkata,E,1,18999,0.1,Cash
+ORD-11421,14/12/2025,C0212,Dry Fruits Box ,groceries,Ahmedabad, West ,1,1199,0.0,UPI
+ORD-11422,2025-12-14,C0065,Denim Jeans,clothing,bengaluru, South ,1,1599,0.3,Card
+ORD-11423,14-Dec-25,C0349,Bluetooth Speaker,Electronics,Chennai,South,2,1999,0.0,upi
+ORD-11424,2025-12-14,C0179,Sports Shoes,Clothing,Indore,,1,2299,0.3,Net Banking
+ORD-11425,2025-12-15,C0252,Basmati Rice 5kg,Groceries,Jaipur,North,3,649,5%,UPI
+ORD-11426,15-Dec-25,C0087,Tea Pack,Groceries ,Indore,Central,5,450,0%,Card
+ORD-11427,"Dec 15, 2025",C0110,Sports Shoes,Clothing,Chennai,South,2,2299,0.1,UPI
+ORD-11428,"Dec 16, 2025",C0316,Men's Jacket,CLOTHING,Bengaluru,South,3,2799,0.2,UPI
+ORD-11429,16/12/2025,C0010,Bookshelf,Furniture,Bengaluru,South,1,3799,0.15,UPI
+ORD-11430,"Dec 16, 2025",,Tea Pack,Groceries,Jaipur,North,2,450,0.0,UPI
+ORD-11431,"Dec 16, 2025",C0252,Sports Shoes ,Clothing,Jaipur, North ,1,2299,0.1,UPI
+ORD-11432,16-Dec-25,C0265,Smart Watch,Electronics,Patna,East,2,4999,0.1,Cash
+ORD-11433,"Dec 16, 2025",C0293,Sports Shoes,Clothing,Indore,Central,2,2299,0.2,UPI
+ORD-11434,17-Dec-25,C0280,Dry Fruits Box,Groceries,Mumbai,West,2,1199,0.05,UPI
+ORD-11435,"Dec 17, 2025",C0175,Power Bank,Electronics,Delhi,North,2,1299,0.05,UPI
+ORD-11436,18-Dec-25,C0259,Sports Shoes,Clothing,Jaipur,North,2,2299,0.2,UPI
+ORD-11437,2025-12-18,C0266,Sports Shoes,Clothing,jaipur,NORTH,2,2299,0.1,UPI
+ORD-11438,2025-12-18,C0072,Cookware Set,Home & Kitchen,Kolkata,East,1,2699,0.05,UPI
+ORD-11439,2025-12-19,C0044,Women's Kurta,Clothing ,Jaipur,North,1,1199,0.2,Credit Card
+ORD-11440,"Dec 19, 2025",C0075,Basmati Rice 5kg,Groceries ,Chennai,South,1,₹649,0.05,UPI
+ORD-11441,"Dec 19, 2025",C0159,Basmati Rice 5kg,Groceries,Jaipur,North,5,649,0.0,Card
+ORD-11442,2025-12-19,C0173,Cooking Oil 5L,Groceries,Mumbai,west,4,899,0.0,UPI
+ORD-11443,19-Dec-25,C0269,Women's Kurta ,Clothing,Indore,Central,1,1199,0.2,Net Banking
+ORD-11444,19-Dec-25,C0325,Women's Kurta,Clothing ,Jaipur,NORTH,1,1199,0.1,Net Banking
+ORD-11445,"Dec 19, 2025",C0207,Mixer Grinder,Home & Kitchen,Mumbai ,West,2,3299,0.15,Cash
+ORD-11446,2025-12-20,C0096,basmati rice 5kg,Groceries,Delhi,North,5,649,0.0,Card
+ORD-11447,2025-12-20,C0341,Bluetooth Speaker,Electronics,JAIPUR,North,1,1999,0.0,UPI
+ORD-11448,20/12/2025,C0261,Denim Jeans,Clothing,bhopal,Central,3,1599,0.2,Card
+ORD-11449,2025-12-20,C0221,Power Bank,Electronics,Mumbai, West ,1,1299,0.0,UPI
+ORD-11450,21-Dec-25,C0035,Basmati Rice 5kg,Groceries,Delhi,North,3,649,0.0,UPI
+ORD-11451,"Dec 21, 2025",C0142,men's jacket,Clothing ,Kolkata,,1,2799,0.1,Cash
+ORD-11452,21/12/2025,C0324,Sports Shoes,Clothing,Kolkata,East,3,2299,0.1,Net Banking
+ORD-11453,"Dec 21, 2025",C0240,Tea Pack ,Groceries,Bhopal,Central,2,450,0.05,UPI
+ORD-11416,"Dec 13, 2025",C0320,Men's Jacket,clothing,Chennai,South,1,2799,0.2,UPI
+ORD-11454,22/12/2025,C0349,Mixer Grinder,Home & Kitchen,Bengaluru,South,1,3299,0.0,Net Banking
+ORD-11455,22-Dec-25,C0121,Cooking Oil 5L,GROCERIES,Mumbai,West,1,899,0.05,Card
+ORD-11344,28-Nov-25,C0309,Cooking Oil 5L,Groceries,Indore,Central,2,899,0.05,Net Banking
+ORD-11456,"Dec 22, 2025",C0282,Tea Pack ,Groceries,Chennai,South,4,450,0.05,UPI
+ORD-11457,22-Dec-25,C0319,Women's Kurta,Clothing,Delhi,North,3,,0.2,Card
+ORD-11135,"Oct 23, 2025",C0164,Wireless Earbuds,Electronics,Delhi,North,1,2499,0.0,UPI
+ORD-11458,2025-12-23,C0085,Men's Jacket,clothing,Mumbai,West,2,2799,0.3,Credit Card
+ORD-11459,23-Dec-25,C0301,Women's Kurta,Clothing,Chennai,South,1,1199,0.1,UPI
+ORD-11460,23/12/2025,C0274,Cooking Oil 5L ,Groceries ,Indore,Central,5,899,0.0,Card
+ORD-11461,23/12/2025,C0164,tea pack,GROCERIES,Delhi,North,5,450,0%,Card
+ORD-11462,23/12/2025,C0311,Basmati Rice 5kg,groceries,Patna,East,3,649,0.0,UPI
+ORD-11463,2025-12-24,C0031,Air Fryer,Home & Kitchen,Jaipur,North,1,5999,0.0,UPI
+ORD-11464,"Dec 24, 2025",C0039,Smart Watch,Electronics,Delhi,North,2,"₹4,999",0.05,Net Banking
+ORD-11465,24/12/2025,C0164,Sofa Set,Furniture,MUMBAI,West,1,18999,0.15,UPI
+ORD-11466,24/12/2025,C0125,Cookware Set,Home & Kitchen,Bengaluru,South,1,2699,0.1,NetBanking
+ORD-11467,24-Dec-25,C0102,Tea Pack,groceries,Mumbai,West,1,450,0.0,UPI
+ORD-11468,25-Dec-25,C0227,Mixer Grinder,Home & Kitchen,Kolkata ,East,2,3299,0.0,Card
+ORD-11469,25/12/2025,C0199,Air Fryer,Home & Kitchen,mumbai,West,2,5999,0.0,Cash
+ORD-11458,2025-12-23,C0085,Men's Jacket,clothing,Mumbai,West,2,2799,0.3,Credit Card
+ORD-11470,25/12/2025,C0219,Dry Fruits Box,Groceries ,Patna,east,4,"₹1,199",0.05,Cash
+ORD-11471,25-Dec-25,C0218,Dry Fruits Box ,Groceries,Delhi,North,4,1199,0%,UPI
+ORD-11472,25-Dec-25,C0290,Bluetooth Speaker,Electronics,Mumbai,west,1,1999,0.0,Net Banking
+ORD-11473,"Dec 25, 2025",C0321,Power Bank,Electronics,Mumbai ,West,2,1299,0.1,upi
+ORD-11474,"Dec 25, 2025",C0273,Power Bank,Electronics,Kolkata,East,2,1299,0.0,UPI
+ORD-11475,"Dec 25, 2025",C0262,Dry Fruits Box,groceries,Jaipur,North,3,1199,0.0,Card
+ORD-11476,25-Dec-25,C0242,Office Chair,Furniture,Patna,East,2,5499,0.1,UPI
+ORD-11056,10/10/2025,C0017,Basmati Rice 5kg,GROCERIES,Bhopal,Central,3,649,0.0,UPI
+ORD-11477,"Dec 26, 2025",C0235,Women's Kurta,Clothing,Delhi ,North,2,1199,0.1,Credit Card
+ORD-11380,07-Dec-25,C0323,Sports Shoes,CLOTHING,Delhi ,North,1,2299,0.2,Card
+ORD-11478,26-Dec-25,C0235,Air Fryer,Home & Kitchen,Mumbai, West ,1,5999,0.1,UPI
+ORD-11479,26-Dec-25,C0214,Cooking Oil 5L,Groceries,Indore,Central,4,899,0.0,cash
+ORD-11480,27-Dec-25,C0218,Denim Jeans,clothing,Jaipur,North,1,1599,0.1,Cash
+ORD-11481,2025-12-27,C0303,air fryer,Home & Kitchen ,MUMBAI,West,1,"₹5,999",0.1,upi
+ORD-11482,"Dec 27, 2025",C0026,Office Chair ,Furniture,ahmedabad,West,1,"₹5,499",0.1,Net Banking
+ORD-11483,27/12/2025,C0101,Cookware Set,Home & Kitchen,Ahmedabad,west,1,2699,0.0,UPI
+ORD-11484,2025-12-27,C0128,Women's Kurta,clothing,Kolkata, East ,1,1199,30%,UPI
+ORD-11485,27/12/2025,C0210,Men's Jacket,Clothing,Chennai,SOUTH,1,2799,0.2,UPI
+ORD-11486,28/12/2025,C0237,Dry Fruits Box,groceries,Patna,EAST,1,1199,0%,upi
+ORD-11487,2025-12-28,C0140,Mixer Grinder,Home & Kitchen,Ahmedabad,,2,3299,0.15,UPI
+ORD-11488,2025-12-28,C0255,Power Bank,Electronics,Patna,,1,1299,0.0,Card
+ORD-11489,28-Dec-25,C0304,Cookware Set,Home & Kitchen ,INDORE,Central,1,2699,0.0,Cash
+ORD-11490,28/12/2025,C0122,Study Table,Furniture ,DELHI,North,1,4299,0.1,Card
+ORD-11491,28-Dec-25,C0168,Dry Fruits Box,Groceries,Patna,E,4,1199,5%,UPI
+ORD-11492,29/12/2025,C0316,Basmati Rice 5kg,groceries,Mumbai ,WEST,2,649,0.0,Cash
+ORD-11493,29/12/2025,C0252,Water Purifier,Home & Kitchen,Jaipur, North ,2,8999,0.0,Card
+ORD-11494,"Dec 30, 2025",C0215,Basmati Rice 5kg,Groceries,Bengaluru,South,5,₹649,0.0,UPI
+ORD-11495,30/12/2025,C0349,Tea Pack,Groceries,Jaipur,North,3,450,0.0,UPI
+ORD-11496,"Dec 30, 2025",C0102,Mixer Grinder,Home & Kitchen,Ahmedabad,West,1,3299,0.15,UPI
+ORD-11423,14-Dec-25,C0349,Bluetooth Speaker,Electronics,Chennai,South,2,1999,0.0,upi
+ORD-11497,"Dec 30, 2025",C0210,Basmati Rice 5kg,Groceries,Bhopal,Central,1,649,0.05,Cash
+ORD-11498,31-Dec-25,C0318,Cookware Set,Home & Kitchen ,Delhi ,North,1,2699,0.0,UPI
+ORD-11499,31/12/2025,C0218,Mixer Grinder,Home & Kitchen,Bhopal,central,2,3299,0.0,Card
+ORD-11499,31/12/2025,C0218,Mixer Grinder,Home & Kitchen,Bhopal,central,2,3299,0.0,Card
+ORD-11500,31/12/2025,C0025,Dry Fruits Box,Groceries,Delhi,North,2,1199,0%,UPI

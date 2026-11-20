@@ -1,0 +1,23 @@
+product_id,product_name,category,list_price
+P01,Bluetooth Speaker,Electronics,1999
+P02,Wireless Earbuds,Electronics,2499
+P03,Smart Watch,Electronics,4999
+P04,Smartphone,Electronics,14999
+P05,Laptop,Electronics,42999
+P06,Power Bank,Electronics,1299
+P07,Office Chair,Furniture,5499
+P08,Study Table,Furniture,4299
+P09,Bookshelf,Furniture,3799
+P10,Sofa Set,Furniture,18999
+P11,Men's Jacket,Clothing,2799
+P12,Women's Kurta,Clothing,1199
+P13,Denim Jeans,Clothing,1599
+P14,Sports Shoes,Clothing,2299
+P15,Mixer Grinder,Home & Kitchen,3299
+P16,Air Fryer,Home & Kitchen,5999
+P17,Cookware Set,Home & Kitchen,2699
+P18,Water Purifier,Home & Kitchen,8999
+P19,Basmati Rice 5kg,Groceries,649
+P20,Cooking Oil 5L,Groceries,899
+P21,Tea Pack,Groceries,450
+P22,Dry Fruits Box,Groceries,1199
